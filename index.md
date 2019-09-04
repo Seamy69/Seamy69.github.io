@@ -8,7 +8,7 @@
 <th>head3</th>
 <th>head4</th>
 <th>head5</th>
-</tr>
+
 </thead>
 <tbody>
 <tr>
