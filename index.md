@@ -402,13 +402,12 @@
 	  <div class="container">
 		<div class="row">
 		  <div class="col l6 s12">
-			<h5 class="white-text">Other Sites</h5>
-			<p class="grey-text text-lighten-4">MainPage: <a class="white-text" target="_blank" href="http://kittyrawr.com/"><b>kittyrawr.com</b></a><br>
-			Lillys Twitter: <a class="white-text" target="_blank" href="https://twitter.com/RealKittyRawr"><b>RealKittyRawr</b></a><br>
-			Lillys Twitch: <a class="white-text" target="_blank" href="https://www.twitch.tv/kittyrawr"><b>kittyrawr</b></a><br>
-			Lillys Instagram: <a class="white-text" target="_blank" href="https://www.instagram.com/realkittyrawr/"><b>realkittyrawr</b></a><br>
-			Lillys Youtube: <a class="white-text" target="_blank" href="https://www.youtube.com/c/kittyrawr69/"><b>kittyrawr69</b></a><br><br>
-			My Twitter: <a class="white-text" target="_blank" href="https://twitter.com/Q_w_er"><b>Q_w_er</b></a><br><br>
+			<h5 class="black-text">Channels this bot is active in:</h5>
+			<p class="grey-text text-lighten-4">MainPage: <a class="black-text" target="_blank" href="http://kittyrawr.com/"><b>kittyrawr.com</b></a><br>
+			Lillys Twitter: <a class="black-text" target="_blank" href="https://twitter.com/RealKittyRawr"><b>RealKittyRawr</b></a><br>
+			Lillys Twitch: <a class="black-text" target="_blank" href="https://www.twitch.tv/kittyrawr"><b>kittyrawr</b></a><br>
+			Lillys Instagram: <a class="black-text" target="_blank" href="https://www.instagram.com/realkittyrawr/"><b>realkittyrawr</b></a><br>
+			Lillys Youtube: <a class="black-text" target="_blank" href="https://www.youtube.com/c/kittyrawr69/"><b>kittyrawr69</b></a><br><br>
 			</p>
 		  </div>
 		</div>
