@@ -403,7 +403,7 @@
 		<div class="row">
 		  <div class="col l6 s12">
 			<h5 class="black-text">Channels this bot is active in:</h5>
-			SpaceCandi: <a class="black-text" target="_blank" href="https://www.twitch.tv/spacecandi"><b>SpaceCandi</b></a><br>
+			SpaceCandi: <a href="https://www.twitch.tv/spacecandi"><b>SpaceCandi</b></a><br>
 			</p>
 		  </div>
 		</div>
