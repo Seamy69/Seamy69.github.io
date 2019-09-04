@@ -403,11 +403,7 @@
 		<div class="row">
 		  <div class="col l6 s12">
 			<h5 class="black-text">Channels this bot is active in:</h5>
-			<p class="grey-text text-lighten-4">MainPage: <a class="black-text" target="_blank" href="http://kittyrawr.com/"><b>kittyrawr.com</b></a><br>
-			Lillys Twitter: <a class="black-text" target="_blank" href="https://twitter.com/RealKittyRawr"><b>RealKittyRawr</b></a><br>
-			Lillys Twitch: <a class="black-text" target="_blank" href="https://www.twitch.tv/kittyrawr"><b>kittyrawr</b></a><br>
-			Lillys Instagram: <a class="black-text" target="_blank" href="https://www.instagram.com/realkittyrawr/"><b>realkittyrawr</b></a><br>
-			Lillys Youtube: <a class="black-text" target="_blank" href="https://www.youtube.com/c/kittyrawr69/"><b>kittyrawr69</b></a><br><br>
+			SpaceCandi: <a class="black-text" target="_blank" href="https://www.twitch.tv/spacecandi"><b>SpaceCandi</b></a><br>
 			</p>
 		  </div>
 		</div>
