@@ -36,3 +36,36 @@
 </tbody>
 </tr>
 </table>
+
+table.darkTable {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-color: #000000;
+  width: 100%;
+  height: 200%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.darkTable td, table.darkTable th {
+  border: 0px solid #FFFFFF;
+  padding: 7px 5px;
+}
+table.darkTable tbody td {
+  font-size: 12px;
+  color: #CCCCCC;
+}
+table.darkTable tr:nth-child(even) {
+  background: #323232;
+}
+table.darkTable thead {
+  background: #000000;
+  border-bottom: 2px solid #FFFFFF;
+}
+table.darkTable thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #CCCCCC;
+  text-align: center;
+}
+table.darkTable tfoot td {
+  font-size: 12px;
+}
