@@ -10,46 +10,10 @@
 
 <link rel="stylesheet" href="./KatKrewBot\CSS\default.css">
 <link rel="stylesheet" href="./KatKrewBot\CSS\rest.css" media="screen, projection">
-
-<style>
-	.tabs a.make-kinda-visible {
-		color: #fff;
-		background-color: #1e2125;
-	}
-
-	.tabs a.make-kinda-visible:hover {
-		color: #eee;
-	}
-
-	.tabs a.make-kinda-visible.active {
-		background-color: #111315;
-	}
-</style>
-
-<script>
-    function toggleTable(table,e) {
-	
-	var lMenu = document.getElementById(e);
-	document.getElementById("MENU1").className = "make-kinda-visible";
-	document.getElementById("MENU2").className = "make-kinda-visible";
-	document.getElementById("MENU3").className = "make-kinda-visible";
-	
-	lMenu.className = "make-kinda-visible active";
-	
-    var lTable = document.getElementById(table);
-	document.getElementById("CMD_EVERYONE").style.display = "none";
-	document.getElementById("CMD_COMMANDER").style.display = "none";
-	document.getElementById("CMD_ADMIN").style.display = "none";
-	
-    lTable.style.display = (lTable.style.display == "inline-block") ? "none" : "inline-block";
-	}
-</script>
    
 </head>
 
 <body>
-
-<div class="container"><br><br><center><img class="responsive-img" src="./KatKrewBot/img/catbox.png"></center><br></div>
 
 <div class="row">
 <div class="col s8 offset-s2">
