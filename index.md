@@ -3,11 +3,11 @@
 <table class="darkTable">
 <thead>
 <tr>
-<th>head1</th>
-<th>head2</th>
-<th>head3</th>
-<th>head4</th>
-<th>head5</th>
+<th>User level</th>
+<th>Command</th>
+<th>Parameters</th>
+<th>Notes</th>
+<th>Example</th>
 </tr>
 </thead>
 <tbody>
