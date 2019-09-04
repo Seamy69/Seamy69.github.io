@@ -10,6 +10,7 @@
 <th>Example</th>
 </tr>
 </thead>
+  
 <tbody>
 <tr>
 <td>cell1_1</td><td>cell2_1</td><td>cell3_1</td><td>cell4_1</td><td>cell5_1</td></tr>
