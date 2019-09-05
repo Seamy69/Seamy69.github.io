@@ -17,11 +17,11 @@
 <tr>
 <td>Everyone</td><td>!twitter</td><td></td><td></td><td>!twitter</td></tr>
 <tr>
-<td>Everyone</td><td>!youtube</td><td>cell3_4</td><td>Alias: !yt</td><td>!youtube</td></tr>
+<td>Everyone</td><td>!youtube</td><td></td><td>Alias: !yt</td><td>!youtube</td></tr>
 <tr>
-<td>Everyone</td><td>cell2_5</td><td>cell3_5</td><td>cell4_5</td><td>cell5_5</td></tr>
+<td>Everyone</td><td>!socials</td><td>Links to Twitter and Instagram.</td><td>Alias: !social</td><td>!socials</td></tr>
 <tr>
-<td>Everyone</td><td>cell2_6</td><td>cell3_6</td><td>cell4_6</td><td>cell5_6</td></tr>
+<td>Everyone</td><td>!links</td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>Alias: !sites, !media</td><td>!socials</td></tr>
 <tr>
 <td>Everyone</td><td>cell2_7</td><td>cell3_7</td><td>cell4_7</td><td>cell5_7</td></tr>
 <tr>
