@@ -97,11 +97,11 @@
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
-<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm<hr>!uptime set 400pm<hr>!uptime set 16:00</td></tr>
+<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/remove/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm<hr>!uptime set 400pm<hr>!uptime set 16:00</td></tr>
 <tr>
 <td>Everyone</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td></td><td>Returns the death counter for the game currently being played.</td><td>!d</td></tr>
 <tr>
-<td>Moderator</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d, d[+/-], [+/-]d</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/remove/unset</td><td>Allows several means of manipulating the active death counter.</td><td>!deaths add<hr>!dc remove<hr>!d set 69<hr>d+</td></tr>
+<td>Moderator</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d, d[+/-], [+/-]d</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active death counter.</td><td>!deaths add<hr>!dc remove<hr>!d set 69<hr>d+</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
