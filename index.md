@@ -21,9 +21,9 @@
 <tr>
 <td>Everyone</td><td>!youtube</td><td>!yt</td><td></td><td></td><td>!youtube</td></tr>
 <tr>
-<td>Everyone</td><td>!socials</td>td>!social</td><td>Links to Twitter and Instagram.</td><td></td><td>!socials</td></tr>
+<td>Everyone</td><td>!socials</td><td>!social</td><td></td><td>Links to Twitter and Instagram.</td><td>!socials</td></tr>
 <tr>
-<td>Moderator</td><td>!links</td><td>!sites, !media</td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td></td><td>!socials</td></tr>
+<td>Moderator</td><td>!links</td><td>!sites, !media</td><td></td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>!socials</td></tr>
 <tr>
 <td>Everyone</td><td>!steam</td><td></td><td></td><td></td><td>!steam</td></tr>
 <tr>
