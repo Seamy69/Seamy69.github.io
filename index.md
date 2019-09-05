@@ -8,12 +8,13 @@
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
+<th>Aliases</th>
   
 <tbody>
 <tr>
 <td>Everyone</td><td>!discord</td><td></td><td>Alias: !disc</td><td>!discord</td></tr>
 <tr>
-<td>Everyone</td><td>!instagram</td><td></td><td>Aliases: !insta, !ig</td><td>!instagram</td></tr>
+<td>Everyone</td><td>!instagram</td><td></td><td></td><td>!instagram</td><td>!insta, !ig</td></tr>
 <tr>
 <td>Everyone</td><td>!twitter</td><td></td><td></td><td>!twitter</td></tr>
 <tr>
@@ -21,11 +22,11 @@
 <tr>
 <td>Everyone</td><td>!socials</td><td>Links to Twitter and Instagram.</td><td>Alias: !social</td><td>!socials</td></tr>
 <tr>
-<td>Everyone</td><td>!links</td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>Alias: !sites, !media</td><td>!socials</td></tr>
+<td>Moderator</td><td>!links</td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>Alias: !sites, !media</td><td>!socials</td></tr>
 <tr>
-<td>Everyone</td><td>cell2_7</td><td>cell3_7</td><td>cell4_7</td><td>cell5_7</td></tr>
+<td>Everyone</td><td>!steam</td><td></td><td></td><td>!steam</td></tr>
 <tr>
-<td>Everyone</td><td>cell2_8</td><td>cell3_8</td><td>cell4_8</td><td>cell5_8</td></tr>
+<td>Everyone</td><td>!amazon</td><td></td><td>Links to Amazon wishlist.</td><td>cell5_8</td></tr>
 <tr>
 <td>Everyone</td><td>cell2_9</td><td>cell3_9</td><td>cell4_9</td><td>cell5_9</td></tr>
 <tr>
