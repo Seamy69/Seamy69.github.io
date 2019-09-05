@@ -36,39 +36,45 @@
 <td>Everyone</td><td>!tip</td><td>!donate</td><td></td><td>Links to Streamlabs tipping service.</td><td>!tip</td></tr>
 <tr>
 <td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store.</s> Currently unavailable.</td><td>!merch</td></tr>
+<tr>
 <td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Lists PC components.</s> Outdated.</td><td>!specs</td></tr>
+<tr>
 <td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone.</td><td>!mic</td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+
 
 
 </tbody>
