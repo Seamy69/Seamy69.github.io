@@ -108,9 +108,9 @@
 <tr>
 <td>Everyone</td><td>!counter</td><td>!count</td><td></td><td>Returns the current count of a generic counter in progress.</td><td>!count</td></tr>
 <tr>
-<td rowspan="3">Moderator</td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
+<td rowspan="3">Moderator</td><td rowspan="3">!counter</td><td>!count</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2"><br>[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
 <tr>
 </tr>
 <tr>
