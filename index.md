@@ -81,7 +81,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollower</td><td>![latest/newest/recent][1-5]follow[s/er/ers], !l[1-5]f, !latest[1-5], !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!lf<hr>!l3f<hr>!recents<hr>newestfollow<hr>!latest4follows</td></tr>
+<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5 or null][follow[s/er/ers or null]], !l[1-5 or null]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!l4f<hr>!lf<hr>!lf<hr>!recents<hr></td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -89,9 +89,9 @@
 <tr>
 <td>Everyone</td><td>!viewers</td><td>!view[er]count, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
 <tr>
-<td>Everyone</td><td>!accountage</td><td>!created, !joined, !aa</td><td>[username]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
+<td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[username]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !follow[ing/ed], !since, !hl</td><td>[username]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow[ing/ed], !since</td><td>[username]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
