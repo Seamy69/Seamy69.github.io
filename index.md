@@ -5,28 +5,29 @@
 <tr>
 <th>User level</th>
 <th>Command</th>
+<th>Aliases</th>
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
-<th>Aliases</th>
+
   
 <tbody>
 <tr>
-<td>Everyone</td><td>!discord</td><td></td><td>Alias: !disc</td><td>!discord</td></tr>
+<td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td></td><td>!discord</td></tr>
 <tr>
-<td>Everyone</td><td>!instagram</td><td></td><td></td><td>!instagram</td><td>!insta, !ig</td></tr>
+<td>Everyone</td><td>!instagram</td><td>!insta, !ig</td><td></td><td></td><td>!instagram</td></tr>
 <tr>
-<td>Everyone</td><td>!twitter</td><td></td><td></td><td>!twitter</td></tr>
+<td>Everyone</td><td>!twitter</td><td></td><td></td><td></td><td>!twitter</td></tr>
 <tr>
-<td>Everyone</td><td>!youtube</td><td></td><td>Alias: !yt</td><td>!youtube</td></tr>
+<td>Everyone</td><td>!youtube</td><td>!yt</td><td></td><td></td><td>!youtube</td></tr>
 <tr>
-<td>Everyone</td><td>!socials</td><td>Links to Twitter and Instagram.</td><td>Alias: !social</td><td>!socials</td></tr>
+<td>Everyone</td><td>!socials</td>td>!social</td><td>Links to Twitter and Instagram.</td><td></td><td>!socials</td></tr>
 <tr>
-<td>Moderator</td><td>!links</td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>Alias: !sites, !media</td><td>!socials</td></tr>
+<td>Moderator</td><td>!links</td><td>!sites, !media</td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td></td><td>!socials</td></tr>
 <tr>
-<td>Everyone</td><td>!steam</td><td></td><td></td><td>!steam</td></tr>
+<td>Everyone</td><td>!steam</td><td></td><td></td><td></td><td>!steam</td></tr>
 <tr>
-<td>Everyone</td><td>!amazon</td><td></td><td>Links to Amazon wishlist.</td><td>cell5_8</td></tr>
+<td>Everyone</td><td>!amazon</td><td>!wishlist, !wl</td><td></td><td>Links to Amazon wishlist.</td><td></td></tr>
 <tr>
 <td>Everyone</td><td>cell2_9</td><td>cell3_9</td><td>cell4_9</td><td>cell5_9</td></tr>
 <tr>
