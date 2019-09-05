@@ -9,6 +9,16 @@
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
+<tfoot>
+<tr>
+<td>foot1</td>
+<td>foot2</td>
+<td>foot3</td>
+<td>foot4</td>
+<td>foot5</td>
+<td>foot6</td>
+</tr>
+</tfoot>
 <tbody>
 <tr>
 <td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page.</td><td>!commands</td></tr>
