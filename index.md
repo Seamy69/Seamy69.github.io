@@ -11,7 +11,7 @@
   
 <tbody>
 <tr>
-<td>cell1_1</td><td>cell2_1</td><td>cell3_1</td><td>cell4_1</td><td>cell5_1</td></tr>
+<td>Everyone</td><td>!discord</td><td></td><td>cell4_1</td><td>!discord</td></tr>
 <tr>
 <td>cell1_2</td><td>cell2_2</td><td>cell3_2</td><td>cell4_2</td><td>cell5_2</td></tr>
 <tr>
