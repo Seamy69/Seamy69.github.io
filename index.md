@@ -112,7 +112,7 @@
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
 <tr>
-<td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<td></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
