@@ -20,7 +20,7 @@ table.darkTable tr:nth-child(even) {
 table.darkTable thead {
   background: #000000;
   border-bottom: 2px solid #FFFFFF;
-  
+  vertical-align: middle;
 }
 table.darkTable thead th {
   font-size: 15px;
@@ -28,6 +28,7 @@ table.darkTable thead th {
   color: #CCCCCC;
   text-align: center;
   border-left: 2px solid #FFFFFF;
+  vertical-align: middle;
 }
 table.darkTable tfoot td {
   font-size: 12px;
