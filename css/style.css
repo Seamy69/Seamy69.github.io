@@ -7,7 +7,7 @@ table.darkTable {
   border-collapse: collapse;
 }
 table.darkTable td, table.darkTable th {
-  border: 0px solid #FFFFFF;
+  border: 0px solid #CCCCCC;
   padding: 7px 5px;
 }
 table.darkTable tbody td {
@@ -19,21 +19,22 @@ table.darkTable tr:nth-child(even) {
 }
 table.darkTable thead {
   background: #000000;
-  border-bottom: 2px solid #FFFFFF;
+  border-bottom: 2px solid #CCCCCC;
 }
 table.darkTable thead th {
   font-size: 15px;
   font-weight: bold;
   color: #CCCCCC;
   text-align: center;
-  border-left: 2px solid #FFFFFF;
+  border-left: 2px solid #CCCCCC;
+  border-right: 2px solid #CCCCCC;
   vertical-align: middle;
 }
 table.darkTable tfoot {
   font-size: 8px;
   color: #000000;
   background: #000000;
-  border-top: 2px solid #FFFFFF;
+  border-top: 2px solid #CCCCCC;
 }
 table.darkTable tfoot td {
   font-size: 8px;
