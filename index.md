@@ -82,7 +82,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br><br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr></td></tr>
+<td>Everyone</td><td>!lastfollow</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br><br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!newest2follows<hr>!recent3followers<hr>!latest4<hr>!lf<hr></td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -108,7 +108,7 @@
 <tr>
 <td>Everyone</td><td>!counter</td><td>!count</td><td></td><td>Returns the current count of a generic counter in progress.</td><td>!count</td></tr>
 <tr>
-<td>Moderator</td><td>!counter</td><td>!count,<hr>[c/count/counter][+/-],<br>[+/-][c/count/counter]</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active counter.</td><td>!count remove<hr>!counter reset<hr>-count</td></tr>
+<td>Moderator</td><td>!counter</td><td>!count,<hr style="width: 1px; height: 20px; display: inline-block;">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active counter.</td><td>!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
