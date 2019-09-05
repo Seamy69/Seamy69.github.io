@@ -31,7 +31,7 @@
 <tr>
 <td>cell1_10</td><td>cell2_10</td><td>cell3_10</td><td>cell4_10</td><td>cell5_10</td></tr>
 <tr>
-  <td colspan="5" align="center"><u>This text should be as long as the entire table's width...</u></td>
+  <td colspan="5" align="center"><p style="text-decoration: underline;">This text should be as long as the entire table's width...</p></td>
 </tr>
 <tr>
 <td>cell1_11</td><td>cell2_11</td><td>cell3_11</td><td>cell4_11</td><td>cell5_11</td></tr>
