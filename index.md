@@ -43,9 +43,9 @@
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
-<td>Moderator</td><td>!help</td><td>!lifeline, !crisis, !suicidal, !suicide, !suicideprevention, !sp, !ll</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
+<td>Moderator</td><td>!help</td><td>!lifeline, !crisis, !suicid[e/al], !suicideprevention, !sp, !ll</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td>Moderator</td><td>!english</td><td>!eng, !language, !lang</td><td></td><td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td><td>!lang</td></tr>
+<td>Moderator</td><td>!english</td><td>!eng, !lang[uage]</td><td></td><td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td><td>!lang</td></tr>
 <tr>
 <td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
 <tr>
@@ -79,17 +79,17 @@
 <tr>
 <td>Everyone</td><td>!mature</td><td></td><td></td><td>Checks whether the channel is currently set to broadcast mature content.</td><td>!mature</td></tr>
 <tr>
-<td>Everyone</td><td>!followers</td><td>!follows, !followcount, !followercount</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
+<td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
 <td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td>Returns the current number of users connected to the chat.</td><td>!chatters</td></tr>
 <tr>
-<td>Everyone</td><td>!viewers</td><td>!viewcount, !viewercount, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
+<td>Everyone</td><td>!viewers</td><td>!view[er]count, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
 <tr>
 <td>Everyone</td><td>!accountage</td><td>!created, !joined, !aa</td><td>[username]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !following, !followed, !since, !hl</td><td>[username]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !follow[ing/ed], !since, !hl</td><td>[username]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
@@ -97,9 +97,11 @@
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
-<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/reset/unset</td><td>Creates a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm</td></tr>
+<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm<hr>!uptime set 400pm<hr>!uptime set 16:00</td></tr>
 <tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td>Everyone</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td></td><td>Returns the death counter for the game currently being played.</td><td>!d</td></tr>
+<tr>
+<td>Moderator</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/remove/unset</td><td>Allows several means of manipulating the active death counter.</td><td>!deathcounter add<hr>!deaths remove<hr>!d set 69<hr>d+</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
