@@ -49,27 +49,9 @@
 <tr>
 <td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
 <tr>
-<td>Everyone</td><td>!game</td><td>!category</td><td></td><td>Returns the streamer's current game/category.</td><td>!game</td></tr>
-<tr>
-<td>Everyone</td><td>!title</td><td>!status</td><td></td><td>Returns the channel's current title/status.</td><td>!title</td></tr>
-<tr>
-<td>Everyone</td><td>!mature</td><td></td><td></td><td>Checks whether the channel is currently set to broadcast mature content.</td><td>!mature</td></tr>
-<tr>
-<td>Everyone</td><td>!followers</td><td>!follows, !followcount, !followercount</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
-<tr>
-<td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
-<tr>
-<td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td>Returns the current number of users connected to the chat.</td><td>!chatters</td></tr>
-<tr>
-<td>Everyone</td><td>!viewers</td><td>!viewcount, !viewercount, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
-<tr>
-<td>Everyone</td><td>!accountage</td><td>!created, !joined, !aa</td><td></td><td>Returns the date the user's Twitch account was created. Include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
-<tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !following, !followed, !since, !hl</td><td></td><td>Returns the duration since and the date the user followed the channel. Include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
-<tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
-<td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random SpaceCandi emotes.</td><td>!hype</td></tr>
+<td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
 <td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s> Outdated.</td><td>!specs</td></tr>
 <tr>
@@ -90,6 +72,68 @@
 <td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number (+/- 1) of 24-hour streams.</td><td>!24s</td></tr>
 <tr>
 <td colspan="6" align="center"></td></tr>
+<tr>
+<td>Everyone</td><td>!game</td><td>!category</td><td></td><td>Returns the streamer's current game/category.</td><td>!game</td></tr>
+<tr>
+<td>Everyone</td><td>!title</td><td>!status</td><td></td><td>Returns the channel's current title/status.</td><td>!title</td></tr>
+<tr>
+<td>Everyone</td><td>!mature</td><td></td><td></td><td>Checks whether the channel is currently set to broadcast mature content.</td><td>!mature</td></tr>
+<tr>
+<td>Everyone</td><td>!followers</td><td>!follows, !followcount, !followercount</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
+<tr>
+<td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
+<tr>
+<td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td>Returns the current number of users connected to the chat.</td><td>!chatters</td></tr>
+<tr>
+<td>Everyone</td><td>!viewers</td><td>!viewcount, !viewercount, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
+<tr>
+<td>Everyone</td><td>!accountage</td><td>!created, !joined, !aa</td><td>[username]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
+<tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !following, !followed, !since, !hl</td>[username]<td></td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
+<tr>
+<td colspan="6" align="center"></td></tr>
+<tr>
+<td>Moderator</td><td>!shoutout</td><td>!caster, !follow, !streamer, !suggest, !raider, !so</td><td>[username]</td><td>Parameter required. Promotes that user's Twitch channel. Using "!raider" changes the output slightly to be more specific to a received raid.</td><td>!so SpaceCandi</td></tr>
+<tr>
+<td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
+<tr>
+<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<br>stop/end/reset/unset</td><td>Creates a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm</td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 
