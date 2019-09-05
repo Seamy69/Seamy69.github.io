@@ -32,13 +32,13 @@
 <tr>
 <td>Everyone</td><td>!prime</td><td>!twitchprime, !freesub</td><td></td><td>Links to a Twitch page explaining Twitch Prime.</td><td>!prime</td></tr>
 <tr>
-<td>Everyone</td><td>!wishlist</td><td>!amazon, !wl</td><td></td><td><s>Links to the streamer's Amazon wishlist.</s> Currently unavailable.</td><td>!wl</td></tr>
+<td>Everyone</td><td>!wishlist</td><td>!amazon, !wl</td><td></td><td><s>Links to the streamer's Amazon wishlist.</s><br>Currently unavailable.</td><td>!wl</td></tr>
 <tr>
 <td>Everyone</td><td>!steamwishlist</td><td>!steamwl, !swl</td><td></td><td>Links to the streamer's Steam wishlist.</td><td>!swl</td></tr>
 <tr>
 <td>Everyone</td><td>!tip</td><td>!donate</td><td></td><td>Links to Streamlabs tipping service.</td><td>!tip</td></tr>
 <tr>
-<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for the streamer.</s> Currently unavailable.</td><td>!merch</td></tr>
+<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for the streamer.</s><br>Currently unavailable.</td><td>!merch</td></tr>
 <tr>
 <td>Everyone</td><td>!contact</td><td>!business, !email, !inquiry</td><td></td><td>Returns the streamer's business email.</td><td>!contact</td></tr>
 <tr>
@@ -54,7 +54,7 @@
 <tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
-<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s> Outdated/unknown.</td><td>!specs</td></tr>
+<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s><br>Outdated/unknown.</td><td>!specs</td></tr>
 <tr>
 <td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone in use.</td><td>!mic</td></tr>
 <tr>
@@ -70,7 +70,7 @@
 <tr>
 <td>Everyone</td><td>!daddy</td><td>!father, !dad, !jeff, !goldblum</td><td></td><td>Links to a convincing tweet.</td><td>!daddy</td></tr>
 <tr>
-<td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number of 24-hour streams done (accurate to +/- 1).</td><td>!24s</td></tr>
+<td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number of 24-hour streams done (currently accurate to +/- 1).</td><td>!24s</td></tr>
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
