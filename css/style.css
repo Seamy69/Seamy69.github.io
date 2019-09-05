@@ -5,11 +5,11 @@ table.darkTable {
   height: 200%;
   text-align: left;
   border-collapse: collapse;
-  vertical-align: middle;
 }
 table.darkTable td, table.darkTable th {
   border: 0px solid #F2F2F2;
   padding: 7px 5px;
+  vertical-align: middle;
 }
 table.darkTable tbody td {
   font-size: 12px;
