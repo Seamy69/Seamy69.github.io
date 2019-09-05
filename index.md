@@ -13,7 +13,7 @@
 <tr>
 <td>Everyone</td><td>!discord</td><td></td><td>Alias: !disc</td><td>!discord</td></tr>
 <tr>
-<td>Everyone</td><td>!instagram</td><td></td><td>Aliases: !insta, !ig</td><td!instagram</td></tr>
+<td>Everyone</td><td>!instagram</td><td></td><td>Aliases: !insta, !ig</td><td>!instagram</td></tr>
 <tr>
 <td>Everyone</td><td>!twitter</td><td></td><td></td><td>!twitter</td></tr>
 <tr>
