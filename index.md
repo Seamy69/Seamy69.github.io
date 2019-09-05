@@ -137,9 +137,9 @@
 <td>Everyone</td><td>!quote</td><td></td><td>[number]</td><td>Returns a random Candi quote. And currently, non-moderators are able to submit quotes at any time to a queue for review the same manner moderators add quotes.</td><td>!quote<hr>!quote 99</td></tr>
 <tr>
   
-<td rowspan="3">Moderator</td><td rowspan="3">!quote</td><td></td><td rowspan="3">add/+<hr>delete/del/remove/rem/-</td><td rowspan="3">Adds or removes a quote.</td><td rowspan="3">!quote add Fucking cock shit titty ass motherfucking bitch!<hr>!quote delete 9</td></tr>
+<td rowspan="3">Moderator</td><td rowspan="3">!quote</td><td><br><br></td><td rowspan="3">add/+<hr>delete/del/remove/rem/-</td><td rowspan="3">Adds or removes a quote.</td><td rowspan="3">!quote add Hi, I'm SpaceCandi! I like candy... and space is cool too.<hr>!quote delete 9</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addquote, !quoteadd<br>!del[ete]quote, !quotedel[ete],<br>!rem[ove]quote, !quoterem[ove]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addquote, !quoteadd<br>!del[ete]quote, !rem[ove]quote</td></tr>
 <tr>
 </tr>
 
