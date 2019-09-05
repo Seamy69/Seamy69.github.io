@@ -8,8 +8,6 @@
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
-
-</thead>
   
 <tbody>
 <tr>
@@ -38,5 +36,4 @@
 <td>cell1_12</td><td>cell2_12</td><td>cell3_12</td><td>cell4_12</td><td>cell5_12</td></tr>
 </tbody>
 </tr>
-</table>
 
