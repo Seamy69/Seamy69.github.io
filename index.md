@@ -39,21 +39,41 @@
 <tr>
 <td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store.</s> Currently unavailable.</td><td>!merch</td></tr>
 <tr>
-<td colspan="5" align="center"></td></tr>
-<tr>
 <td>Everyone</td><td>!contact</td><td>!business, !email, !inquiry</td><td></td><td>Returns the streamer's business email.</td><td>!contact</td></tr>
+<tr>
+<td colspan="6" align="center"></td></tr>
 <tr>
 <td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
 <tr>
-<td colspan="5" align="center"></td></tr>
+<td>Moderator</td><td>!english</td><td>!eng, !language, !lang</td><td></td><td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td><td>!lang</td></tr>
+<tr>
+<td>Everyone</td><td>!game</td><td>!category</td><td></td><td>Returns the streamer's current game/category.</td><td>!game</td></tr>
+<tr>
+<td>Everyone</td><td>!title</td><td>!status</td><td></td><td>Returns the channel's current title/status.</td><td>!title</td></tr>
+<tr>
+<td>Everyone</td><td>!mature</td><td></td><td></td><td>Checks whether the channel is currently set to broadcast mature content.</td><td>!mature</td></tr>
+<tr>
+<td>Everyone</td><td>!followers</td><td>!follows</td><td></td><td></td>Returns the channel's current number of followers.<td>!followers</td></tr>
+<tr>
+<td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
+<tr>
+<td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr>
+<td colspan="6" align="center"></td></tr>
 <tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random SpaceCandi emotes.</td><td>!hype</td></tr>
 <tr>
-<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Lists PC components.</s> Outdated.</td><td>!specs</td></tr>
+<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s> Outdated.</td><td>!specs</td></tr>
 <tr>
 <td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone in use.</td><td>!mic</td></tr>
 <tr>
-<td>Moderator</td><td>!muted</td><td>!mute</td><td></td><td>Attempts to tell the streamer they're muted.</td><td></td></tr>
+<td>Moderator</td><td>!muted</td><td>!mute</td><td></td><td>Attempts to tell the streamer they're muted.</td><td>!muted</td></tr>
 <tr>
 <td>Everyone</td><td>!headphones</td><td>!headset</td><td></td><td>Identifies the headphones in use.</td><td>!headphones</td></tr>
 <tr>
@@ -67,20 +87,7 @@
 <tr>
 <td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number (+/- 1) of 24-hour streams.</td><td>!24s</td></tr>
 <tr>
-<td colspan="5" align="center"></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td colspan="6" align="center"></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 
