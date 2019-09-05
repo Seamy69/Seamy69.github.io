@@ -66,11 +66,11 @@
 <tr>
 <td>Everyone</td><td>!friendcode</td><td>!fc, !switch</td><td></td><td>Returns the streamer's friend code for the Nintendo Switch.</td><td>!fc</td></tr>
 <tr>
-<td>Everyone</td><td>!pocketcamp</td><td>!pcfc, !pcid</td><td></td><td>Returns the streamer's friend code for Animal Crossing: Pocket Camp</td><td>!pcfc</td></tr>
+<td>Everyone</td><td>!pocketcamp</td><td>!pcfc, !pcid</td><td></td><td>Returns the streamer's friend code for Animal Crossing: Pocket Camp.</td><td>!pcfc</td></tr>
 <tr>
 <td>Everyone</td><td>!daddy</td><td>!father, !dad, !jeff, !goldblum</td><td></td><td>Links to a convincing tweet.</td><td>!daddy</td></tr>
 <tr>
-<td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number (+/- 1) of 24-hour streams.</td><td>!24s</td></tr>
+<td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number of 24-hour streams done (accurate to +/- 1).</td><td>!24s</td></tr>
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
@@ -82,7 +82,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr>!recents<hr></td></tr>
+<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br><br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr></td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -100,7 +100,7 @@
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
-<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/remove/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:09 pm<hr>!up set 409pm<hr>!live set 16:09</td></tr>
+<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/remove/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:09 p.m.<hr>!uptime set 16:09<hr>!uptime set 4pm</td></tr>
 <tr>
 <td>Everyone</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td></td><td>Returns the death count for the game currently being played.</td><td>!d</td></tr>
 <tr>
