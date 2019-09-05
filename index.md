@@ -108,7 +108,7 @@
 <tr>
 <td rowspan="3">Moderator</td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[d/death][+/-],<br>[+/-][d/death]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">[d/death][+/-],<br>[+/-][d/death]</td></tr>
 <tr>
 </tr>
 <tr>
@@ -116,7 +116,7 @@
 <tr>
 <td rowspan="3">Moderator</td><td rowspan="3">!counter</td><td><br>!count</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
 <tr>
 </tr>
 <tr>
@@ -132,15 +132,15 @@
 <tr>
 <td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.</td><td>!facts</td></tr>
 <tr>
-<td>Moderator</td><td>!facts</td><td></td><td>[on/off]</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
+<td>Moderator</td><td>!facts</td><td></td><td>on/off</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
 <tr>
-<td>Everyone</td><td>!quote</td><td></td><td>[number]</td><td>Returns a random Candi quote.</td><td>!quote<hr>!quote 99</td></tr>
+<td>Everyone</td><td>!quote</td><td></td><td>[number]</td><td>Returns a random Candi quote. And currently, non-moderators are able to submit quotes at any time to a queue for review the same manner moderators add quotes.</td><td>!quote<hr>!quote 99</td></tr>
 <tr>
-<td>Moderator</td><td>!quote</td><td></td><td>[add/+]<hr>[delete/del/remove/rem/-]</td><td></td><td></td></tr>
+<td>Moderator</td><td>!quote</td><td></td><td>add/+<hr>delete/del/remove/rem/-</td><td>Adds or removes a quote.</td><td>!quote add Hi, my name is Candi and I'm a dingle-bob!<hr>!quote delete 9</td></tr>
 <tr>
 <td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.</td><td>!quotes</td></tr>
 <tr>
-<td>Moderator</td><td>!quotes</td><td></td><td>[on/off]</td><td></td><td>!quotes of</td></tr>
+<td>Moderator</td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disabled the !quote commands (the ability to add quotes is always enabled, however).</td><td>!quotes off</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
