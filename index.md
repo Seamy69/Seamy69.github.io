@@ -11,6 +11,8 @@
 <th>Example</th>
 <tbody>
 <tr>
+<td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page.</td><td>!commands</td></tr>
+<tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to Discord.</td><td>!discord</td></tr>
 <tr>
 <td>Everyone</td><td>!instagram</td><td>!insta, !ig</td><td></td><td>Links to Instagram.</td><td>!ig</td></tr>
@@ -37,35 +39,42 @@
 <tr>
 <td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store.</s> Currently unavailable.</td><td>!merch</td></tr>
 <tr>
+<td colspan="5" align="center"></td></tr>
+<tr>
+<td>Everyone</td><td>!contact</td><td>!business, !email, !inquiry</td><td></td><td>Returns the streamer's business email.</td><td>!contact</td></tr>
+<tr>
+<td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
+<tr>
+<td colspan="5" align="center"></td></tr>
+<tr>
+<td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random SpaceCandi emotes.</td><td>!hype</td></tr>
+<tr>
 <td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Lists PC components.</s> Outdated.</td><td>!specs</td></tr>
 <tr>
-<td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone.</td><td>!mic</td></tr>
+<td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone in use.</td><td>!mic</td></tr>
+<tr>
+<td>Moderator</td><td>!muted</td><td>!mute</td><td></td><td>Attempts to tell the streamer they're muted.</td><td></td></tr>
+<tr>
+<td>Everyone</td><td>!headphones</td><td>!headset</td><td></td><td>Identifies the headphones in use.</td><td>!headphones</td></tr>
+<tr>
+<td>Everyone</td><td>!chair</td><td></td><td></td><td>Identifies the chair in use.</td><td>!chair</td></tr>
+<tr>
+<td>Everyone</td><td>!friendcode</td><td>!fc, !switch</td><td></td><td>Returns the streamer's friend code for the Nintendo Switch.</td><td>!fc</td></tr>
+<tr>
+<td>Everyone</td><td>!pocketcamp</td><td>!pcfc, !pcid</td><td></td><td>Returns the streamer's friend code for Animal Crossing: Pocket Camp</td><td>!pcfc</td></tr>
+<tr>
+<td>Everyone</td><td>!daddy</td><td>!father, !dad, !jeff, !goldblum</td><td></td><td>Links to a convincing tweet.</td><td>!daddy</td></tr>
+<tr>
+<td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number (+/- 1) of 24-hour streams.</td><td>!24s</td></tr>
+<tr>
+<td colspan="5" align="center"></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
