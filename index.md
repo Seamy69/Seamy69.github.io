@@ -28,7 +28,7 @@
 <tr>
 <td>Everyone</td><td>!steam</td><td></td><td></td><td>Links to the streamer's Steam.</td><td>!steam</td></tr>
 <tr>
-<td>Everyone</td><td>!subscribe</td><td>!sub</td><td></td><td>Links to a [mobile-friendly] subscription page.</td><td>!sub</td></tr>
+<td>Everyone</td><td>!subscribe</td><td>!sub</td><td></td><td>Links to a [mobile-friendly] subscription page to the channel.</td><td>!sub</td></tr>
 <tr>
 <td>Everyone</td><td>!prime</td><td>!twitchprime, !freesub</td><td></td><td>Links to a Twitch page explaining Twitch Prime.</td><td>!prime</td></tr>
 <tr>
@@ -38,7 +38,7 @@
 <tr>
 <td>Everyone</td><td>!tip</td><td>!donate</td><td></td><td>Links to Streamlabs tipping service.</td><td>!tip</td></tr>
 <tr>
-<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for the streamer's.</s> Currently unavailable.</td><td>!merch</td></tr>
+<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for the streamer.</s> Currently unavailable.</td><td>!merch</td></tr>
 <tr>
 <td>Everyone</td><td>!contact</td><td>!business, !email, !inquiry</td><td></td><td>Returns the streamer's business email.</td><td>!contact</td></tr>
 <tr>
@@ -108,16 +108,7 @@
 <tr>
 <td>Everyone</td><td>!counter</td><td>!count</td><td></td><td>Returns the current count of a generic counter in progress.</td><td>!count</td></tr>
 <tr>
-<td>Moderator</td><td>!counter</td><td>!count,
-  <style> 
-        .vertical { 
-            border-left: 1px solid black; 
-            height: 20px; 
-            position:absolute; 
-            left: 10%; 
-        } 
-    </style> 
-[c/count/counter][+/-],<br>[+/-][c/count/counter]</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active counter.</td><td>!count remove<hr>!counter reset<hr>-count</td></tr>
+<td>Moderator</td><td>!counter</td><td>!count,<hr width="1" size="25">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active counter.</td><td>!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
