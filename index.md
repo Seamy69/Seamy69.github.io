@@ -9,8 +9,6 @@
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
-
-  
 <tbody>
 <tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td></td><td>!discord</td></tr>
@@ -27,17 +25,15 @@
 <tr>
 <td>Everyone</td><td>!steam</td><td></td><td></td><td></td><td>!steam</td></tr>
 <tr>
-<td>Everyone</td><td>!amazon</td><td>!wishlist, !wl</td><td></td><td>Links to Amazon wishlist.</td><td></td></tr>
+<td>Everyone</td><td>!wishlist</td><td>!amazon, !wl</td><td></td><td>Links to Amazon wishlist.</td><td></td></tr>
 <tr>
-<td>Everyone</td><td>cell2_9</td><td>cell3_9</td><td>cell4_9</td><td>cell5_9</td></tr>
+<td>Everyone</td><td>!steamwishlist</td><td>!steamwl, !swl</td><td></td><td>Links to Steam wishlist.</td><td>!steamwishlist</td></tr>
 <tr>
-<td>Everyone</td><td>cell2_10</td><td>cell3_10</td><td>cell4_10</td><td>cell5_10</td></tr>
+<td>Everyone</td><td>!tip</td><td>!donate</td><td></td><td>Links to Streamlabs tipping service.</td><td>!tip</td></tr>
 <tr>
-<td colspan="5" align="center">...</td></tr>
+<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for SpaceCandi.</s></td><td>!merch</td></tr>
 <tr>
-<td>cell1_11</td><td>cell2_11</td><td>cell3_11</td><td>cell4_11</td><td>cell5_11</td></tr>
-<tr>
-<td>cell1_12</td><td>cell2_12</td><td>cell3_12</td><td>cell4_12</td><td>cell5_12</td></tr>
+<td>cell1_12</td><td>cell2_12</td><td>cell3_12</td><td>cell4_12</td><td>cell5_12</td><td></td></tr>
 </tbody>
 </tr>
 
