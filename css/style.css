@@ -18,7 +18,7 @@ table.darkTable tr:nth-child(even) {
   background: #323232;
 }
 table tr th:nth-child(3){
-  width: 150%;
+  width: 70%;
 }
 table.darkTable thead {
   background: #000000;
