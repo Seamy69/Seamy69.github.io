@@ -26,7 +26,7 @@ table.darkTable thead th {
   font-size: 15px;
   font-weight: bold;
   color: #CCCCCC;
-  text-align: left;
+  text-align: center;
   border-left: 2px solid #FFFFFF;
 }
 table.darkTable tfoot td {
