@@ -12,6 +12,12 @@
 
 <tbody>
 <tr>
+<td>Everyone</td><td>!subtember</td><td>!september, !promo, !subway</td><td></td><td>Briefly explains what SUBtember is.</td><td>!subtember</td></tr>
+<tr>
+<td>Everyone</td><td>!channelpoints</td><td>!cpoints, !cp</td><td></td><td>Links to a simple image explaining what the new Channel Points are.</td><td>!cp</td></tr>
+<tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
 <td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page.</td><td>!commands</td></tr>
 <tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to the streamer's Discord.</td><td>!discord</td></tr>
@@ -44,13 +50,7 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
-<tr>
-<td>Moderator</td><td>!english</td><td>!eng, !lang[uage]</td><td></td><td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td><td>!lang</td></tr>
-<tr>
 <td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
-<tr>
-<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
@@ -73,6 +73,8 @@
 <td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number of 24-hour streams done (currently accurate to +/- 1).</td><td>!24s</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
+<td>Moderator</td><td>!english</td><td>!eng, !lang[uage]</td><td></td><td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td><td>!lang</td></tr>
 <tr>
 <td>Everyone</td><td>!game</td><td>!category</td><td></td><td>Returns the streamer's current game/category.</td><td>!game</td></tr>
 <tr>
@@ -119,6 +121,30 @@
 </tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
+<td>Moderator</td><td>!break</td><td></td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!break</td></tr>
+<tr>
+<td>Broadcaster</td><td>!brb</td><td>!break</td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!brb</td></tr>
+<tr>
+<td>Moderator</td><td>!back</td><td></td><td></td><td>Disables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!back</td></tr>
+<tr>
+<td>Everyone</td><td>!fact</td><td></td><td>[number]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.</td><td>!fact<hr>!fact 420</td></tr>
+<tr>
+<td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.</td><td>!facts</td></tr>
+<tr>
+<td>Moderator</td><td>!facts</td><td></td><td>[on/off]</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
+<tr>
+<td>Everyone</td><td>!quote</td><td></td><td>[number]</td><td>Returns a random Candi quote.</td><td>!quote<hr>!quote 99</td></tr>
+<tr>
+<td>Moderator</td><td>!quote</td><td></td><td>[add/+]<hr>[delete/del/remove/rem/-]</td><td></td><td></td></tr>
+<tr>
+<td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.</td><td>!quotes</td></tr>
+<tr>
+<td>Moderator</td><td>!quotes</td><td></td><td>[on/off]</td><td></td><td>!quotes of</td></tr>
+<tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
+<td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
