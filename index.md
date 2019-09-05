@@ -11,7 +11,7 @@
 <th>Example</th>
 <tfoot>
 <tr>
-<td>foot1</td>
+<td>---------------------</td>
 <td>foot2</td>
 <td>foot3</td>
 <td>foot4</td>
