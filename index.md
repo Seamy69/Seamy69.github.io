@@ -89,7 +89,7 @@
 <tr>
 <td>Everyone</td><td>!accountage</td><td>!created, !joined, !aa</td><td>[username]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !following, !followed, !since, !hl</td>[username]<td></td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !following, !followed, !since, !hl</td><td>[username]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
@@ -97,7 +97,7 @@
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
-<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<br>stop/end/reset/unset</td><td>Creates a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm</td></tr>
+<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/reset/unset</td><td>Creates a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
