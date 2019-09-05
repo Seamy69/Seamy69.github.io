@@ -14,31 +14,31 @@
 <tr>
 <td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page.</td><td>!commands</td></tr>
 <tr>
-<td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to Discord.</td><td>!discord</td></tr>
+<td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to the streamer's Discord.</td><td>!discord</td></tr>
 <tr>
-<td>Everyone</td><td>!instagram</td><td>!insta, !ig</td><td></td><td>Links to Instagram.</td><td>!ig</td></tr>
+<td>Everyone</td><td>!instagram</td><td>!insta, !ig</td><td></td><td>Links to the streamer's Instagram.</td><td>!ig</td></tr>
 <tr>
-<td>Everyone</td><td>!twitter</td><td></td><td></td><td>Links to Twitter.</td><td>!twitter</td></tr>
+<td>Everyone</td><td>!twitter</td><td></td><td></td><td>Links to the streamer's Twitter.</td><td>!twitter</td></tr>
 <tr>
-<td>Everyone</td><td>!youtube</td><td>!yt</td><td></td><td>Links to Youtube.</td><td>!youtube</td></tr>
+<td>Everyone</td><td>!youtube</td><td>!yt</td><td></td><td>Links to the streamer's Youtube.</td><td>!youtube</td></tr>
 <tr>
-<td>Everyone</td><td>!socials</td><td>!social</td><td></td><td>Links to Twitter and Instagram.</td><td>!socials</td></tr>
+<td>Everyone</td><td>!socials</td><td>!social</td><td></td><td>Links to the streamer's Twitter and Instagram.</td><td>!socials</td></tr>
 <tr>
-<td>Moderator</td><td>!links</td><td>!sites, !media</td><td></td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>!links</td></tr>
+<td>Moderator</td><td>!links</td><td>!sites, !media</td><td></td><td>Links to the streamer's Discord, Twitter, Instagram, and Youtube.</td><td>!links</td></tr>
 <tr>
-<td>Everyone</td><td>!steam</td><td></td><td></td><td>Links to Steam.</td><td>!steam</td></tr>
+<td>Everyone</td><td>!steam</td><td></td><td></td><td>Links to the streamer's Steam.</td><td>!steam</td></tr>
 <tr>
-<td>Everyone</td><td>!subscribe</td><td>!sub</td><td></td><td>Links to a Twitch page explaining Twitch Prime.</td><td>!sub</td></tr>
+<td>Everyone</td><td>!subscribe</td><td>!sub</td><td></td><td>Links to a [mobile-friendly] subscription page.</td><td>!sub</td></tr>
 <tr>
-<td>Everyone</td><td>!prime</td><td>!twitchprime, !freesub</td><td></td><td>Links to a [mobile-friendly] subscription page.</td><td>!prime</td></tr>
+<td>Everyone</td><td>!prime</td><td>!twitchprime, !freesub</td><td></td><td>Links to a Twitch page explaining Twitch Prime.</td><td>!prime</td></tr>
 <tr>
-<td>Everyone</td><td>!wishlist</td><td>!amazon, !wl</td><td></td><td><s>Links to Amazon wishlist.</s> Currently unavailable.</td><td>!wl</td></tr>
+<td>Everyone</td><td>!wishlist</td><td>!amazon, !wl</td><td></td><td><s>Links to the streamer's Amazon wishlist.</s> Currently unavailable.</td><td>!wl</td></tr>
 <tr>
-<td>Everyone</td><td>!steamwishlist</td><td>!steamwl, !swl</td><td></td><td>Links to Steam wishlist.</td><td>!swl</td></tr>
+<td>Everyone</td><td>!steamwishlist</td><td>!steamwl, !swl</td><td></td><td>Links to the streamer's Steam wishlist.</td><td>!swl</td></tr>
 <tr>
 <td>Everyone</td><td>!tip</td><td>!donate</td><td></td><td>Links to Streamlabs tipping service.</td><td>!tip</td></tr>
 <tr>
-<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store.</s> Currently unavailable.</td><td>!merch</td></tr>
+<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for the streamer's.</s> Currently unavailable.</td><td>!merch</td></tr>
 <tr>
 <td>Everyone</td><td>!contact</td><td>!business, !email, !inquiry</td><td></td><td>Returns the streamer's business email.</td><td>!contact</td></tr>
 <tr>
@@ -108,7 +108,16 @@
 <tr>
 <td>Everyone</td><td>!counter</td><td>!count</td><td></td><td>Returns the current count of a generic counter in progress.</td><td>!count</td></tr>
 <tr>
-<td>Moderator</td><td>!counter</td><td>!count,<hr style="width: 1px; height: 20px; display: inline-block;">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active counter.</td><td>!count remove<hr>!counter reset<hr>-count</td></tr>
+<td>Moderator</td><td>!counter</td><td>!count,
+  <style> 
+        .vertical { 
+            border-left: 1px solid black; 
+            height: 20px; 
+            position:absolute; 
+            left: 10%; 
+        } 
+    </style> 
+[c/count/counter][+/-],<br>[+/-][c/count/counter]</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active counter.</td><td>!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
