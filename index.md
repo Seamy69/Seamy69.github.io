@@ -82,7 +82,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5 or null][follow[s/er/ers or null] or null],<br>!l[1-5 or null]f,<br>!recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr>!recents<hr></td></tr>
+<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br><br>!l[1-5]f,<br><br>!recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr>!recents<hr></td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -104,7 +104,7 @@
 <tr>
 <td>Everyone</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td></td><td>Returns the death counter for the game currently being played.</td><td>!d</td></tr>
 <tr>
-<td>Moderator</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d, d[+/-], [+/-]d</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active death counter.</td><td>!deaths add<hr>!dc remove<hr>!d set 69<hr>d+</td></tr>
+<td>Moderator</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d,<br><br>d[+/-], [+/-]d</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td>Allows several means of manipulating the active death counter.</td><td>!deaths add<hr>!dc remove<hr>!d set 69<hr>d+</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
