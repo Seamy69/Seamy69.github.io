@@ -53,7 +53,7 @@
 <tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
-<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s> Outdated.</td><td>!specs</td></tr>
+<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s> Outdated/unknown.</td><td>!specs</td></tr>
 <tr>
 <td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone in use.</td><td>!mic</td></tr>
 <tr>
@@ -101,7 +101,7 @@
 <tr>
 <td>Everyone</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td></td><td>Returns the death counter for the game currently being played.</td><td>!d</td></tr>
 <tr>
-<td>Moderator</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/remove/unset</td><td>Allows several means of manipulating the active death counter.</td><td>!deathcounter add<hr>!deaths remove<hr>!d set 69<hr>d+</td></tr>
+<td>Moderator</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d, d[+/-], [+/-]d</td><td>add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/remove/unset</td><td>Allows several means of manipulating the active death counter.</td><td>!deaths add<hr>!dc remove<hr>!d set 69<hr>d+</td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
