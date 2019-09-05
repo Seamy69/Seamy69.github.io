@@ -7,7 +7,7 @@ table.darkTable {
   border-collapse: collapse;
 }
 table.darkTable td, table.darkTable th {
-  border: 2px solid #F2F2F2;
+  border: 0px solid #F2F2F2;
   padding: 7px 5px;
 }
 table.darkTable tbody td {
