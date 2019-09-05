@@ -8,7 +8,7 @@
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
-</tr>lala
+
 </thead>
   
 <tbody>
