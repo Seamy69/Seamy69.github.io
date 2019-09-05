@@ -9,16 +9,7 @@
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
-<tfoot>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tfoot>
+
 <tbody>
 <tr>
 <td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page.</td><td>!commands</td></tr>
@@ -53,7 +44,7 @@
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
-<td>Moderator</td><td>!help</td><td>!lifeline, !crisis, !suicid[e/al], !suicideprevention, !sp, !ll</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
+<td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
 <td>Moderator</td><td>!english</td><td>!eng, !lang[uage]</td><td></td><td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td><td>!lang</td></tr>
 <tr>
@@ -91,7 +82,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5 or null][follow[s/er/ers or null]], !l[1-5 or null]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr>!recents<hr></td></tr>
+<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5 or null][follow[s/er/ers or null] or null],<br>!l[1-5 or null]f,<br>!recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr>!recents<hr></td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -150,8 +141,6 @@
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-
-
 
 </tbody>
 </tr>
