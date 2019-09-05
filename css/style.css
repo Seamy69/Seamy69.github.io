@@ -28,7 +28,6 @@ table.darkTable thead th {
   text-align: center;
   border-left: 2px solid #FFFFFF;
   vertical-align: middle;
-  white-space:nowrap;
 }
 table.darkTable tfoot td {
   font-size: 12px;
