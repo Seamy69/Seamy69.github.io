@@ -54,7 +54,7 @@
 <tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
-<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s><br>Outdated/unknown.</td><td>!specs</td></tr>
+<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s><br>Currently unknown.</td><td>!specs</td></tr>
 <tr>
 <td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone in use.</td><td>!mic</td></tr>
 <tr>
@@ -94,7 +94,7 @@
 <tr>
 <td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow[ing/ed], !since</td><td>[username]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
 <tr>
-<td colspan="6" align="center"></td></tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td>Moderator</td><td>!shoutout</td><td>!caster, !follow, !streamer, !suggest, !raider, !so</td><td>[username]</td><td>Parameter required. Promotes that user's Twitch channel. Using "!raider" changes the output slightly to be more specific to a received raid.</td><td>!so SpaceCandi</td></tr>
 <tr>
