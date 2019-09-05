@@ -5,6 +5,7 @@ table.darkTable {
   height: 200%;
   text-align: left;
   border-collapse: collapse;
+  white-space:nowrap;
 }
 table.darkTable td, table.darkTable th {
   border: 0px solid #FFFFFF;
