@@ -5,7 +5,7 @@
 <tr>
 <th>User level</th>
 <th>Command</th>
-<th>Aliases</th>
+<th width="20%">Aliases</th>
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
