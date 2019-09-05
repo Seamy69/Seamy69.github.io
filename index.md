@@ -81,7 +81,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5 or null][follow[s/er/ers or null]], !l[1-5 or null]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!l4f<hr>!lf<hr>!lf<hr>!recents<hr></td></tr>
+<td>Everyone</td><td>!lastfollower</td><td>![last/latest/newest/recent][1-5 or null][follow[s/er/ers or null]], !l[1-5 or null]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!latestfollow<hr>!newest2follows<hr>!recent3followers<hr>!last4<hr>!l5f<hr>!lf<hr>!recents<hr></td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
