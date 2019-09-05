@@ -81,6 +81,8 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
+<td>Everyone</td><td>!lastfollower</td><td>![latest/newest/recent][1-5]follow[s/er/ers], !latest, !recents, !l[1-5]f</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!lf<hr>!l3f<hr>!recents<hr>newestfollow<hr>!latest4follows</td></tr>
+<tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
 <td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td>Returns the current number of users connected to the chat.</td><td>!chatters</td></tr>
@@ -97,7 +99,7 @@
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
-<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/remove/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:00 pm<hr>!uptime set 400pm<hr>!uptime set 16:00</td></tr>
+<td>Moderator</td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/remove/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:09 pm<hr>!up set 409pm<hr>!live set 16:09</td></tr>
 <tr>
 <td>Everyone</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td></td><td>Returns the death counter for the game currently being played.</td><td>!d</td></tr>
 <tr>
