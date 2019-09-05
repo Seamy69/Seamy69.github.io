@@ -23,7 +23,7 @@
 <tr>
 <td>Everyone</td><td>!socials</td><td>!social</td><td></td><td>Links to Twitter and Instagram.</td><td>!socials</td></tr>
 <tr>
-<td>Moderator</td><td>!links</td><td>!sites, !media</td><td></td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>!socials</td></tr>
+<td>Moderator</td><td>!links</td><td>!sites, !media</td><td></td><td>Links to Discord, Twitter, Instagram, and Youtube.</td><td>!links</td></tr>
 <tr>
 <td>Everyone</td><td>!steam</td><td></td><td></td><td>Links to Steam.</td><td>!steam</td></tr>
 <tr>
@@ -43,9 +43,11 @@
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
-<td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
+<td>Moderator</td><td>!help</td><td>!lifeline, !crisis, !suicidal, !suicide, !suicideprevention, !sp, !ll</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
 <td>Moderator</td><td>!english</td><td>!eng, !language, !lang</td><td></td><td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td><td>!lang</td></tr>
+<tr>
+<td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
 <tr>
 <td>Everyone</td><td>!game</td><td>!category</td><td></td><td>Returns the streamer's current game/category.</td><td>!game</td></tr>
 <tr>
@@ -53,17 +55,17 @@
 <tr>
 <td>Everyone</td><td>!mature</td><td></td><td></td><td>Checks whether the channel is currently set to broadcast mature content.</td><td>!mature</td></tr>
 <tr>
-<td>Everyone</td><td>!followers</td><td>!follows</td><td></td><td></td>Returns the channel's current number of followers.<td>!followers</td></tr>
+<td>Everyone</td><td>!followers</td><td>!follows, !followcount, !followercount</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
-<td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td></td><td></td></tr>
+<td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td>Returns the current number of users connected to the chat.</td><td>!chatters</td></tr>
 <tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td>Everyone</td><td>!viewers</td><td>!viewcount, !viewercount, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
 <tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td>Everyone</td><td>!accountage</td><td>!created, !joined, !aa</td><td></td><td>Returns the date the user's Twitch account was created. Include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !following, !followed, !since, !hl</td><td></td><td>Returns the duration since and the date the user followed the channel. Include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center"></td></tr>
 <tr>
