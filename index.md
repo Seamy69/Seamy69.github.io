@@ -42,7 +42,7 @@
 <tr>
 <td>Everyone</td><td>!contact</td><td>!business, !email, !inquiry</td><td></td><td>Returns the streamer's business email.</td><td>!contact</td></tr>
 <tr>
-<td colspan="6" align="center"></td></tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
@@ -50,7 +50,7 @@
 <tr>
 <td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
 <tr>
-<td colspan="6" align="center"></td></tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
@@ -72,7 +72,7 @@
 <tr>
 <td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number of 24-hour streams done (currently accurate to +/- 1).</td><td>!24s</td></tr>
 <tr>
-<td colspan="6" align="center"></td></tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td>Everyone</td><td>!game</td><td>!category</td><td></td><td>Returns the streamer's current game/category.</td><td>!game</td></tr>
 <tr>
@@ -82,7 +82,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollow</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br><br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!newest2follows<hr>!recent3followers<hr>!latest4<hr>!lf<hr></td></tr>
+<td>Everyone</td><td>!lastfollow</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br><br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!newest2follows<hr>!recent3followers<hr>!latest4<hr>!lf</td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -117,6 +117,8 @@
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
 <tr>
 </tr>
+<tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr>
