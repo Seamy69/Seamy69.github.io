@@ -5,13 +5,13 @@
 <tr>
 <th>User level</th>
 <th>Command</th>
-<th width="5%">Aliases</th>
+<th>Aliases</th>
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
 <tbody>
 <tr>
-<td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page.</td><td>!commands</td></tr>
+<td>Everyone</td><td>!commands</td><td width="70%">!cmds</td><td></td><td>Links to this page.</td><td>!commands</td></tr>
 <tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to Discord.</td><td>!discord</td></tr>
 <tr>
