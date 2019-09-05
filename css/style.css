@@ -20,13 +20,14 @@ table.darkTable tr:nth-child(even) {
 table.darkTable thead {
   background: #000000;
   border-bottom: 2px solid #FFFFFF;
-  border-left: 2px solid #FFFFFF;
+  
 }
 table.darkTable thead th {
   font-size: 15px;
   font-weight: bold;
   color: #CCCCCC;
   text-align: left;
+  border-left: 2px solid #FFFFFF;
 }
 table.darkTable tfoot td {
   font-size: 12px;
