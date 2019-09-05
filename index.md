@@ -11,27 +11,27 @@
   
 <tbody>
 <tr>
-<td>Everyone</td><td>!discord</td><td></td><td>cell4_1</td><td>!discord</td></tr>
+<td>Everyone</td><td>!discord</td><td></td><td>Alias: !disc</td><td>!discord</td></tr>
 <tr>
-<td>cell1_2</td><td>cell2_2</td><td>cell3_2</td><td>cell4_2</td><td>cell5_2</td></tr>
+<td>Everyone</td><td>!instagram</td><td></td><td>Aliases: !insta, !ig</td><td!instagram</td></tr>
 <tr>
-<td>cell1_3</td><td>cell2_3</td><td>cell3_3</td><td>cell4_3</td><td>cell5_3</td></tr>
+<td>Everyone</td><td>!twitter</td><td></td><td></td><td>!twitter</td></tr>
 <tr>
-<td>cell1_4</td><td>cell2_4</td><td>cell3_4</td><td>cell4_4</td><td>cell5_4</td></tr>
+<td>Everyone</td><td>!youtube</td><td>cell3_4</td><td>Alias: !yt</td><td>!youtube</td></tr>
 <tr>
-<td>cell1_5</td><td>cell2_5</td><td>cell3_5</td><td>cell4_5</td><td>cell5_5</td></tr>
+<td>Everyone</td><td>cell2_5</td><td>cell3_5</td><td>cell4_5</td><td>cell5_5</td></tr>
 <tr>
-<td>cell1_6</td><td>cell2_6</td><td>cell3_6</td><td>cell4_6</td><td>cell5_6</td></tr>
+<td>Everyone</td><td>cell2_6</td><td>cell3_6</td><td>cell4_6</td><td>cell5_6</td></tr>
 <tr>
-<td>cell1_7</td><td>cell2_7</td><td>cell3_7</td><td>cell4_7</td><td>cell5_7</td></tr>
+<td>Everyone</td><td>cell2_7</td><td>cell3_7</td><td>cell4_7</td><td>cell5_7</td></tr>
 <tr>
-<td>cell1_8</td><td>cell2_8</td><td>cell3_8</td><td>cell4_8</td><td>cell5_8</td></tr>
+<td>Everyone</td><td>cell2_8</td><td>cell3_8</td><td>cell4_8</td><td>cell5_8</td></tr>
 <tr>
-<td>cell1_9</td><td>cell2_9</td><td>cell3_9</td><td>cell4_9</td><td>cell5_9</td></tr>
+<td>Everyone</td><td>cell2_9</td><td>cell3_9</td><td>cell4_9</td><td>cell5_9</td></tr>
 <tr>
-<td>cell1_10</td><td>cell2_10</td><td>cell3_10</td><td>cell4_10</td><td>cell5_10</td></tr>
+<td>Everyone</td><td>cell2_10</td><td>cell3_10</td><td>cell4_10</td><td>cell5_10</td></tr>
 <tr>
-<td colspan="5" align="center">This text should be as long as the entire table's width...</td></tr>
+<td colspan="5" align="center">...</td></tr>
 <tr>
 <td>cell1_11</td><td>cell2_11</td><td>cell3_11</td><td>cell4_11</td><td>cell5_11</td></tr>
 <tr>
