@@ -31,6 +31,9 @@
 <tr>
 <td>cell1_10</td><td>cell2_10</td><td>cell3_10</td><td>cell4_10</td><td>cell5_10</td></tr>
 <tr>
+<td colspan="5">This text should be as long as the entire table's width...</td>
+</tr>
+<tr>
 <td>cell1_11</td><td>cell2_11</td><td>cell3_11</td><td>cell4_11</td><td>cell5_11</td></tr>
 <tr>
 <td>cell1_12</td><td>cell2_12</td><td>cell3_12</td><td>cell4_12</td><td>cell5_12</td></tr>
