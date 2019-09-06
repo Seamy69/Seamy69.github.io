@@ -128,17 +128,17 @@
 <tr>
 <td>Moderator</td><td>!back</td><td></td><td></td><td>Disables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!back</td></tr>
 <tr>
-<td>Everyone</td><td>!fact</td><td></td><td>[number]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.</td><td>!fact<hr>!fact 420</td></tr>
+<td>Everyone</td><td>!fact</td><td></td><td>[number]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em>Only available during breaks.</em></td><td>!fact<hr>!fact 420</td></tr>
 <tr>
-<td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.</td><td>!facts</td></tr>
+<td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.<br><br><em>Only available during breaks.</em></td><td>!facts</td></tr>
 <tr>
 <td>Moderator</td><td>!facts</td><td></td><td>on/off</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
 <tr>
-<td>Everyone</td><td>!quote</td><td></td><td>[number]</td><td>Returns a random Candi quote.</td><td>!quote<hr>!quote 99</td></tr>
+<td>Everyone</td><td>!quote</td><td></td><td>[number]</td><td>Returns a random Candi quote.<br><br><em>Only available during breaks.</em></td><td>!quote<hr>!quote 99</td></tr>
 <tr>
-<td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.</td><td>!quotes</td></tr>
+<td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em>Only available during breaks.</em></td><td>!quotes</td></tr>
 <tr>
-<td>Everyone</td><td>!lastquote</td><td>![latest/newest]quote</td><td></td><td>Returns the most recently added quote.</td><td>!latestquote</td></tr>
+<td>Everyone</td><td>!lastquote</td><td>![latest/newest]quote</td><td></td><td>Returns the most recently added quote.<br><br><em>Only available during breaks.</em></td><td>!latestquote</td></tr>
 <tr>
 <td rowspan="3">Subscriber/<br>Moderator</td><td rowspan="3">!quote</td><td><br><br></td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
@@ -148,17 +148,25 @@
 <tr>
 <td>Moderator</td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br>!p<br><br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.</td><td rowspan="3">!points<hr>!points SpaceCandi<hr>!points give SpaceCandi 6969<hr>!give SpaceCandi 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br>!p<br><br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em>Only available during breaks.</em></td><td rowspan="3">!points<hr>!points SpaceCandi<hr>!points give SpaceCandi 6969<hr>!give SpaceCandi 6969</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!give [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
-<td rowspan="3">Moderator</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.</td><td rowspan="3">!addpoints SpaceCandi 6969<hr>!points set SpaceCandi 6969<hr>!points reset SpaceCandi<hr>!points reset</td></tr>
+<td rowspan="3">Moderator</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em>Only available during breaks (with the exception of the on/off commands).</em></td><td rowspan="3">!addpoints SpaceCandi 6969<hr>!points set SpaceCandi 6969<hr>!points reset SpaceCandi<hr>!points reset</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addpoints [username] [number],<br>!removepoints [username] [number]</td></tr>
 <tr>
 </tr>
+<tr>
+<td>Everyone</td><td>!gamble</td><td>!gambling, !g</td><td>[number]<hr>all/a lot/some/a little<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em>Only available during breaks.</em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
+<tr>
+<td>Moderator</td><td>!gamble</td><td>!gambling, !g</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble off</td></tr>
+<tr>
+<td>Everyone</td><td>!slots</td><td>!s</td><td>[number]<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em>Only available during breaks.</em></td><td>!slots 999<hr>!slots all</td></tr>
+<tr>
+<td>Moderator</td><td>!slots</td><td>!s</td><td>on/off</td><td>Enables/disables the !slots commands.</td><td>!slots on</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
