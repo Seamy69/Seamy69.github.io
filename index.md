@@ -140,17 +140,17 @@
 <tr>
 <td>Everyone</td><td>!lastquote</td><td>![latest/newest]quote</td><td></td><td>Returns the most recently added quote.</td><td>!latestquote</td></tr>
 <tr>
-<td rowspan="3">Subscriber/Moderator</td><td rowspan="3">!quote</td><td><br><br></td><td rowspan="3">add/+<hr>delete/del/remove/rem/-</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review, but they cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
+<td rowspan="3">Subscriber/<br>Moderator</td><td rowspan="3">!quote</td><td><br><br></td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addquote, !quoteadd<br>!del[ete]quote, !rem[ove]quote</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addquote [quote], !quoteadd [quote]<br>!del[ete]quote [number], !rem[ove]quote [number]</td></tr>
 <tr>
 </tr>
 <tr>
-<td>Moderator</td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability to add quotes is always enabled, however).</td><td>!quotes off</td></tr>
+<td>Moderator</td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td>!p</td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><i>Not related to Channel Points.</i> Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.</td><td rowspan="3">!points<hr>!points Seamy<hr>!points give SpaceCandi 6969<hr>!points help</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p</td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em> Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.</td><td rowspan="3">!points<hr>!points Seamy<hr>!points give SpaceCandi 6969<hr>!points help</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!give</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!give [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
