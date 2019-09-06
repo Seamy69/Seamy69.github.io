@@ -185,7 +185,7 @@
 <tr>
 <td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td>Subscriber/<br>Moderator</td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase to lookup]</td><td>Returns the urban definition of the word or phrase in question.<br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban space candy</td></tr>
+<td>Subscriber/<br>Moderator</td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase to lookup]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban space candy</td></tr>
 <tr>
 <td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (133+5)/2</td></tr>
 <tr>
