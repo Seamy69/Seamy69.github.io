@@ -33,8 +33,9 @@ table.darkTable thead th {
 }
 table.darkTable tfoot {
   font-size: 15px;
+  font-weight: bold;
   color: #F2F2F2;
-  background: #000000;
+  background: #323232;
   border-top: 2px solid #F2F2F2;
   text-align: center;
   border-left: 2px solid #F2F2F2;
