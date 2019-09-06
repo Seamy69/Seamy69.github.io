@@ -154,9 +154,9 @@
 <tr>
 </tr>
 <tr>
-<td rowspan="3">Moderator</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset<hr>reset [username]</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Allows several means of manipulating user's point totals, either individually or as a whole.</td><td rowspan="3">!points add SpaceCandi 420<hr>!points set SpaceCandi 42069<hr>!points reset SpaceCandi<hr>!points reset</td></tr>
+<td rowspan="3">Moderator</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset<hr>reset [username]</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.</td><td rowspan="3">!addpoints SpaceCandi 6969<hr>!points set SpaceCandi 6969<hr>!points reset SpaceCandi<hr>!points reset</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addpoints [username] [number],<br>!removepoints [username] [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addpoints [username] [number],<br>!removepoints [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
