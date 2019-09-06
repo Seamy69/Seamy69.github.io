@@ -114,7 +114,7 @@
 <tr>
 <td>Everyone</td><td>!counter</td><td>!count</td><td></td><td>Returns the current count of a generic counter in progress.</td><td>!count</td></tr>
 <tr>
-<td rowspan="3">Moderator</td><td rowspan="3">!counter</td><td><br>!count</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
+<td rowspan="3">Moderator</td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>remove/reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
 <tr>
@@ -148,7 +148,7 @@
 <tr>
 <td>Moderator</td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em> Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.</td><td rowspan="3">!points<hr>!points Seamy<hr>!points give SpaceCandi 6969<hr>!give SpaceCandi 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.</td><td rowspan="3">!points<hr>!points SpaceCandi<hr>!points give SpaceCandi 6969<hr>!give SpaceCandi 6969</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!give [username] [number]</td></tr>
 <tr>
