@@ -32,8 +32,8 @@ table.darkTable thead th {
   vertical-align: middle;
 }
 table.darkTable tfoot {
-  font-size: 8px;
-  color: #000000;
+  font-size: 15px;
+  color: #F2F2F2;
   background: #000000;
   border-top: 2px solid #F2F2F2;
 }
