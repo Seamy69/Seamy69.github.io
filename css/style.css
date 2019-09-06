@@ -38,10 +38,11 @@ table.darkTable tfoot {
   background: #323232;
   border-top: 2px solid #F2F2F2;
   text-align: center;
-  border-left: 2px solid #F2F2F2;
-  border-right: 2px solid #F2F2F2;
+
   vertical-align: middle;
 }
 table.darkTable tfoot td {
   font-size: 15px;
+  border-left: 2px solid #F2F2F2;
+  border-right: 2px solid #F2F2F2;
 }
