@@ -9,7 +9,16 @@
 <th>Parameters</th>
 <th>Notes</th>
 <th>Example</th>
-
+<tfoot>
+<tr>
+<td>User level</td>
+<td>Command</td>
+<td>Aliases</td>
+<td>Parameters</td>
+<td>Notes</td>
+<td>Example</td>
+</tr>
+</tfoot>
 <tbody>
 <tr>
 <td>Everyone</td><td>!subtember</td><td>!september, !promo, !subway</td><td></td><td>Briefly explains what SUBtember is.</td><td>!subtember</td></tr>
