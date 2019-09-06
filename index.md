@@ -176,11 +176,11 @@
 <tr>
 <td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td>Subscriber/<br>Moderator</td><td>!urbandictionary</td><td>!ud, !urban</td><td>[word/phrase to lookup]</td><td>Returns the urban definition of the word or phrase in question. Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</td><td>!urban nihilism</td></tr>
+<td>Subscriber/<br>Moderator</td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase to lookup]</td><td>Returns the urban definition of the word or phrase in question.<br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban space candy</td></tr>
 <tr>
-<td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc </td></tr>
+<td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (133+5)/2</td></tr>
 <tr>
-<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng</td><td>[series of options]</td><td>Returns a single option randomly selected via RNG from the series of words separated only by a space after the command.</td><td>!pick blue red black</td></tr>
+<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng</td><td>[series of options]</td><td>Returns a single option randomly selected via RNG from the series of words separated only by a space after the command.</td><td>!pick blue red black pink</td></tr>
 
 </tbody>
 </tr>
