@@ -162,43 +162,25 @@
 <tr>
 <td>Everyone</td><td>!gamble</td><td>!gambling, !g</td><td>[number]<hr>all/a lot/some/a little<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em>Only available during breaks.</em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
 <tr>
-<td>Moderator</td><td>!gamble</td><td>!gambling, !g</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble off</td></tr>
+<td>Moderator</td><td>!gamble</td><td>!gambling, !g</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble on</td></tr>
 <tr>
-<td>Everyone</td><td>!slots</td><td>!s</td><td>[number]<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em>Only available during breaks.</em></td><td>!slots 999<hr>!slots all</td></tr>
+<td>Everyone</td><td>!slots</td><td>!s</td><td>[number]<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em>Only available during breaks.</em></td><td>!slots 999<hr>!slots all</td></tr>
 <tr>
-<td>Moderator</td><td>!slots</td><td>!s</td><td>on/off</td><td>Enables/disables the !slots commands.</td><td>!slots on</td></tr>
+<td>Moderator</td><td>!slots</td><td>!s</td><td>on/off</td><td>Enables/disables the !slots commands.</td><td>!slots off</td></tr>
+<tr>
+<td>Everyone</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>[number]<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em>Only available during breaks.</em></td><td>!heist 42069<hr>!heist all</td></tr>
+<tr>
+<td>Moderator</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>on/off</td><td>Enables/disables the !heists commands.</td><td>!heisting off</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td>Subscriber/<br>Moderator</td><td>!urbandictionary</td><td>!ud, !urban</td><td>[word/phrase to lookup]</td><td>Returns the urban definition of the word or phrase in question. Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</td><td>!urban nihilism</td></tr>
 <tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc </td></tr>
 <tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr>
-<td>Everyone</td><td></td><td></td><td></td><td></td><td></td></tr>
+<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng</td><td>[series of options]</td><td>Returns a single option randomly selected via RNG from the series of words separated only by a space after the command.</td><td>!pick blue red black</td></tr>
 
 </tbody>
 </tr>
