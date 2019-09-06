@@ -36,7 +36,11 @@ table.darkTable tfoot {
   color: #F2F2F2;
   background: #000000;
   border-top: 2px solid #F2F2F2;
+  text-align: center;
+  border-left: 2px solid #F2F2F2;
+  border-right: 2px solid #F2F2F2;
+  vertical-align: middle;
 }
 table.darkTable tfoot td {
-  font-size: 0px;
+  font-size: 15px;
 }
