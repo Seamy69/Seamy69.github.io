@@ -133,7 +133,7 @@
 <tr>
 <td><font color="#b0ffba">Moderator</font></td><td>!break</td><td></td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!break</td></tr>
 <tr>
-<td><font color="#ffb0b0">Broadcaster</font></td><td>!brb</td><td>!break</td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!brb</td></tr>
+<td><font color="#ff9696">Broadcaster</font></td><td>!brb</td><td>!break</td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!brb</td></tr>
 <tr>
 <td><font color="#b0ffba">Moderator</font></td><td>!back</td><td></td><td></td><td>Disables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!back</td></tr>
 <tr>
@@ -217,11 +217,11 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td><font color="#ffb0b0">Broadcaster</font></td><td>!start</td><td>!on, !turn on, !resume</td><td></td><td>Allows the streamer to turn the bot on (the bot is on by default). These commands also work if the first word in the command is "bot".</td><td>!start<hr>!bot start</td></tr>
+<td><font color="#ff9696">Broadcaster</font></td><td>!start</td><td>!on, !turn on, !resume</td><td></td><td>Allows the streamer to turn the bot on (the bot is on by default). These commands also work if the first word in the command is "bot".</td><td>!start<hr>!bot start</td></tr>
 <tr>
-<td><font color="#ffb0b0">Broadcaster</font></td><td>!stop</td><td>!off, !turn off, !exit, !shut [down/off]</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
+<td><font color="#ff9696">Broadcaster</font></td><td>!stop</td><td>!off, !turn off, !exit, !shut [down/off]</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
 <tr>
-<td><font color="#ffb0b0">Broadcaster</font></td><td>!restart</td><td>!reboot</td><td></td><td>Allows the streamer to restart the bot. These commands also work if the first word in the command is "bot".</td><td>!restart<hr>!bot restart</td></tr>
+<td><font color="#ff9696">Broadcaster</font></td><td>!restart</td><td>!reboot</td><td></td><td>Allows the streamer to restart the bot. These commands also work if the first word in the command is "bot".</td><td>!restart<hr>!bot restart</td></tr>
 
 </tbody>
 </tr>
