@@ -3,7 +3,7 @@
 <table class="darkTable">
 <thead>
 <tr>
-<th>User level</th>
+<th style="border-left: 2px solid #323232; border-top: 2px solid #323232">User level</th>
 <th>Command</th>
 <th>Aliases</th>
 <th>Parameters</th>
