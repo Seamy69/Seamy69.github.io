@@ -217,7 +217,7 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td style="color="#ff0000">Broadcaster</td><td>!start</td><td>!on, !turn on, !resume</td><td></td><td>Allows the streamer to turn the bot on (the bot is on by default). These commands also work if the first word in the command is "bot".</td><td>!start<hr>!bot start</td></tr>
+<td style="color="#ff0000"">Broadcaster</td><td>!start</td><td>!on, !turn on, !resume</td><td></td><td>Allows the streamer to turn the bot on (the bot is on by default). These commands also work if the first word in the command is "bot".</td><td>!start<hr>!bot start</td></tr>
 <tr>
 <td>Broadcaster</td><td>!stop</td><td>!off, !turn off, !exit, !shut [down/off]</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
 <tr>
