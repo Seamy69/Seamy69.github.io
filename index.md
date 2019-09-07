@@ -196,6 +196,14 @@
 <td>Everyone</td><td>!stopwatch</td><td>!sw, !countup</td><td>start/begin<hr>stop/end/reset/unset<hr>set [time in Eastern Time]</td><td>Returns the duration since the stopwatch was initiated. A custom initiation time can be set if necessary.</td><td>!stopwatch start<hr>!sw set 9:00p.m.</td></tr>
 <tr>
 <td>Everyone</td><td>!countdown</td><td>!cd</td><td>[duration]<hr>stop/end/reset/unset</td><td>Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td><td>!countdown 6min<hr>!cd 6m Feed Todd Howard!<hr>!cd 6m9secs<hr>!cd 9hrs9minutes9s</td></tr>
+<tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
+<td>Broadcaster</td><td>!start</td><td>!on, !turn on, !resume</td><td></td><td>Allows the streamer to turn the bot on (the bot is on by default). These commands also work if the first word in the command is "bot".</td><td>!start<hr>!bot start</td></tr>
+<tr>
+<td>Broadcaster</td><td>!stop</td><td>!off, !turn off, !exit, !shut [down/off]</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
+<tr>
+<td>Broadcaster</td><td>!restart</td><td>!reboot</td><td></td><td>Allows the streamer to restart the bot. These commands also work if the first word in the command is "bot".</td><td>!restart<hr>!bot restart</td></tr>
 
 </tbody>
 </tr>
