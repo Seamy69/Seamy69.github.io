@@ -165,7 +165,7 @@
 <tr>
 <td rowspan="3"><font color="#b0ffba">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em>Only available during breaks (with the exception of the on/off commands).</em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addpoints [username] [number],<br>!removepoints [username] [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addpoints [username] [number],<br>!rem[ove]points [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
