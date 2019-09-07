@@ -107,7 +107,7 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td>Moderator</td><td>!shoutout</td><td>!caster, !follow, !streamer, !suggest, !raider, !so</td><td>[username]</td><td>Parameter required. Promotes that user's Twitch channel. Using "!raider" changes the output slightly to be more specific to a received raid.</td><td>!so SpaceCandi</td></tr>
+<td>Moderator</td><td>!shoutout</td><td>!caster, !follow, !streamer, !suggest, !raider, !so</td><td>[username]</td><td>Parameter required. Promotes that user's Twitch channel. Using "!raider" changes the output slightly to be more specific to a received raid.</td><td>!so Seamy</td></tr>
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
@@ -185,17 +185,35 @@
 <tr>
 <td>Moderator</td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td>Subscriber/<br>Moderator</td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase to lookup]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban nihilism</td></tr>
+<td>Subscriber/<br>Moderator</td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban nihilism</td></tr>
 <tr>
 <td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (133+5)/2</td></tr>
 <tr>
-<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng</td><td>[series of options]</td><td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td><td>!pick red, black, dark blue, pink, light green </td></tr>
+<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng</td><td>[options]</td><td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td><td>!pick red, black, dark blue, pink, light green </td></tr>
 <tr>
 <td>Everyone</td><td>!8ball</td><td>!8-ball</td><td>[question]</td><td>Returns a classic magic 8-ball response.</td><td>!8ball Does Seamy love me?</td></tr>
 <tr>
 <td>Everyone</td><td>!stopwatch</td><td>!sw, !countup</td><td>start/begin<hr>stop/end/reset/unset<hr>set [time in Eastern Time]</td><td>Returns the duration since the stopwatch was initiated. A custom initiation time can be set if necessary.</td><td>!stopwatch start<hr>!sw set 9:00p.m.</td></tr>
 <tr>
 <td>Everyone</td><td>!countdown</td><td>!cd</td><td>[duration]<hr>stop/end/reset/unset</td><td>Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td><td>!countdown 6min<hr>!cd 6m Feed Todd Howard!<hr>!cd 6mins9s<hr>!cd 9hrs9minutes9secs</td></tr>
+<tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
+<td>Everyone</td><td>!fahrenheit</td><td>!f</td><td>[number]</td><td>Converts the given number to degrees Celsius.</td><td>!f 9</td></tr>
+<tr>
+<td>Everyone</td><td>!celsius</td><td>!c</td><td>[number]</td><td>Converts the given number to degrees Fahrenheit.</td><td>!c 25</td></tr>
+<tr>
+<td>Everyone</td><td>!miles</td><td>!mi[le], !m</td><td>[number]</td><td>Converts the given number to kilometers.</td><td>!m 69</td></tr>
+<tr>
+<td>Everyone</td><td>!kilometers</td><td>!kilomet[er/re][s], !km[s]</td><td>[number]</td><td>Converts the given number to miles.</td><td>!km 420</td></tr>
+<tr>
+<td>Everyone</td><td>!pounds</td><td>!pound, !lb[s]</td><td>[number]</td><td>Converts the given number to kilograms.</td><td>!lb 1337</td></tr>
+<tr>
+<td>Everyone</td><td>!kilograms</td><td>!kilogram, !kilo[s], !kg[s]</td><td>[number]</td><td>Converts the given number to pounds.</td><td>!kg 9001</td></tr>
+<tr>
+<td>Everyone</td><td>!inches</td><td>!in[ch]</td><td>[number]</td><td>Converts the given number to centimeters.</td><td>!in 80085</td></tr>
+<tr>
+<td>Everyone</td><td>!centimeters</td><td>!centimet[er/re][s], !cm[s]</td><td>[number]</td><td>Converts the given number to inches.</td><td>!cm 8675309</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
