@@ -189,7 +189,7 @@
 <tr>
 <td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (133+5)/2</td></tr>
 <tr>
-<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng</td><td>[options]</td><td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td><td>!pick red, black, dark blue, pink, light green </td></tr>
+<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng, !random, !which</td><td>[options]</td><td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td><td>!pick red, black, dark blue, pink, light green </td></tr>
 <tr>
 <td>Everyone</td><td>!8ball</td><td>!8-ball</td><td>[question]</td><td>Returns a classic magic 8-ball response.</td><td>!8ball Does Seamy love me?</td></tr>
 <tr>
