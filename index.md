@@ -149,7 +149,7 @@
 <tr>
 <td>Everyone</td><td>!lastquote</td><td>![latest/newest]quote</td><td></td><td>Returns the most recently added quote.<br><br><em>Only available during breaks.</em></td><td>!latestquote</td></tr>
 <tr>
-<td rowspan="3">Subscriber/<br><font color="#b0ffba">Moderator</font></td><td rowspan="3">!quote</td><td><br><br></td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
+<td rowspan="3"><font color="#ebb0ff">Subscriber</font>/<br><font color="#b0ffba">Moderator</font></td><td rowspan="3">!quote</td><td><br><br></td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addquote [quote], !quoteadd [quote],<br>!del[ete]quote [number], !rem[ove]quote [number]</td></tr>
 <tr>
@@ -185,7 +185,7 @@
 <tr>
 <td><font color="#b0ffba">Moderator</font></td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td>Subscriber/<br><font color="#b0ffba">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban nihilism</td></tr>
+<td><font color="#ebb0ff">Subscriber</font>/<br><font color="#b0ffba">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban nihilism</td></tr>
 <tr>
 <td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (133+5)/2</td></tr>
 <tr>
