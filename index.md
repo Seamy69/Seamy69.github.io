@@ -157,13 +157,13 @@
 <tr>
 <td>Moderator</td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em>Only available during breaks.</em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em>Only available during breaks.</em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!give [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
-<td rowspan="3">Moderator</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em>Only available during breaks (with the exception of the on/off commands).</em></td><td rowspan="3">!addpoints SpaceCandi 6969<hr>!points set SpaceCandi 6969<hr>!points reset SpaceCandi<hr>!points reset</td></tr>
+<td rowspan="3">Moderator</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em>Only available during breaks (with the exception of the on/off commands).</em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addpoints [username] [number],<br>!removepoints [username] [number]</td></tr>
 <tr>
