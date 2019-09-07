@@ -3,20 +3,20 @@
 <table class="darkTable">
 <thead>
 <tr>
-<th style="border-left: 2px solid #323232; border-top: 2px solid #323232">User level</th>
+<th style="border-left: 2px solid #323232">User level</th>
 <th>Command</th>
 <th>Aliases</th>
 <th>Parameters</th>
 <th>Notes</th>
-<th>Example</th>
+<th>th style="border-right: 2px solid #323232"Example</th>
 <tfoot>
 <tr>
-<td>User level</td>
+<td style="border-left: 2px solid #323232">User level</td>
 <td>Command</td>
 <td>Aliases</td>
 <td>Parameters</td>
 <td>Notes</td>
-<td>Example</td>
+<td style="border-right: 2px solid #323232">Example</td>
 </tr>
 </tfoot>
 <tbody>
