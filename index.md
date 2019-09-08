@@ -119,7 +119,7 @@
 <tr>
 <td rowspan="3"><font color="#b0ffba">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">[d/death][+/-],<br>[+/-][d/death]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[d/death][+/-],<br>[+/-][d/death]</td></tr>
 <tr>
 </tr>
 <tr>
@@ -127,7 +127,7 @@
 <tr>
 <td rowspan="3"><font color="#b0ffba">Moderator</font></td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
 <tr>
 </tr>
 <tr>
@@ -153,7 +153,7 @@
 <tr>
 <td rowspan="3"><font color="#ebb0ff">Subscriber</font>/<br><font color="#b0ffba">Moderator</font></td><td rowspan="3">!quote</td><td><br><br></td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addquote [quote], !quoteadd [quote],<br>!del[ete]quote [number], !rem[ove]quote [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addquote [quote], !quoteadd [quote],<br>!del[ete]quote [number], !rem[ove]quote [number]</td></tr>
 <tr>
 </tr>
 <tr>
@@ -161,13 +161,13 @@
 <tr>
 <td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em>Only available during breaks.</em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!give [username] [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!give [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
 <td rowspan="3"><font color="#b0ffba">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em>Only available during breaks (with the exception of the on/off commands).</em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addpoints [username] [number],<br>!rem[ove]points [username] [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addpoints [username] [number],<br>!rem[ove]points [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
