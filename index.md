@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<meta name="viewport" content="width=1024">
 This page is a work in progress.<br><br>
 <table class="darkTable">
 <thead>
