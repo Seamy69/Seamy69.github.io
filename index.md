@@ -79,7 +79,7 @@
 <tr>
 <td>Everyone</td><td>!pocketcamp</td><td>!pcfc, !pcid</td><td></td><td>Returns the streamer's friend code for Animal Crossing: Pocket Camp.</td><td>!pcfc</td></tr>
 <tr>
-<td>Everyone</td><td>!daddy</td><td>!father, !dad, !jeff, !goldblum</td><td></td><td>Links to a compelling tweet.</td><td>!daddy</td></tr>
+<td>Everyone</td><td>!daddy</td><td>!father, !dad, !jeff, !goldblum, !jg</td><td></td><td>Links to a compelling tweet.</td><td>!daddy</td></tr>
 <tr>
 <td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number of 24-hour streams done (currently accurate to +/- 1).</td><td>!24s</td></tr>
 <tr>
