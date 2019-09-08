@@ -21,7 +21,7 @@
 </tfoot>
 <tbody>
 <tr>
-<td>Everyone</td><td>!subtember</td><td>!september, !promo, !subway</td><td></td><td>Briefly explains what SUBtember is.</td><td>!subtember</td></tr>
+<td>Everyone</td><td>!subtember</td><td>!september, !promo</td><td></td><td>Briefly explains what SUBtember is.</td><td>!subtember</td></tr>
 <tr>
 <td>Everyone</td><td>!channelpoints</td><td>!cpoints, !cp</td><td></td><td>Links to a simple image explaining what the new Channel Points are.</td><td>!cp</td></tr>
 <tr>
@@ -187,9 +187,9 @@
 <tr>
 <td><font color="#b0ffba">Moderator</font></td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td><font color="#ebb0ff">Subscriber</font>/<br><font color="#b0ffba">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout.</em></td><td>!urban nihilism</td></tr>
+<td><font color="#ebb0ff">Subscriber</font>/<br><font color="#b0ffba">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</em></td><td>!urban nihilism</td></tr>
 <tr>
-<td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (133+5)/2</td></tr>
+<td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (420-6)/6</td></tr>
 <tr>
 <td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng, !random, !which</td><td>[options]</td><td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td><td>!pick red, black, dark blue, pink, light green </td></tr>
 <tr>
