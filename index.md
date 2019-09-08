@@ -69,7 +69,7 @@
 <tr>
 <td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone in use.</td><td>!mic</td></tr>
 <tr>
-<td><font color="#b0ffba">Moderator</font></td><td>!muted</td><td>!mute</td><td></td><td>Attempts to tell the streamer they're muted.</td><td>!muted</td></tr>
+<td><font color="#b0ffba">Moderator</font></td><td>!muted</td><td>!mute</td><td></td><td>Attempts to politely tell the streamer they're muted.</td><td>!muted</td></tr>
 <tr>
 <td>Everyone</td><td>!headphones</td><td>!headset</td><td></td><td>Identifies the headphones in use.</td><td>!headphones</td></tr>
 <tr>
@@ -79,7 +79,7 @@
 <tr>
 <td>Everyone</td><td>!pocketcamp</td><td>!pcfc, !pcid</td><td></td><td>Returns the streamer's friend code for Animal Crossing: Pocket Camp.</td><td>!pcfc</td></tr>
 <tr>
-<td>Everyone</td><td>!daddy</td><td>!father, !dad, !jeff, !goldblum</td><td></td><td>Links to a convincing tweet.</td><td>!daddy</td></tr>
+<td>Everyone</td><td>!daddy</td><td>!father, !dad, !jeff, !goldblum</td><td></td><td>Links to a compelling tweet.</td><td>!daddy</td></tr>
 <tr>
 <td>Everyone</td><td>!24s</td><td></td><td></td><td>Retuns the number of 24-hour streams done (currently accurate to +/- 1).</td><td>!24s</td></tr>
 <tr>
