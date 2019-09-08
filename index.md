@@ -61,6 +61,8 @@
 <tr>
 <td>Everyone</td><td>!time</td><td></td><td></td><td>Returns the streamer's local time.</td><td>!time</td></tr>
 <tr>
+<td>Everyone</td><td>!timer</td><td></td><td></td><td>A Streamlabs command that explains what those numbers counting down on the screen are.</td><td>!timer</td></tr>
+<tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
 <td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s><br>Currently unknown.</td><td>!specs</td></tr>
