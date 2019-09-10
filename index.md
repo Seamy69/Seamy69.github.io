@@ -199,7 +199,9 @@
 <tr>
 <td>Everyone</td><td>!8ball</td><td>!8-ball</td><td>[question]</td><td>Returns a classic magic 8-ball response.</td><td>!8ball Does Seamy love me?</td></tr>
 <tr>
-<td>Everyone</td><td>!stopwatch</td><td>!sw, !countup</td><td>start/begin<hr>stop/end/reset/unset<hr>set [time in Eastern Time]</td><td>Returns the duration since the stopwatch was initiated. A custom initiation time can be set if necessary.</td><td>!stopwatch start<hr>!sw set 9:00p.m.</td></tr>
+<td>Everyone</td><td>!stopwatch</td><td>!sw, !countup</td><td></td><td>Returns the duration since the stopwatch was initiated.</td><td>!sw</td></tr>
+<tr>
+<td><font color="#b0ffba">Moderator</font></td><td>!stopwatch</td><td>!sw, !countup</td><td>start/begin<hr>stop/end/reset/unset<hr>set [time in Eastern Time]</td><td>Allows several means of manipulating the stopwatch. If a custom initiation time is not set, the stopwatch simply starts from zero.</td><td>!stopwatch start<hr>!sw set 9:00p.m.</td></tr>
 <tr>
 <td>Everyone</td><td>!countdown</td><td>!cd</td><td>[duration]<hr>stop/end/reset/unset</td><td>Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td><td>!countdown 6min<hr>!cd 6m Feed Todd Howard!<hr>!cd 6mins9s<hr>!cd 9hrs9minutes9secs</td></tr>
 <tr>
