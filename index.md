@@ -187,7 +187,11 @@
 <tr>
 <td><font color="#b0ffba">Moderator</font></td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
-<td><font color="#ebb0ff">Subscriber</font>/<br><font color="#b0ffba">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</em></td><td>!urban nihilism</td></tr>
+<td>Everyone</td><td>!wotd</td><td>!wordoftheday</td><td></td><td>Returns the word of the day.</td><td>!wotd</td></tr>
+<tr>
+<td>Everyone</td><td>!define</td><td>!dictionary, !dic, !definition</td><td>[word]</td><td>Returns the definition of the word in question.</td><td>!define nihilism</td></tr>
+<tr>
+<td><font color="#ebb0ff">Subscriber</font>/<br><font color="#b0ffba">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud, !udefine</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</em></td><td>!urban nihilism</td></tr>
 <tr>
 <td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (420-6)/6</td></tr>
 <tr>
