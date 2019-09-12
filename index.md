@@ -133,9 +133,9 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!break</td><td></td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!break</td></tr>
+  <td><font color="#AFF8DB">Moderator</font></td><td><font color="#85E3FF">!break</font></td><td></td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!break</td></tr>
 <tr>
-<td><font color="#FFABAB">Broadcaster</font></td><td>!brb</td><td>!break</td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!brb</td></tr>
+<td><font color="#FFABAB">Broadcaster</font></td><td>!brb</td><td><font color="#85E3FF">!break</font></td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!brb</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!back</td><td></td><td></td><td>Disables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!back</td></tr>
 <tr>
@@ -163,13 +163,13 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!give [username] [number]</td></tr>
 <tr>
 </tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em>Not related to Channel Points.</em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em><font color="#85E3FF">Only available during breaks (with the exception of the on/off commands).</font></em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em><font color="#85E3FF">Only available during breaks (with the exception of the on/off commands).</font></em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addpoints [username] [number],<br>!rem[ove]points [username] [number]</td></tr>
 <tr>
@@ -195,7 +195,7 @@
 <tr>
 <td>Everyone</td><td>!define</td><td>!dictionary, !dic, !definition</td><td>[word]</td><td>Returns the definition of the word in question.</td><td>!define nihilism</td></tr>
 <tr>
-<td><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud, !udefine</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em>Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</em></td><td>!urban nihilism</td></tr>
+<td><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud, !udefine</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em><font color="#FFF5BA">Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</font></em></td><td>!urban nihilism</td></tr>
 <tr>
 <td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (420-6)/6</td></tr>
 <tr>
