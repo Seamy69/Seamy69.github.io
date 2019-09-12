@@ -151,11 +151,11 @@
 <tr>
 <td>Everyone</td><td>!quote</td><td>!q</td><td>[number]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quote<hr>!quote 99</td></tr>
 <tr>
-<td>Everyone</td><td>!quotes</td><td>!q</td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quotes</td></tr>
+<td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quotes</td></tr>
 <tr>
-<td>Everyone</td><td>!lastquote</td><td>![latest/newest]q[uote]</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!latestquote</td></tr>
+<td>Everyone</td><td>!lastquote</td><td>![latest/newest]quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!latestquote</td></tr>
 <tr>
-<td rowspan="3"><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!quote</td><td><br><br>!q</td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
+<td rowspan="3"><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!quote</td><td>!q</td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addquote [quote], !quoteadd [quote],<br>!del[ete]quote [number], !rem[ove]quote [number]</td></tr>
 <tr>
