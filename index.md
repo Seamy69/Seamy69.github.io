@@ -139,6 +139,10 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!back</td><td></td><td></td><td>Disables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!back</td></tr>
 <tr>
+<td>Everyone</td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td></td><td>Returns a random dad joke.<br><br><em>Only available during breaks.</em></td><td>!dadjoke</td></tr>
+<tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td>on/off</td><td>Enables/disables the !dadjoke command.</td><td>!dadjokes on</td></tr>
+<tr>
 <td>Everyone</td><td>!fact</td><td></td><td>[number]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em>Only available during breaks.</em></td><td>!fact<hr>!fact 420</td></tr>
 <tr>
 <td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.<br><br><em>Only available during breaks.</em></td><td>!facts</td></tr>
