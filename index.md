@@ -149,9 +149,9 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!facts</td><td></td><td>on/off</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
 <tr>
-<td>Everyone</td><td>!quote</td><td></td><td>[number]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quote<hr>!quote 99</td></tr>
+<td>Everyone</td><td>!quote</td><td>!q</td><td>[number]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quote<hr>!quote 99</td></tr>
 <tr>
-<td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quotes</td></tr>
+<td>Everyone</td><td>!quotes</td><td>!q</td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quotes</td></tr>
 <tr>
 <td>Everyone</td><td>!lastquote</td><td>![latest/newest]quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!latestquote</td></tr>
 <tr>
