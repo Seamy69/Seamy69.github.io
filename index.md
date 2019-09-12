@@ -27,7 +27,7 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page <font color="#F6A6FF">(currently a work in progress)</font>.</td><td>!commands</td></tr>
+<td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page <font color="#FF9CEE">(currently a work in progress)</font>.</td><td>!commands</td></tr>
 <tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to the streamer's Discord.</td><td>!discord</td></tr>
 <tr>
