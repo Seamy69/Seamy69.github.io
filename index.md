@@ -133,11 +133,11 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-  <td><font color="#AFF8DB">Moderator</font></td><td><font color="#85E3FF">!break</font></td><td></td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!break</td></tr>
+  <td><font color="#AFF8DB">Moderator</font></td><td><font color="#85E3FF">!break</font></td><td></td><td></td><td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!break</td></tr>
 <tr>
-<td><font color="#FFABAB">Broadcaster</font></td><td>!brb</td><td><font color="#85E3FF">!break</font></td><td></td><td>Enables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!brb</td></tr>
+<td><font color="#FFABAB">Broadcaster</font></td><td>!brb</td><td><font color="#85E3FF">!break</font></td><td></td><td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!brb</td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!back</td><td></td><td></td><td>Disables the facts, quotes, points, gambling, slots, and heists commands.</td><td>!back</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!back</td><td></td><td></td><td>Disables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!back</td></tr>
 <tr>
 <td>Everyone</td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td></td><td>Returns a random dad joke.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!dadjoke</td></tr>
 <tr>
