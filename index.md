@@ -26,6 +26,7 @@
 <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
 <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
 </ul>
+<br><br>
 <tr>
 <td>Everyone</td><td>!channelpoints</td><td>!cpoints, !cp</td><td></td><td>Links to a simple image explaining what the new Channel Points are.</td><td>!cp</td></tr>
 <tr>
@@ -163,23 +164,23 @@
 <tr>
 </tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands.<br><br><em><font color="#FFF5BA">The ability for subscribers and moderators to add quotes is unaffected.</font></em></td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add {USERNAME} {NUMBER}<hr>rem[ove] {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add {USERNAME} {NUMBER}<hr>rem[ove] {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<br><br></td></tr>
 <tr>
 </tr>
 <tr>
-<td>Everyone</td><td>!gamble</td><td>!gambling</td><td>[NUMBER]<hr>all/a lot/some/a little<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
+<td>Everyone</td><td>!gamble</td><td>!gamb[ling]</td><td>[NUMBER]<hr>all/a {lot/bunch}/some/a {little/bit}<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!gamble</td><td>!gambling</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble on</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!gamble</td><td>!gamb[ling]</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble on</td></tr>
 <tr>
 <td>Everyone</td><td>!slots</td><td></td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!slots 999<hr>!slots all</td></tr>
 <tr>
@@ -187,7 +188,7 @@
 <tr>
 <td>Everyone</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!heist 42069<hr>!heist all</td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>on/off</td><td>Enables/disables the !heists commands.</td><td>!heisting off</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>on/off</td><td>Enables/disables the !heisting commands.</td><td>!heisting off</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
