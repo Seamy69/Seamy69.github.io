@@ -8,42 +8,42 @@ table.darkTable {
   border-collapse: collapse;
 }
 table.darkTable td, table.darkTable th {
-  border: 0px solid #CCCCCC;
+  border: 0px solid #F2F2F2;
   padding: 7px 5px;
   vertical-align: middle;
 }
 table.darkTable tbody td {
   font-size: 12px;
-  color: #CCCCCC;
+  color: #F2F2F2;
 }
 table.darkTable tr:nth-child(even) {
   background: #323232;
 }
 table.darkTable thead {
   background: #232323;
-  border-bottom: 2px solid #CCCCCC;
+  border-bottom: 2px solid #F2F2F2;
 }
 table.darkTable thead th {
   font-size: 15px;
   font-weight: bold;
-  color: #CCCCCC;
+  color: #F2F2F2;
   text-align: center;
-  border-left: 2px solid #CCCCCC;
-  border-right: 2px solid #CCCCCC;
+  border-left: 2px solid #F2F2F2;
+  border-right: 2px solid #F2F2F2;
   vertical-align: middle;
 }
 table.darkTable tfoot {
   font-size: 15px;
   font-weight: bold;
-  color: #CCCCCC;
+  color: #F2F2F2;
   background: #323232;
-  border-top: 2px solid #CCCCCC;
+  border-top: 2px solid #F2F2F2;
   text-align: center;
 
   vertical-align: middle;
 }
 table.darkTable tfoot td {
   font-size: 15px;
-  border-left: 2px solid #CCCCCC;
-  border-right: 2px solid #CCCCCC;
+  border-left: 2px solid #F2F2F2;
+  border-right: 2px solid #F2F2F2;
 }
