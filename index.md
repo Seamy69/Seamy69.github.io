@@ -122,7 +122,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !dc, !death[s], !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!dc +<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 2px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
+<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -130,7 +130,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count +<hr>!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 2px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
+<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -160,7 +160,7 @@
 <tr>
 <td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td><td rowspan="3">!quote</td><td><br><br><br></td><td rowspan="3">add/+ {QUOTE}<hr>del[ete]/- {NUMBER}<hr>rem[ove]/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes to a queue for review. Subscribers cannot, however, remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 2px ridge #F2F2F2" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr>!del[ete]quote {NUMBER}<hr>!rem[ove]quote {NUMBER}</td></tr>
+<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr>!del[ete]quote {NUMBER}<hr>!rem[ove]quote {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -168,13 +168,13 @@
 <tr>
 <td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 2px ridge #F2F2F2" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td></tr>
+<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add/+ {USERNAME} {NUMBER}<hr>rem[ove]/- {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 2px ridge #F2F2F2" bgcolor="#232323" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<br><br></td></tr>
+<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<br><br></td></tr>
 <tr>
 </tr>
 <tr>
@@ -234,7 +234,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!com[mand]</td><td><br>!cmd[s]<br><br></td><td rowspan="3">add {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br><hr><br>edit/change/fix {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br><hr><br>del[ete]/rem[ove] {COMMAND NAME}</td><td rowspan="3">Allows several means of manipulating custom commands. Also, the first two words of this command can be interchanged.<br><br><hr><br><font color="#f8b88b">The [USERLEVEL] parameters are as follows:<br><br>-ul={[broad]caster/owner}[only]<br>-ul={moderator[s]/mod[s]}[only]<br>-ul={subscriber[s]/sub[s]}[only]<br><br>A "broadcaster" user level stipulates a command can only be used by the broadcaster.<br><br>A "moderator" user level stipulates a command can only be used by all moderators, including the broadcaster.<br><br>A "subscriber" user level stipulates a command can only be used by subscribers, all moderators, and the broadcaster.</font></td><td rowspan="3">!addcom !test This is a test command.<hr>!command add !test This is a test command.<hr>!add command !test This is a test command.<hr>!command add !test -ul=mod This is a test command.<hr>!edit command !test -ul=subsonly This is an edited test command.<hr>!command delete !test<hr>!delcom !test</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 2px ridge #F2F2F2" bgcolor="#232323" rowspan="2">!add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br><hr><br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br><hr><br>!{del[ete]/rem[ove]}{com[mand][s]/cmd[s]} {COMMAND NAME}</td></tr>
+<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2">!add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br><hr><br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br><hr><br>!{del[ete]/rem[ove]}{com[mand][s]/cmd[s]} {COMMAND NAME}</td></tr>
 <tr>
 </tr>
 <tr>
