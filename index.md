@@ -105,9 +105,9 @@
 <tr>
 <td>Everyone</td><td>!viewers</td><td>!view[er]count, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
 <tr>
-<td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[USERNAME]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!aa Seamy</td></tr>
+<td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[USERNAME]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!accountage<hr>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow[ing/ed], !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow[ing/ed], !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!howlong<hr>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
