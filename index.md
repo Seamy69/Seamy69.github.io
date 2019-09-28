@@ -91,7 +91,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollow</td><td>![last/latest/newest/recent][1-5]follow[er][s],<br><br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!newest2follows<hr>!recent3followers<hr>!latest4<hr>!lf</td></tr>
+<td>Everyone</td><td>!lastfollow</td><td>!{last/latest/newest/recent}{1-5}follow[er][s],<br><br>!l{1-5}f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!newest2follows<hr>!recent3followers<hr>!latest4<hr>!lf</td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -109,27 +109,27 @@
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!uptime</td><td>!up, !live</td><td>set [time in Eastern Time]<hr>stop/end/remove/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:09 p.m.<hr>!uptime set 16:09<hr>!uptime set 4pm</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!uptime</td><td>!up, !live</td><td>set {time in Eastern Time}<hr>stop/end/remove/reset/unset</td><td>Creates or removes a custom uptime in the event of a crashed or split stream.</td><td>!uptime set 4:09 p.m.<hr>!uptime set 16:09<hr>!uptime set 4pm</td></tr>
 <tr>
 <td>Everyone</td><td>!deathcounter</td><td>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td></td><td>Returns the death count for the game currently being played.</td><td>!d</td></tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!d set 69<hr>d+</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !death[s], !dead, !died, !ded, !rip, !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {number}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[d/death][+/-],<br>[+/-][d/death]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
 <tr>
 </tr>
 <tr>
 <td>Everyone</td><td>!counter</td><td>!count</td><td></td><td>Returns the current count of a generic counter in progress.</td><td>!count</td></tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set [number]<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {number}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">[c/count/counter][+/-],<br>[+/-][c/count/counter]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
 <tr>
 </tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-  <td><font color="#AFF8DB">Moderator</font></td><td><font color="#85E3FF">!break</font></td><td></td><td></td><td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!break</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td><font color="#85E3FF">!break</font></td><td></td><td></td><td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!break</td></tr>
 <tr>
 <td><font color="#FFABAB">Broadcaster</font></td><td>!brb</td><td><font color="#85E3FF">!break</font></td><td></td><td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!brb</td></tr>
 <tr>
@@ -149,25 +149,25 @@
 <tr>
 <td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quotes</td></tr>
 <tr>
-<td>Everyone</td><td>!lastquote</td><td>![latest/newest]quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!latestquote</td></tr>
+<td>Everyone</td><td>!lastquote</td><td>!{latest/newest}quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!latestquote</td></tr>
 <tr>
-<td rowspan="3"><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!quote</td><td><br>!q<br><br></td><td rowspan="3">add/+ [quote]<hr>delete/del/remove/rem/- [number]</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
+<td rowspan="3"><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!quote</td><td><br>!q<br><br></td><td rowspan="3">add/+ {quote}<hr>delete/del/remove/rem/- {number}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addquote [quote], !quoteadd [quote],<br>!del[ete]quote [number], !rem[ove]quote [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addquote {quote}, !quoteadd {quote},<br>!del[ete]quote {number}, !rem[ove]quote {number}</td></tr>
 <tr>
 </tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give [username] [number]<hr>help</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">give {username} {number}<hr>help</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!give [username] [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!give {username} {number}</td></tr>
 <tr>
 </tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove [username] [number]<hr>set [username] [number]<hr>reset [username]<hr>reset</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em><font color="#85E3FF">Only available during breaks (with the exception of the on/off commands).</font></em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/remove {username} {number}<hr>set {username} {number}<hr>reset [username]</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em><font color="#85E3FF">Only available during breaks (with the exception of the on/off commands).</font></em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addpoints [username] [number],<br>!rem[ove]points [username] [number]</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!addpoints {username} {number},<br>!rem[ove]points {username} {number}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -175,59 +175,59 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!gamble</td><td>!gambling, !g</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble on</td></tr>
 <tr>
-<td>Everyone</td><td>!slots</td><td>!s</td><td>[number]<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!slots 999<hr>!slots all</td></tr>
+<td>Everyone</td><td>!slots</td><td>!s</td><td>{number}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!slots 999<hr>!slots all</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!slots</td><td>!s</td><td>on/off</td><td>Enables/disables the !slots commands.</td><td>!slots off</td></tr>
 <tr>
-<td>Everyone</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>[number]<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!heist 42069<hr>!heist all</td></tr>
+<td>Everyone</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>{number}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!heist 42069<hr>!heist all</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>on/off</td><td>Enables/disables the !heists commands.</td><td>!heisting off</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!help</td><td>!lifeline, !ll !crisis, !suicid[e/al], !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!help</td><td>!lifeline, !ll !crisis, !suicid{e/al}, !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
 <td>Everyone</td><td>!wotd</td><td>!wordoftheday</td><td></td><td>Returns the word of the day.</td><td>!wotd</td></tr>
 <tr>
-<td>Everyone</td><td>!define</td><td>!dictionary, !dic, !definition</td><td>[word]</td><td>Returns the definition of the word in question.</td><td>!define nihilism</td></tr>
+<td>Everyone</td><td>!define</td><td>!dictionary, !dic, !definition</td><td>{word}</td><td>Returns the definition of the word in question.</td><td>!define nihilism</td></tr>
 <tr>
-<td><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud, !udefine</td><td>[word/phrase]</td><td>Returns the urban definition of the word or phrase in question.<br><br><em><font color="#FFF5BA">Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</font></em></td><td>!urban nihilism</td></tr>
+<td><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td>!urban</td><td>!urbandictionary, !ud, !udefine</td><td>{word/phrase}</td><td>Returns the urban definition of the word or phrase in question.<br><br><em><font color="#FFF5BA">Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</font></em></td><td>!urban nihilism</td></tr>
 <tr>
-<td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>[numerical expression]</td><td>Solves relatively basic numerical expressions.</td><td>!calc (420-6)/6</td></tr>
+<td>Everyone</td><td>!calc</td><td>!calculat[e/or], !math</td><td>{numerical expression}</td><td>Solves relatively basic numerical expressions.</td><td>!calc (420-6)/6</td></tr>
 <tr>
-<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng, !random, !which</td><td>[options]</td><td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td><td>!pick red, black, dark blue, pink, light green </td></tr>
+<td>Everyone</td><td>!pick</td><td>!pickfrom, !choose[from], !choice[s], !rng, !random, !which</td><td>{options}</td><td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td><td>!pick red, black, dark blue, pink, light green </td></tr>
 <tr>
-<td>Everyone</td><td>!8ball</td><td>!8-ball</td><td>[question]</td><td>Returns a classic magic 8-ball response.</td><td>!8ball Does Seamy love me?</td></tr>
+<td>Everyone</td><td>!8ball</td><td>!8-ball</td><td>{question}</td><td>Returns a classic magic 8-ball response.</td><td>!8ball Does Seamy love me?</td></tr>
 <tr>
 <td>Everyone</td><td>!stopwatch</td><td>!sw, !countup</td><td></td><td>Returns the duration since the stopwatch was initiated.</td><td>!sw</td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!stopwatch</td><td>!sw, !countup</td><td>start/begin<hr>stop/end/reset/unset<hr>set [time in Eastern Time]</td><td>Allows several means of manipulating the stopwatch. If a custom initiation time is not set, the stopwatch simply starts from zero.</td><td>!stopwatch start<hr>!sw set 9:00p.m.</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!stopwatch</td><td>!sw, !countup</td><td>start/begin<hr>stop/end/reset/unset<hr>set {time in Eastern Time}</td><td>Allows several means of manipulating the stopwatch. If a custom initiation time is not set, the stopwatch simply starts from zero.</td><td>!stopwatch start<hr>!sw set 9:00p.m.</td></tr>
 <tr>
-<td>Everyone</td><td>!countdown</td><td>!cd</td><td>[duration]<hr>stop/end/reset/unset</td><td>Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td><td>!countdown 6min<hr>!cd 6m Feed Todd Howard!<hr>!cd 6mins9s<hr>!cd 9hrs9minutes9secs</td></tr>
+<td>Everyone</td><td>!countdown</td><td>!cd</td><td>{duration}<hr>stop/end/reset/unset</td><td>Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td><td>!countdown 6min<hr>!cd 6m Feed Todd Howard!<hr>!cd 6mins9s<hr>!cd 9hrs9minutes9secs</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td>Everyone</td><td>!fahrenheit</td><td>!f</td><td>[number]</td><td>Converts the given number to degrees Celsius.</td><td>!f 9</td></tr>
+<td>Everyone</td><td>!fahrenheit</td><td>!f</td><td>{number}</td><td>Converts the given number to degrees Celsius.</td><td>!f 9</td></tr>
 <tr>
-<td>Everyone</td><td>!celsius</td><td>!c</td><td>[number]</td><td>Converts the given number to degrees Fahrenheit.</td><td>!c 25</td></tr>
+<td>Everyone</td><td>!celsius</td><td>!c</td><td>{number}</td><td>Converts the given number to degrees Fahrenheit.</td><td>!c 25</td></tr>
 <tr>
-<td>Everyone</td><td>!miles</td><td>!mi[le], !m</td><td>[number]</td><td>Converts the given number to kilometers.</td><td>!m 69</td></tr>
+<td>Everyone</td><td>!miles</td><td>!mi[le], !m</td><td>{number}</td><td>Converts the given number to kilometers.</td><td>!m 69</td></tr>
 <tr>
-<td>Everyone</td><td>!kilometers</td><td>!kilomet[er/re][s], !km[s]</td><td>[number]</td><td>Converts the given number to miles.</td><td>!km 420</td></tr>
+<td>Everyone</td><td>!kilometers</td><td>!kilomet{er/re}[s], !km[s]</td><td>{number}</td><td>Converts the given number to miles.</td><td>!km 420</td></tr>
 <tr>
-<td>Everyone</td><td>!pounds</td><td>!pound, !lb[s]</td><td>[number]</td><td>Converts the given number to kilograms.</td><td>!lb 1337</td></tr>
+<td>Everyone</td><td>!pounds</td><td>!pound, !lb[s]</td><td>{number}</td><td>Converts the given number to kilograms.</td><td>!lb 1337</td></tr>
 <tr>
-<td>Everyone</td><td>!kilograms</td><td>!kilogram, !kilo[s], !kg[s]</td><td>[number]</td><td>Converts the given number to pounds.</td><td>!kg 9001</td></tr>
+<td>Everyone</td><td>!kilograms</td><td>!kilogram, !kilo[s], !kg[s]</td><td>{number}</td><td>Converts the given number to pounds.</td><td>!kg 9001</td></tr>
 <tr>
-<td>Everyone</td><td>!inches</td><td>!in[ch]</td><td>[number]</td><td>Converts the given number to centimeters.</td><td>!in 80085</td></tr>
+<td>Everyone</td><td>!inches</td><td>!in[ch]</td><td>{number}</td><td>Converts the given number to centimeters.</td><td>!in 80085</td></tr>
 <tr>
-<td>Everyone</td><td>!centimeters</td><td>!centimet[er/re][s], !cm[s]</td><td>[number]</td><td>Converts the given number to inches.</td><td>!cm 8675309</td></tr>
+<td>Everyone</td><td>!centimeters</td><td>!centimet{er/re}[s], !cm[s]</td><td>{number}</td><td>Converts the given number to inches.</td><td>!cm 8675309</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
 <td><font color="#FFABAB">Broadcaster</font></td><td>!start</td><td>!on, !turn on, !resume</td><td></td><td>Allows the streamer to turn the bot on (the bot is on by default). These commands also work if the first word in the command is "bot".</td><td>!start<hr>!bot start</td></tr>
 <tr>
-<td><font color="#FFABAB">Broadcaster</font></td><td>!stop</td><td>!off, !turn off, !exit, !shut [down/off]</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
+<td><font color="#FFABAB">Broadcaster</font></td><td>!stop</td><td>!off, !turn off, !exit, !shut {down/off}</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
 <tr>
 <td><font color="#FFABAB">Broadcaster</font></td><td>!restart</td><td>!reboot</td><td></td><td>Allows the streamer to restart the bot. These commands also work if the first word in the command is "bot".</td><td>!restart<hr>!bot restart</td></tr>
 
