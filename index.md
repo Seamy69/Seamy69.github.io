@@ -21,12 +21,6 @@
 </tfoot>
 <tbody>
 <tr>
-<td>Everyone</td><td>!subtember</td><td>!september, !promo</td><td></td><td>Briefly explains what SUBtember is.</td><td>!subtember</td></tr>
-<tr>
-<td>Everyone</td><td>!channelpoints</td><td>!cpoints, !cp</td><td></td><td>Links to a simple image explaining what the new Channel Points are.</td><td>!cp</td></tr>
-<tr>
-<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
-<tr>
 <td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page <font color="#FF9CEE">(currently a work in progress)</font>.</td><td>!commands</td></tr>
 <tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to the streamer's Discord.</td><td>!discord</td></tr>
