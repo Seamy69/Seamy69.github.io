@@ -122,7 +122,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !dc, !death[s], !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!dc +<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
+<td style="border-right: 1px ridge #F2F2F2; border-top: 1px ridge #F2F2F2; border-left: 1px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -130,7 +130,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count +<hr>!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
+<td style="border-right: 1px ridge #F2F2F2; border-top: 1px ridge #F2F2F2; border-left: 1px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -168,7 +168,7 @@
 <tr>
 <td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
-<td style="border-right: 2px ridge #F2F2F2; border-top: 2px ridge #F2F2F2; border-left: 2px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td></tr>
+<td style="border-right: 1px ridge #F2F2F2; border-top: 1px ridge #F2F2F2; border-left: 1px ridge #F2F2F2; border-bottom: 1px ridge #F2F2F2" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
