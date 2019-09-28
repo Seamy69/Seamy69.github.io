@@ -44,7 +44,7 @@
 <tr>
 <td><font color="#baed91">Moderator</font></td><td>!links</td><td>!sites, !media</td><td></td><td>Links to the streamer's Discord, Twitter, Instagram, and Youtube.</td><td>!links</td></tr>
 <tr>
-<td>Everyone</td><td>!steam</td><td></td><td></td><td>Links to the streamer's Steam.</td><td>!steam</td></tr>
+<td>Everyone</td><td>!steam</td><td></td><td></td><td>Links to the streamer's Steam profile.</td><td>!steam</td></tr>
 <tr>
 <td>Everyone</td><td>!subscribe</td><td>!sub</td><td></td><td>Links to a [mobile-friendly] subscription page to the channel.</td><td>!sub</td></tr>
 <tr>
@@ -191,6 +191,8 @@
 <td><font color="#baed91">Moderator</font></td><td>!heist</td><td>![bank]heist[ing][s], !bh</td><td>on/off</td><td>Enables/disables the !heist commands.</td><td>!heisting off</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
+<td>Non-moderator</td><td>!help</td><td></td><td></td><td>Links to this page (currently a work in progress).</td><td>!help</td></tr>
 <tr>
 <td><font color="#baed91">Moderator</font></td><td>!help</td><td>!lifeline, !ll !crisis, !suicid{e/al}, !suicideprevention, !sp</td><td></td><td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td><td>!help</td></tr>
 <tr>
