@@ -122,7 +122,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !dc, !death[s], !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!dc +<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999; border-bottom: 1px solid #999999" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
+<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -160,7 +160,7 @@
 <tr>
 <td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td><td rowspan="3">!quote</td><td><br><br><br></td><td rowspan="3">add/+ {QUOTE}<hr>del[ete]/- {NUMBER}<hr>rem[ove]/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes to a queue for review. Subscribers cannot, however, remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
-<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr>!del[ete]quote {NUMBER}<hr>!rem[ove]quote {NUMBER}</td></tr>
+<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr>!quoteadd {QUOTE}<hr>!del[ete]quote {NUMBER}<hr>!quoterem[ove] {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
