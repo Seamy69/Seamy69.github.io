@@ -21,8 +21,8 @@
 </tfoot>
 <tbody>
 <ul>
-<li>Words surrounded by curly brackets " { " and " } " indicate a required parameter or input.</li>
-<li>Words surrounded by square brackets " [ " and " ] " indicate an optional parameter or input.</li>
+<li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
+<li>Words surrounded by [square brackets] indicate an optional parameter or input.</li>
 <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
 <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
 </ul>
@@ -108,7 +108,7 @@
 <tr>
 <td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[USERNAME]</td><td>Returns the date the [indicated] user's Twitch account was created.</td><td>!accountage<hr>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !hl !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the [indicated] user followed the channel.</td><td>!howlong<hr>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !hl, !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the [indicated] user followed the channel.</td><td>!howlong<hr>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
