@@ -158,7 +158,7 @@
 <tr>
 <td>Everyone</td><td>!lastquote</td><td>!{latest/newest}quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td><td>!latestquote</td></tr>
 <tr>
-<td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td><td rowspan="3">!quote</td><td><br><br><br></td><td rowspan="3">add/+ {QUOTE}<hr>del[ete]/- {NUMBER}<hr>rem[ove]/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes to a queue for review. Subscribers cannot, however, remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
+<td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td><td rowspan="3">!quote</td><td><br><br><br></td><td rowspan="3">add/+ {QUOTE}<hr>del[ete]/- {NUMBER}<hr>rem[ove]/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes to a queue for review. Subscribers cannot, however, remove quotes. Also, the first two words of this command can be interchanged.</td><td rowspan="3">!quote add Seamy's a dingus.<hr>!add quote Seamy's a dingus.<hr>!addquote Seamy's a dingus.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
 <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr>!quoteadd {QUOTE}<hr>!del[ete]quote {NUMBER}<hr>!quoterem[ove] {NUMBER}</td></tr>
 <tr>
