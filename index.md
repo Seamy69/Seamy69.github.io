@@ -105,9 +105,9 @@
 <tr>
 <td>Everyone</td><td>!viewers</td><td>!view[er]count, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
 <tr>
-<td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[USERNAME]</td><td>Returns the date the user's Twitch account was created. Optionally, include another username after the command to get theirs.</td><td>!accountage<hr>!aa Seamy</td></tr>
+<td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[USERNAME]</td><td>Returns the date the [indicated] user's Twitch account was created.</td><td>!accountage<hr>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow[ing/ed], !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the user followed the channel. Optionally, include another username after the command to get theirs.</td><td>!howlong<hr>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow[ing/ed], !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the [indicated] user followed the channel.</td><td>!howlong<hr>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
@@ -141,21 +141,21 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!back</td><td></td><td></td><td>Disables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!back</td></tr>
 <tr>
-<td>Everyone</td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td></td><td>Returns a random dad joke.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!dadjoke</td></tr>
+<td>Everyone</td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td></td><td>Returns a random dad joke.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!dadjoke</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td>on/off</td><td>Enables/disables the !dadjoke command.</td><td>!dadjokes on</td></tr>
 <tr>
-<td>Everyone</td><td>!fact</td><td></td><td>[NUMBER]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!fact<hr>!fact 420</td></tr>
+<td>Everyone</td><td>!fact</td><td></td><td>[NUMBER]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!fact<hr>!fact 420</td></tr>
 <tr>
-<td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!facts</td></tr>
+<td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!facts</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!facts</td><td></td><td>on/off</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
 <tr>
-<td>Everyone</td><td>!quote</td><td></td><td>[NUMBER]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quote<hr>!quote 99</td></tr>
+<td>Everyone</td><td>!quote</td><td></td><td>[NUMBER]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!quote<hr>!quote 99</td></tr>
 <tr>
-<td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quotes</td></tr>
+<td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!quotes</td></tr>
 <tr>
-<td>Everyone</td><td>!lastquote</td><td>!{latest/newest}quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!latestquote</td></tr>
+<td>Everyone</td><td>!lastquote</td><td>!{latest/newest}quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!latestquote</td></tr>
 <tr>
 <td rowspan="3"><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!quote</td><td></td><td rowspan="3">add/+ {quote}<hr>delete/del/remove/rem/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
@@ -165,27 +165,27 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands. (The ability for subscribers and moderators to add quotes is unaffected).</td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Returns the number of arbitrary points the user has in the channel. If a username is specificed after the command, that user's points will be returned instead. Alternatively, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add {USERNAME} {NUMBER}<hr>rem[ove] {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#85E3FF">Only available during breaks (with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add {USERNAME} {NUMBER}<hr>rem[ove] {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<br><br></td></tr>
 <tr>
 </tr>
 <tr>
-<td>Everyone</td><td>!gamble</td><td>!gambling</td><td>[NUMBER]<hr>all/a lot/some/a little<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
+<td>Everyone</td><td>!gamble</td><td>!gambling</td><td>[NUMBER]<hr>all/a lot/some/a little<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!gamble</td><td>!gambling</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble on</td></tr>
 <tr>
-<td>Everyone</td><td>!slots</td><td></td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!slots 999<hr>!slots all</td></tr>
+<td>Everyone</td><td>!slots</td><td></td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!slots 999<hr>!slots all</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!slots</td><td></td><td>on/off</td><td>Enables/disables the !slots commands.</td><td>!slots off</td></tr>
 <tr>
-<td>Everyone</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!heist 42069<hr>!heist all</td></tr>
+<td>Everyone</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!heist 42069<hr>!heist all</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>on/off</td><td>Enables/disables the !heists commands.</td><td>!heisting off</td></tr>
 <tr>
@@ -244,7 +244,5 @@
 <td><font color="#FFABAB">Broadcaster</font></td><td>!stop</td><td>!off, !turn off, !exit, !shut {down/off}</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
 <tr>
 <td><font color="#FFABAB">Broadcaster</font></td><td>!restart</td><td>!reboot</td><td></td><td>Allows the streamer to restart the bot. These commands also work if the first word in the command is "bot".</td><td>!restart<hr>!bot restart</td></tr>
-
 </tbody>
 </tr>
-
