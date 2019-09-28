@@ -145,13 +145,13 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td>on/off</td><td>Enables/disables the !dadjoke command.</td><td>!dadjokes on</td></tr>
 <tr>
-<td>Everyone</td><td>!fact</td><td></td><td>[number]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!fact<hr>!fact 420</td></tr>
+<td>Everyone</td><td>!fact</td><td></td><td>[NUMBER]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!fact<hr>!fact 420</td></tr>
 <tr>
 <td>Everyone</td><td>!facts</td><td></td><td></td><td>Returns the total number of facts.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!facts</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!facts</td><td></td><td>on/off</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
 <tr>
-<td>Everyone</td><td>!quote</td><td>!q</td><td>[number]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quote<hr>!quote 99</td></tr>
+<td>Everyone</td><td>!quote</td><td>!q</td><td>[NUMBER]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quote<hr>!quote 99</td></tr>
 <tr>
 <td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!quotes</td></tr>
 <tr>
@@ -177,7 +177,7 @@
 <tr>
 </tr>
 <tr>
-<td>Everyone</td><td>!gamble</td><td>!gambling, !g</td><td>[number]<hr>all/a lot/some/a little<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
+<td>Everyone</td><td>!gamble</td><td>!gambling, !g</td><td>[NUMBER]<hr>all/a lot/some/a little<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#85E3FF">Only available during breaks.</font></em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!gamble</td><td>!gambling, !g</td><td>on/off</td><td>Enables/disables the !gambling commands.</td><td>!gamble on</td></tr>
 <tr>
