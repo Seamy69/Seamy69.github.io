@@ -108,7 +108,7 @@
 <tr>
 <td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[USERNAME]</td><td>Returns the date the [indicated] user's Twitch account was created.</td><td>!accountage<hr>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow{ing/ed/time}, ![follow[s/er/ed/ing]]since</td><td>[USERNAME]</td><td>Returns the duration since and the date the [indicated] user followed the channel.</td><td>!howlong<hr>!since<hr>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !hl !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the [indicated] user followed the channel.</td><td>!howlong<hr>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
