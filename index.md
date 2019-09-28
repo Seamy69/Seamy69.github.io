@@ -98,7 +98,7 @@
 <tr>
 <td>Everyone</td><td>!followers</td><td>!follows, !follow[er]count</td><td></td><td>Returns the channel's current number of followers.</td><td>!followers</td></tr>
 <tr>
-<td>Everyone</td><td>!lastfollow</td><td>!{last/latest/newest/recent}[1-5]follow[er][s],<br><br>!l[1-5]f, !recents</td><td></td><td>Returns the channel's most recent followers, from one up to five.</td><td>!newest2follows<hr>!recent3followers<hr>!latest4<hr>!lf</td></tr>
+<td>Everyone</td><td>!lastfollow</td><td>!{last/latest/newest/recent}[1-5][follow[s/er[s]]]<hr>!l[1-5]f<hr>!recents</td><td></td><td>Returns the channel's most recent followers, from one up to five users.</td><td>!newest2follows<hr>!recent3followers<hr>!latest4<hr>!lf</td></tr>
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
@@ -108,7 +108,7 @@
 <tr>
 <td>Everyone</td><td>!accountage</td><td>!aa, !created, !joined</td><td>[USERNAME]</td><td>Returns the date the [indicated] user's Twitch account was created.</td><td>!accountage<hr>!aa Seamy</td></tr>
 <tr>
-<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow[ing/ed], !since</td><td>[USERNAME]</td><td>Returns the duration since and the date the [indicated] user followed the channel.</td><td>!howlong<hr>!followage Seamy</td></tr>
+<td>Everyone</td><td>!followage</td><td>!howlong, !hl !follow{ing/ed/time}, ![follow[s/er/ed/ing]]since</td><td>[USERNAME]</td><td>Returns the duration since and the date the [indicated] user followed the channel.</td><td>!howlong<hr>!since<hr>!followage Seamy</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
