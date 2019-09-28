@@ -111,7 +111,7 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!shoutout</td><td>!caster, !follow, !streamer, !suggest, !raider, !so</td><td>[USERNAME]</td><td>Parameter required. Promotes that user's Twitch channel. Using "!raider" changes the output slightly to be more specific to a received raid.</td><td>!so Seamy</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!shoutout</td><td>!caster, !follow, !streamer, !suggest, !raider, !so</td><td>{USERNAME}</td><td>Promotes that user's Twitch channel. Using "!raider" changes the output slightly to be more specific to a received raid.</td><td>!so Seamy</td></tr>
 <tr>
 <td>Everyone</td><td>!uptime</td><td>!up, !live</td><td></td><td>Returns the duration the current stream has been live.</td><td>!uptime</td></tr>
 <tr>
