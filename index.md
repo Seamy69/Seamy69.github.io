@@ -26,11 +26,11 @@
 <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
 <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
 </ul>
-<br><br>
+<br>
 <tr>
 <td>Everyone</td><td>!channelpoints</td><td>!cpoints, !cp</td><td></td><td>Links to a simple image explaining what the new Channel Points are.</td><td>!cp</td></tr>
 <tr>
-<td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page <font color="#FF9CEE">(currently a work in progress)</font>.</td><td>!commands</td></tr>
+<td>Everyone</td><td>!commands</td><td>!cmds</td><td></td><td>Links to this page (currently a work in progress).</td><td>!commands</td></tr>
 <tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to the streamer's Discord.</td><td>!discord</td></tr>
 <tr>
@@ -50,13 +50,13 @@
 <tr>
 <td>Everyone</td><td>!prime</td><td>!twitchprime, !freesub</td><td></td><td>Links to a Twitch page explaining Twitch Prime.</td><td>!prime</td></tr>
 <tr>
-<td>Everyone</td><td>!wishlist</td><td>!amazon, !wl</td><td></td><td><s>Links to the streamer's Amazon wishlist.</s><br><font color="#FFF5BA">Currently unavailable.</font></td><td>!wl</td></tr>
+<td>Everyone</td><td>!wishlist</td><td>!amazon, !wl</td><td></td><td><s>Links to the streamer's Amazon wishlist.</s><br><em><font color="#FFF5BA">Currently unavailable.</font></em></td><td>!wl</td></tr>
 <tr>
 <td>Everyone</td><td>!steamwishlist</td><td>!steamwl, !swl</td><td></td><td>Links to the streamer's Steam wishlist.</td><td>!swl</td></tr>
 <tr>
 <td>Everyone</td><td>!tip</td><td>!donate</td><td></td><td>Links to Streamlabs tipping service.</td><td>!tip</td></tr>
 <tr>
-<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for the streamer.</s><br><font color="#FFF5BA">Currently unavailable.</font></td><td>!merch</td></tr>
+<td>Everyone</td><td>!merch</td><td>!stuff</td><td></td><td><s>Links to Streamlabs merch store for the streamer.</s><br><em><font color="#FFF5BA">Currently unavailable.</font></em></td><td>!merch</td></tr>
 <tr>
 <td>Everyone</td><td>!contact</td><td>!business, !email, !inquiry</td><td></td><td>Returns the streamer's business email.</td><td>!contact</td></tr>
 <tr>
@@ -68,7 +68,7 @@
 <tr>
 <td>Everyone</td><td>!hype</td><td></td><td></td><td>Spams two lines of random channel emotes.</td><td>!hype</td></tr>
 <tr>
-<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s><br><font color="#FFF5BA">Currently unknown.</font></td><td>!specs</td></tr>
+<td>Everyone</td><td>!specs</td><td>!pc, !setup, !build</td><td></td><td><s>Returns the streamer's PC components.</s><br><em><font color="#FFF5BA">Currently unknown.</font></em></td><td>!specs</td></tr>
 <tr>
 <td>Everyone</td><td>!microphone</td><td>!mic</td><td></td><td>Identifies the microphone in use.</td><td>!mic</td></tr>
 <tr>
@@ -142,9 +142,9 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!back</td><td></td><td></td><td>Disables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td><td>!back</td></tr>
 <tr>
-<td>Everyone</td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td></td><td>Returns a random dad joke.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!dadjoke</td></tr>
+<td>Everyone</td><td>!dadjoke</td><td>![dad]joke[s]</td><td></td><td>Returns a random dad joke.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!dadjoke</td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!dadjoke</td><td>!dadjokes, !joke[s]</td><td>on/off</td><td>Enables/disables the !dadjoke command.</td><td>!dadjokes on</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!dadjoke</td><td>![dad]joke[s]</td><td>on/off</td><td>Enables/disables the !dadjoke command.</td><td>!dadjokes on</td></tr>
 <tr>
 <td>Everyone</td><td>!fact</td><td></td><td>[NUMBER]</td><td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!fact<hr>!fact 420</td></tr>
 <tr>
@@ -152,15 +152,15 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!facts</td><td></td><td>on/off</td><td>Enables/disables the !fact commands.</td><td>!facts on</td></tr>
 <tr>
-<td>Everyone</td><td>!quote</td><td></td><td>[NUMBER]</td><td>Returns a random streamer quote.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!quote<hr>!quote 99</td></tr>
+<td>Everyone</td><td>!quote</td><td></td><td>[NUMBER]</td><td>Returns a random streamer quote. Optionally, include a number after the command for that specific quote.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!quote<hr>!quote 99</td></tr>
 <tr>
 <td>Everyone</td><td>!quotes</td><td></td><td></td><td>Returns the total number of quotes.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!quotes</td></tr>
 <tr>
 <td>Everyone</td><td>!lastquote</td><td>!{latest/newest}quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!latestquote</td></tr>
 <tr>
-<td rowspan="3"><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!quote</td><td></td><td rowspan="3">add/+ {quote}<hr>delete/del/remove/rem/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
+<td rowspan="3"><font color="#D5AAFF">Subscriber</font>/<br><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!quote</td><td><br><br><br></td><td rowspan="3">add/+ {QUOTE}<hr>del[ete]/rem[ove]/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. In addition, subscribers can submit quotes at any time to a queue for review. However, subscribers cannot remove quotes.</td><td rowspan="3">!quote add Seamy smells.<hr>!addquote Seamy smells.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addquote {quote}, !quoteadd {quote},<br>!del[ete]quote {NUMBER}, !rem[ove]quote {NUMBER}</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr><br>!del[ete]quote {NUMBER}<hr>!rem[ove]quote {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -172,7 +172,7 @@
 <tr>
 </tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add {USERNAME} {NUMBER}<hr>rem[ove] {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add/+ {USERNAME} {NUMBER}<hr>rem[ove]/- {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
 <td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<br><br></td></tr>
 <tr>
@@ -186,9 +186,9 @@
 <tr>
 <td><font color="#AFF8DB">Moderator</font></td><td>!slots</td><td></td><td>on/off</td><td>Enables/disables the !slots commands.</td><td>!slots off</td></tr>
 <tr>
-<td>Everyone</td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!heist 42069<hr>!heist all</td></tr>
+<td>Everyone</td><td>!bankheist</td><td>!bh, ![bank]heist[ing][s]</td><td>{NUMBER}<hr>all<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#85E3FF">Only available during breaks (unless enabled manually).</font></em></td><td>!heist 42069<hr>!heist all</td></tr>
 <tr>
-<td><font color="#AFF8DB">Moderator</font></td><td>!bankheist</td><td>!bh, !heist[s], !heisting</td><td>on/off</td><td>Enables/disables the !heisting commands.</td><td>!heisting off</td></tr>
+<td><font color="#AFF8DB">Moderator</font></td><td>!bankheist</td><td>!bh, ![bank]heist[ing][s]</td><td>on/off</td><td>Enables/disables the !heisting commands.</td><td>!heisting off</td></tr>
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
