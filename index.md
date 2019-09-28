@@ -122,7 +122,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !dc, !death[s], !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!dc +<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
+<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">{d/death}{+/-}<hr>{+/-}{d/death}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -130,7 +130,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count +<hr>!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
+<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-}<hr>{+/-}{c/count/counter}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -158,23 +158,23 @@
 <tr>
 <td>Everyone</td><td>!lastquote</td><td>!{latest/newest}quote</td><td></td><td>Returns the most recently added quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td><td>!latestquote</td></tr>
 <tr>
-<td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td><td rowspan="3">!quote</td><td><br><br><br></td><td rowspan="3">add/+ {QUOTE}<hr>del[ete]/- {NUMBER}<hr>rem[ove]/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes to a queue for review. Subscribers cannot, however, remove quotes. Also, the first two words of this command can be interchanged.</td><td rowspan="3">!quote add Seamy's a dingus.<hr>!add quote Seamy's a dingus.<hr>!addquote Seamy's a dingus.<hr>!quote delete 9<hr>!delquote 9</td></tr>
+<td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td><td rowspan="3">!quote</td><td><br>!q<br><br></td><td rowspan="3">add/+ {QUOTE}<hr>del[ete]/- {NUMBER}<hr>rem[ove]/- {NUMBER}</td><td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes to a queue for review. Subscribers cannot, however, remove quotes. Also, the first two words of this command can be interchanged.</td><td rowspan="3">!quote add Seamy's a dingus.<hr>!add quote Seamy's a dingus.<hr>!addquote Seamy's a dingus.<hr>+q Seamy's a dingus.<hr>!quote delete 9<hr>!delquote 9</td></tr>
 <tr>
-<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr>!quoteadd {QUOTE}<hr>!del[ete]quote {NUMBER}<hr>!quoterem[ove] {NUMBER}</td></tr>
+<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!addquote {QUOTE}<hr>!quoteadd {QUOTE}<hr>!del[ete]quote {NUMBER}<hr>!quoterem[ove] {NUMBER}<hr>{q/quote}{+/-} {QUOTE}/{NUMBER}<hr>{+/-}{q/quote} {QUOTE}/{NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
 <td><font color="#baed91">Moderator</font></td><td>!quotes</td><td></td><td>on/off</td><td>Enables/disables the !quote commands.<br><br><em><font color="#f8b88b">The ability for moderators and subscribers to add quotes is unaffected. They may add quotes at any time.</font></em></td><td>!quotes off</td></tr>
 <tr>
-<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
+<td rowspan="3">Everyone</td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">[USERNAME]<hr>give {USERNAME} {NUMBER}<hr>help</td><td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td><td rowspan="3">!points<hr>!points Seamy<hr>!points give Seamy 6969<hr>!give Seamy 6969</td></tr>
 <tr>
 <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
-<td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br></td><td rowspan="3">on/off<hr>add/+ {USERNAME} {NUMBER}<hr>rem[ove]/- {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
+<td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/+ {USERNAME} {NUMBER}<hr>rem[ove]/- {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>p+ Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
-<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<br><br></td></tr>
+<td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<hr>{p/points}{+/-} {USERNAME} {NUMBER}<hr>{+/-}{p/points} {USERNAME} {NUMBER}</td></tr>
 <tr>
 </tr>
 <tr>
