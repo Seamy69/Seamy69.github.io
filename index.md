@@ -231,6 +231,14 @@
 <tr>
 <td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
 <tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!com[mand][s]</td><td><br>!cmd[s]<br><br></td><td rowspan="3">add {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<hr>edit/change/fix {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<hr>del[ete]/rem[ove] {COMMAND NAME}</td><td rowspan="3">Allows several means of manipulating custom commands. Also, the first two words of this command can be interchanged.<hr><br><br><em><font color="#FFF5BA">The [USERLEVEL] parameters are as follows:<br>-ul={broad[caster]/owner}[only]<br>-ul={moderator[s]/mod[s]}[only]<br>-ul={subscriber[s]/sub[s]}[only]</font></em></td><td rowspan="3">!addcom !test This is a test command.<hr>!command add !test This is a test command.<hr>!add command !test This is a test command.<hr>!command add !test -ul=mod This is a test command only moderators can use.<hr>!edit command !test -ul=subs This is an edited test command only subscribers (and moderators) can use.<hr>!command delete !test<hr>!delcom !test</td></tr>
+<tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2">!add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<hr>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<hr>!{del[ete]/rem[ove]}{com[mand][s]/cmd[s]} {COMMAND NAME}</td></tr>
+<tr>
+</tr>
+<tr>
+<td colspan="6" align="center" bgcolor="#F2F2F2"></td></tr>
+<tr>
 <td><font color="#FFABAB">Broadcaster</font></td><td>!start</td><td>!on, !turn on, !resume</td><td></td><td>Allows the streamer to turn the bot on (the bot is on by default). These commands also work if the first word in the command is "bot".</td><td>!start<hr>!bot start</td></tr>
 <tr>
 <td><font color="#FFABAB">Broadcaster</font></td><td>!stop</td><td>!off, !turn off, !exit, !shut {down/off}</td><td></td><td>Allows the streamer to turn the bot off. These commands also work if the first word in the command is "bot".</td><td>!off<hr>!bot off</td></tr>
