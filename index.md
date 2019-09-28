@@ -34,7 +34,7 @@
 <tr>
 <td>Everyone</td><td>!discord</td><td>!disc</td><td></td><td>Links to the streamer's Discord.</td><td>!discord</td></tr>
 <tr>
-<td>Everyone</td><td>!instagram</td><td>!insta, !ig</td><td></td><td>Links to the streamer's Instagram.</td><td>!ig</td></tr>
+<td>Everyone</td><td>!instagram</td><td>!ig, !insta</td><td></td><td>Links to the streamer's Instagram.</td><td>!ig</td></tr>
 <tr>
 <td>Everyone</td><td>!twitter</td><td></td><td></td><td>Links to the streamer's Twitter.</td><td>!twitter</td></tr>
 <tr>
@@ -122,7 +122,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!deathcounter</td><td><br>!deathcount, !dc, !death[s], !d</td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active death counter.</td><td rowspan="3">!death add<hr>!dc +<hr>!d set 69<hr>d+</td></tr>
 <tr>
-<td style="border-right: 3px groove #888888; border-top: 3px groove #888888; border-left: 3px groove #888888; border-bottom: 1px groove #888888" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
+<td style="border-right: 3px groove #999999; border-top: 3px groove #999999; border-left: 3px groove #999999; border-bottom: 1px groove #999999" bgcolor="#232323" rowspan="2">{d/death}{+/-},<br>{+/-}{d/death}</td></tr>
 <tr>
 </tr>
 <tr>
@@ -130,7 +130,7 @@
 <tr>
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!counter</td><td><br>!count<br><br></td><td rowspan="3">add/increase/+<hr>remove/decrease/-/minus/subtract<hr>set {NUMBER}<hr>reset/unset</td><td rowspan="3">Allows several means of manipulating the active counter.</td><td rowspan="3">!count +<hr>!count remove<hr>!counter reset<hr>-count</td></tr>
 <tr>
-<td style="border-right: 3px ridge #888888; border-top: 3px ridge #888888; border-left: 3px ridge #888888" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
+<td style="border-right: 3px ridge #999999; border-top: 3px ridge #999999; border-left: 3px ridge #999999" bgcolor="#232323" rowspan="2">{c/count/counter}{+/-},<br>{+/-}{c/count/counter}</td></tr>
 <tr>
 </tr>
 <tr>
