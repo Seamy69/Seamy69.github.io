@@ -22,8 +22,8 @@
 <tbody>
 <ul>
 <li>Parameters in CAPS are not to be taken literally, but rather indicate a value pertinent to the parameter itself.</li>
-<li>Words surrounded by curly brackets "{" and "}" indicate a required parameter.</li>
-<li>Words surrounded by square brackets "[" and "]" indicate an optional parameter.</li>
+<li>Words surrounded by curly brackets "{" and "}" indicate a required parameter or input.</li>
+<li>Words surrounded by square brackets "[" and "]" indicate an optional parameter or input.</li>
 <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
 </ul>
 <tr>
