@@ -20,6 +20,12 @@
 </tr>
 </tfoot>
 <tbody>
+<ul>
+<li>Parameters in CAPS are not to be taken literally, but rather indicate a value pertinent to the parameter itself.</li>
+<li>Words surrounded by curly brackets "{" and "}" indicate a required parameter.</li>
+<li>Words surrounded by square brackets "[" and "]" indicate an optional parameter.</li>
+<li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
+</ul>
 <tr>
 <td>Everyone</td><td>!channelpoints</td><td>!cpoints, !cp</td><td></td><td>Links to a simple image explaining what the new Channel Points are.</td><td>!cp</td></tr>
 <tr>
