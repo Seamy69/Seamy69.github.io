@@ -21,8 +21,8 @@
 </tfoot>
 <tbody>
 <ul>
-<li>Words surrounded by curly brackets "{" and "}" indicate a required parameter or input.</li>
-<li>Words surrounded by square brackets "[" and "]" indicate an optional parameter or input.</li>
+<li>Words surrounded by curly brackets " { " and " } " indicate a required parameter or input.</li>
+<li>Words surrounded by square brackets " [ " and " ] " indicate an optional parameter or input.</li>
 <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
 <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
 </ul>
@@ -171,9 +171,9 @@
 <tr>
 </tr>
 <tr>
-<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br><br></td><td rowspan="3">on/off<hr>add/remove {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole.<br><br><em><font color="#85E3FF">Only available during breaks (with the exception of the on/off commands).</font></em></td><td rowspan="3">!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
+<td rowspan="3"><font color="#AFF8DB">Moderator</font></td><td rowspan="3">!points</td><td><br><br><br><br></td><td rowspan="3">on/off<hr>add {USERNAME} {NUMBER}<hr>rem[ove] {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3"><em><font color="#FFF5BA">Not related to Channel Points.</font></em><br><br>Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#85E3FF">Only available during breaks (with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
-<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}</td></tr>
+<td style="border-right: 1px dashed #cccccc; border-top: 1px dashed #cccccc" bgcolor="#000000" rowspan="2"><br>!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<br><br></td></tr>
 <tr>
 </tr>
 <tr>
