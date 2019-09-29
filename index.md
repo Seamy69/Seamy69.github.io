@@ -468,7 +468,7 @@
          <hr>
          reset/unset
       </td>
-      <td rowspan="3">Allows several means of manipulating the active counter.</td>
+      <td rowspan="3">Allows several means of manipulating the counter.</td>
       <td rowspan="3">
          !count +
          <hr>
@@ -677,7 +677,7 @@
          <hr>
          reset [USERNAME]
       </td>
-      <td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
+      <td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating users' point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
       <td rowspan="3">
          !points add Seamy 6969
          <hr>
