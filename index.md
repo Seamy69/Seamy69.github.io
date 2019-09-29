@@ -1006,6 +1006,8 @@
          <hr>
          !edit command !test -ul=subsonly This is an edited test command.
          <hr>
+         !cmd fix !test -ul=sub This is an edited test command.
+         <hr>
          !command delete !test
          <hr>
          !delcom !test
