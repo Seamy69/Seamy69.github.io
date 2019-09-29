@@ -853,7 +853,7 @@
    <tr>
       <td>Everyone</td>
       <td>!8ball</td>
-      <td>!8-ball</td>
+      <td>[!]8[-]ball[,]</td>
       <td>{QUESTION}</td>
       <td>Returns a classic magic 8-ball response.</td>
       <td>!8ball Does Seamy love me?</td>
