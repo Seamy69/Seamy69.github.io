@@ -175,6 +175,8 @@
 <td rowspan="3"><font color="#baed91">Moderator</font></td><td rowspan="3">!points</td><td><br>!p<br><br></td><td rowspan="3">on/off<hr>add/+ {USERNAME} {NUMBER}<hr>rem[ove]/- {USERNAME} {NUMBER}<hr>set {USERNAME} {NUMBER}<hr>reset [USERNAME]</td><td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating user's point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td><td rowspan="3">!points add Seamy 6969<hr>!add points Seamy 6969<hr>!addpoints Seamy 6969<hr>p+ Seamy 6969<hr>!points set Seamy 6969<hr>!points reset Seamy<hr>!points reset</td></tr>
 <tr>
 <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">!addpoints {USERNAME} {NUMBER}<hr>!rem[ove]points {USERNAME} {NUMBER}<hr>!setpoints {USERNAME} {NUMBER}<hr>!resetpoints {USERNAME}<hr>{p/points}{+/-} {USERNAME} {NUMBER}<hr>{+/-}{p/points} {USERNAME} {NUMBER}</td></tr>
+  <tr>
+  </tr>
 <tr>
 <td>Everyone</td><td>!gamble</td><td>!gamb[ling]</td><td>[NUMBER]<hr>all/a {lot/bunch}/some/a {little/bit}<hr>help</td><td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td><td>!gamble 420<hr>!gamble all<hr>!gamble a little</td></tr>
 <tr>
