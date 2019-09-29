@@ -102,7 +102,7 @@
 <tr>
 <td>Everyone</td><td>!views</td><td></td><td></td><td>Returns the channel's current number of views.</td><td>!views</td></tr>
 <tr>
-<td>Everyone</td><td>!chatters</td><td>!chattercount, !cc</td><td></td><td>Returns the current number of users connected to the chat.</td><td>!chatters</td></tr>
+<td>Everyone</td><td>!chatters</td><td>!chat[ter]count, !cc</td><td></td><td>Returns the current number of users connected to the chat.</td><td>!chatters</td></tr>
 <tr>
 <td>Everyone</td><td>!viewers</td><td>!view[er]count, !vc</td><td></td><td>Returns the channel's current number of users watching the stream.</td><td>!viewers</td></tr>
 <tr>
