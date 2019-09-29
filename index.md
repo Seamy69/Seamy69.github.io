@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
-<meta name="viewport" content="width=device-width,maximum-scale=2">
+<meta name="viewport" content="width=1024">
 <table class="darkTable">
 <thead>
    <tr>
