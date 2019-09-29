@@ -7,7 +7,7 @@
       <th>Aliases</th>
       <th>Parameters</th>
       <th>Notes</th>
-      <th style="border-right: 2px solid #323232" width="30%">Example</th>
+      <th style="border-right: 2px solid #323232" width="15%">Example</th>
 <tfoot>
    <tr>
       <td style="border-left: 2px solid #323232">User level</td>
