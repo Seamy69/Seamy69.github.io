@@ -19,6 +19,7 @@
    </tr>
 </tfoot>
 <tbody>
+   <p>
    <ul>
       <strong>
          <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
@@ -27,6 +28,7 @@
          <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
       </strong>
    </ul>
+   </p>
    <br>
    <tr>
       <td>Everyone</td>
