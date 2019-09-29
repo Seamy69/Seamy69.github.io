@@ -1002,7 +1002,7 @@
          <hr>
          !add command !test This is a test command.
          <hr>
-         !command add !test -ul=mod This is a test command for mods.
+         !command add !test -ul=moderator This is a test command for mods.
          <hr>
          !edit command !test -ul=subsonly This is an edited test command for subs.
          <hr>
