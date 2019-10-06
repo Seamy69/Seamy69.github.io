@@ -187,6 +187,22 @@
    </tr>
    <tr>
       <td>Everyone</td>
+      <td>!eye</td>
+      <td>!eyes, !lazyeye</td>
+      <td></td>
+      <td>Explains Candi's eye situation.</td>
+      <td>!eye</td>
+   </tr>
+    <tr>
+      <td>Everyone</td>
+      <td>!hair</td>
+      <td></td>
+      <td></td>
+      <td>Explains Candi's hair situation.</td>
+      <td>!hair</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
       <td>!specs</td>
       <td>!pc, !setup, !build</td>
       <td></td>
