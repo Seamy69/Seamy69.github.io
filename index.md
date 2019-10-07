@@ -903,7 +903,7 @@
    <tr>
       <td>Everyone</td>
       <td>!countdown</td>
-      <td>!cd</td>
+      <td>!cd, !remindme</td>
       <td>
          {DURATION}<br><br>
          <hr>
