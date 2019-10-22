@@ -32,14 +32,6 @@
    <br>
    <tr>
       <td>Everyone</td>
-      <td>!channelpoints</td>
-      <td>!cp</td>
-      <td></td>
-      <td>Links to a simple image explaining what the new Channel Points are.</td>
-      <td>!cp</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
       <td>!commands</td>
       <td>!cmds</td>
       <td></td>
@@ -157,6 +149,14 @@
       <td></td>
       <td>Returns the streamer's business email.</td>
       <td>!contact</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!promo</td>
+      <td>!promotion</td>
+      <td></td>
+      <td>Explains the current promotion happening on Twitch at the moment (usually pertaining to Bits), if applicable.</td>
+      <td>!cp</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
@@ -862,8 +862,8 @@
       <td>Everyone</td>
       <td>!pick</td>
       <td>!pickfrom, !choose[from], !choice[s], !rng, !random, !which</td>
-      <td>{OPTION 1, OPTION N...}</td>
-      <td>Returns a single option randomly selected via RNG from the supplied series of choices separated by commas.</td>
+      <td>{OPTION 1, ..., OPTION N}</td>
+      <td>Returns a single option randomly selected via RNG from the supplied series of [a minimum of two] choices separated by commas.</td>
       <td>!pick red, black, dark blue, pink, light green </td>
    </tr>
    <tr>
