@@ -206,7 +206,7 @@
       <td>!schedule</td>
       <td>![sch]ed</td>
       <td></td>
-      <td>Returns a small introductory blurb about Candi.</td>
+      <td>Returns what the streamer's stream schedule is like.</td>
       <td>!schedule</td>
    </tr>
    <tr>
