@@ -198,7 +198,7 @@
       <td>!about</td>
       <td></td>
       <td></td>
-      <td>Returns a small introductory blurb about Candi.</td>
+      <td>Returns a small introductory blurb about the streamer.</td>
       <td>!about</td>
    </tr>
    <tr>
@@ -214,7 +214,7 @@
       <td>!eye</td>
       <td>!eyes, !lazyeye, ![eye]patch</td>
       <td></td>
-      <td>Explains Candi's eye situation.</td>
+      <td>Explains the streamer's eye situation.</td>
       <td>!eye</td>
    </tr>
     <tr>
@@ -222,7 +222,7 @@
       <td>!hair</td>
       <td></td>
       <td></td>
-      <td>Explains Candi's hair situation.</td>
+      <td>Explains the streamer's hair situation.</td>
       <td>!hair</td>
    </tr>
     <tr>
@@ -230,7 +230,7 @@
       <td>!wig</td>
       <td></td>
       <td></td>
-      <td>Links to the wig Candi wears sometimes on Amazon.</td>
+      <td>Links to the wig the streamer wears sometimes on Amazon.</td>
       <td>!wig</td>
    </tr>
    <tr>
