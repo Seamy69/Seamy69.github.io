@@ -159,6 +159,14 @@
       <td>!promo</td>
    </tr>
    <tr>
+      <td>Everyone</td>
+      <td>!channelpoints</td>
+      <td>!cp</td>
+      <td></td>
+      <td>Briefly explains what the Channel Points feature is.</td>
+      <td>!cp</td>
+   </tr>
+   <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
    </tr>
    <tr>
@@ -185,10 +193,26 @@
       <td>Spams two lines of random channel emotes.</td>
       <td>!hype</td>
    </tr>
+    <tr>
+      <td>Everyone</td>
+      <td>!about</td>
+      <td></td>
+      <td></td>
+      <td>Returns a small introductory blurb about Candi.</td>
+      <td>!about</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!schedule</td>
+      <td>![sch]ed</td>
+      <td></td>
+      <td>Returns a small introductory blurb about Candi.</td>
+      <td>!schedule</td>
+   </tr>
    <tr>
       <td>Everyone</td>
       <td>!eye</td>
-      <td>!eyes, !lazyeye</td>
+      <td>!eyes, !lazyeye, ![eye]patch</td>
       <td></td>
       <td>Explains Candi's eye situation.</td>
       <td>!eye</td>
@@ -200,6 +224,14 @@
       <td></td>
       <td>Explains Candi's hair situation.</td>
       <td>!hair</td>
+   </tr>
+    <tr>
+      <td>Everyone</td>
+      <td>!wig</td>
+      <td></td>
+      <td></td>
+      <td>Links to the wig Candi wears sometimes on Amazon.</td>
+      <td>!wig</td>
    </tr>
    <tr>
       <td>Everyone</td>
