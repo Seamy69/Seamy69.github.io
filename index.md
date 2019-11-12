@@ -121,7 +121,7 @@
    <tr>
       <td>Everyone</td>
       <td>!steamwishlist</td>
-      <td>!steamwl, !swl</td>
+      <td>!s[team]wl</td>
       <td></td>
       <td>Links to the streamer's Steam wishlist.</td>
       <td>!swl</td>
