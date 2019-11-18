@@ -276,7 +276,7 @@
    <tr>
       <td>Everyone</td>
       <td>!friendcode</td>
-      <td>!fc, !switch</td>
+      <td>!fc, !sw[itch]</td>
       <td></td>
       <td>Returns the streamer's friend code for the Nintendo Switch.</td>
       <td>!fc</td>
@@ -909,10 +909,10 @@
    <tr>
       <td>Everyone</td>
       <td>!stopwatch</td>
-      <td>!sw, !countup</td>
+      <td>!stop[clock]</td>
       <td></td>
       <td>Returns the duration since the stopwatch was initiated.</td>
-      <td>!sw</td>
+      <td>!stop</td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
