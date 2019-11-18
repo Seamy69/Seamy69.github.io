@@ -912,7 +912,7 @@
       <td>!stop[clock]</td>
       <td></td>
       <td>Returns the duration since the stopwatch was initiated.</td>
-      <td>!stop</td>
+      <td>!stopclock</td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
