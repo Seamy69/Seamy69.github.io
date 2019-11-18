@@ -442,15 +442,15 @@
       <td>!uptime</td>
       <td>!up, !live</td>
       <td>
-         set {TIME IN EASTERN TIME}
+         set {TIME IN STREAMER'S TIMEZONE}
          <hr>
          stop/end/remove/reset/unset
       </td>
       <td>Creates or removes a custom uptime in the event of a crashed or split stream.</td>
       <td>
-         !uptime set 4:09 p.m.
+         !uptime set 4:20 p.m.
          <hr>
-         !uptime set 16:09
+         !uptime set 16:20
          <hr>
          !uptime set 4pm
       </td>
