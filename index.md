@@ -917,7 +917,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!stopwatch</td>
-      <td>!sw, !countup</td>
+      <td>!stop[clock]</td>
       <td>
          start/begin
          <hr>
@@ -929,7 +929,7 @@
       <td>
          !stopwatch start
          <hr>
-         !sw set 9:00p.m.
+         !stop set 9:00p.m.
       </td>
    </tr>
    <tr>
