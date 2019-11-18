@@ -923,7 +923,7 @@
          <hr>
          stop/end/reset/unset
          <hr>
-         set {TIME IN EASTERN TIME}
+         set {TIME IN STREAMER'S TIMEZONE}
       </td>
       <td>Allows several means of manipulating the stopwatch. If a custom initiation time is not set, the stopwatch simply starts from zero.</td>
       <td>
