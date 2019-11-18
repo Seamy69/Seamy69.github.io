@@ -912,12 +912,12 @@
       <td>!stop[clock]</td>
       <td></td>
       <td>Returns the duration since the stopwatch was initiated.</td>
-      <td>!stopclock</td>
+      <td>!stopwatch</td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!stopwatch</td>
-      <td>!stop[clock]</td>
+      <td>!stopclock</td>
       <td>
          start/begin
          <hr>
@@ -929,7 +929,7 @@
       <td>
          !stopwatch start
          <hr>
-         !stop set 9:00p.m.
+         !stopclock set 9:00p.m.
       </td>
    </tr>
    <tr>
