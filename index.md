@@ -302,7 +302,7 @@
       <td>!24s</td>
       <td></td>
       <td></td>
-      <td>Retuns the number of 24-hour streams done (currently accurate to +/- 1).</td>
+      <td>Retuns the number of 24-hour streams completed by the streamer.</td>
       <td>!24s</td>
    </tr>
    <tr>
