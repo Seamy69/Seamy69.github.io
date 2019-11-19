@@ -581,7 +581,7 @@
    <tr>
       <td>Everyone</td>
       <td>!fact</td>
-      <td></td>
+      <td>!f</td>
       <td>[NUMBER]</td>
       <td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
@@ -600,8 +600,8 @@
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
-      <td>!facts</td>
-      <td></td>
+      <td>!fact</td>
+      <td>!facts, !f</td>
       <td>on/off</td>
       <td>Enables/disables the !fact commands.</td>
       <td>!facts on</td>
@@ -958,18 +958,18 @@
    <tr>
       <td>Everyone</td>
       <td>!fahrenheit</td>
-      <td>!f</td>
+      <td>!F</td>
       <td>{NUMBER}</td>
-      <td>Converts the given number to degrees Celsius.</td>
-      <td>!f 9</td>
+      <td>Converts the given number to degrees Celsius.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
+      <td>!F 9</td>
    </tr>
    <tr>
       <td>Everyone</td>
       <td>!celsius</td>
-      <td>!c</td>
+      <td>!C</td>
       <td>{NUMBER}</td>
-      <td>Converts the given number to degrees Fahrenheit.</td>
-      <td>!c 25</td>
+      <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
+      <td>!C 25</td>
    </tr>
    <tr>
       <td>Everyone</td>
