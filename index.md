@@ -609,13 +609,13 @@
    <tr>
       <td>Everyone</td>
       <td>!quote</td>
-      <td></td>
+      <td>!q</td>
       <td>[NUMBER]</td>
       <td>Returns a random streamer quote. Optionally, include a number after the command for that specific quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !quote
          <hr>
-         !quote 99
+         !q 99
       </td>
    </tr>
    <tr>
@@ -629,7 +629,7 @@
    <tr>
       <td>Everyone</td>
       <td>!lastquote</td>
-      <td>!{latest/newest}quote</td>
+      <td>!{latest/newest}q[uote]</td>
       <td></td>
       <td>Returns the most recently added quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!latestquote</td>
@@ -640,12 +640,8 @@
       <td><br>!q<br><br></td>
       <td rowspan="3">
          add/+ {QUOTE}
-         <hr>
-         del[ete]/- {NUMBER}
-         <hr>
-         rem[ove]/- {NUMBER}
       </td>
-      <td rowspan="3">Moderators can add or remove quotes. Subscribers can submit quotes to a queue for review. Subscribers cannot, however, remove quotes. Also, the first two words of this command can be interchanged.</td>
+      <td rowspan="3">Allows for the adding of quotes. Subscribers can submit quotes to a queue for review. Also, the first two words of this command can be interchanged.</td>
       <td rowspan="3">
          !quote add Seamy's a dingus.
          <hr>
@@ -654,10 +650,6 @@
          !addquote Seamy's a dingus.
          <hr>
          +q Seamy's a dingus.
-         <hr>
-         !quote delete 9
-         <hr>
-         !delquote 9
       </td>
    </tr>
    <tr>
@@ -666,16 +658,50 @@
          <hr>
          !quoteadd {QUOTE}
          <hr>
+         {q/quote}+ {QUOTE}
+         <hr>
+         +{q/quote} {QUOTE}
+      </td>
+   </tr>
+   <tr></tr>
+   
+   <tr>
+      <td rowspan="3"><font color="#baed91">Moderator</font></td>
+      <td rowspan="3">!quote</td>
+      <td><br>!quote[s], !q<br><br></td>
+      <td rowspan="3">
+         on/off
+         <hr>
+         del[ete]/- {NUMBER}
+         <hr>
+         rem[ove]/- {NUMBER}
+      </td>
+      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged.<br><br><em><font color="#f8b88b">Quotes may actually be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em></td>
+      <td rowspan="3">
+         !quotes off
+         <hr>
+         !quote delete 9
+         <hr>
+         !delquote 9
+         <hr>
+         !del q 9
+         <hr>
+         q- 9
+      </td>
+   </tr>
+   <tr>
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
          !del[ete]quote {NUMBER}
          <hr>
          !quoterem[ove] {NUMBER}
          <hr>
-         {q/quote}{+/-} {QUOTE}/{NUMBER}
+         {q/quote}- {NUMBER}
          <hr>
-         {+/-}{q/quote} {QUOTE}/{NUMBER}
+         -{q/quote} {NUMBER}
       </td>
    </tr>
    <tr></tr>
+   
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!quotes</td>
