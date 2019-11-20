@@ -583,7 +583,7 @@
       <td>!fact</td>
       <td>!f</td>
       <td>[NUMBER]</td>
-      <td>Returns a random fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns a random, [mostly] fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !fact
          <hr>
@@ -595,7 +595,7 @@
       <td>!facts</td>
       <td></td>
       <td></td>
-      <td>Returns the total number of facts.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns the total number of facts [only if not followed by a number].<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!facts</td>
    </tr>
    <tr>
@@ -623,7 +623,7 @@
       <td>!quotes</td>
       <td></td>
       <td></td>
-      <td>Returns the total number of quotes [if not followed by a number or any of the manipulative parameters indicated below].<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns the total number of quotes [only if not followed by a number or any of the manipulative parameters indicated below].<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!quotes</td>
    </tr>
    <tr>
@@ -633,7 +633,7 @@
       <td rowspan="3">
          add/+ {QUOTE}
       </td>
-      <td rowspan="3">Allows for the adding of quotes. Subscribers can submit quotes to a queue for review. Also, the first two words of this command can be interchanged.</td>
+      <td rowspan="3">Allows for the adding of quotes by moderators. Subscribers can submit quotes to a queue for review. Also, the first two words of this command can be interchanged.</td>
       <td rowspan="3">
          !quote add Seamy's a dingus.
          <hr>
@@ -647,7 +647,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          !addquote {QUOTE}
          <hr>
          !quoteadd {QUOTE}
@@ -673,7 +673,7 @@
       <td rowspan="3">
          !quotes off
          <hr>
-         !quotes rem 9
+         !q rem 9
          <hr>
          !quote delete 9
          <hr>
@@ -719,7 +719,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td>
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">!give {USERNAME} {NUMBER}</td>
    </tr>
    <tr></tr>
    <tr>
@@ -755,7 +755,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
          !addpoints {USERNAME} {NUMBER}
          <hr>
          !rem[ove]points {USERNAME} {NUMBER}
@@ -774,7 +774,7 @@
    <tr>
       <td>Everyone</td>
       <td>!gamble</td>
-      <td>!gamb[ling]</td>
+      <td>!gamb[ling], !g</td>
       <td>
          [NUMBER]
          <hr>
@@ -794,7 +794,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!gamble</td>
-      <td>!gamb[ling]</td>
+      <td>!gamb[ling], !g</td>
       <td>on/off</td>
       <td>Enables/disables the !gamble commands.</td>
       <td>!gamble on</td>
@@ -802,7 +802,7 @@
    <tr>
       <td>Everyone</td>
       <td>!slots</td>
-      <td></td>
+      <td>!s</td>
       <td>
          {NUMBER}
          <hr>
@@ -820,7 +820,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!slots</td>
-      <td></td>
+      <td>!s</td>
       <td>on/off</td>
       <td>Enables/disables the !slots commands.</td>
       <td>!slots off</td>
@@ -1074,7 +1074,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          !add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
