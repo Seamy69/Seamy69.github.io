@@ -649,6 +649,8 @@
          <hr>
          !addquote Seamy's a dingus.
          <hr>
+         !quoteadd Seamy's a dingus.
+         <hr>
          +q Seamy's a dingus.
       </td>
    </tr>
@@ -664,7 +666,6 @@
       </td>
    </tr>
    <tr></tr>
-   
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!quote</td>
@@ -676,9 +677,11 @@
          <hr>
          rem[ove]/- {NUMBER}
       </td>
-      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged.<br><br><em><font color="#f8b88b">Quotes may actually be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em></td>
+      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Quotes may actually be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em></td>
       <td rowspan="3">
          !quotes off
+         <hr>
+         !quotes rem 9
          <hr>
          !quote delete 9
          <hr>
@@ -701,15 +704,6 @@
       </td>
    </tr>
    <tr></tr>
-   
-   <tr>
-      <td><font color="#baed91">Moderator</font></td>
-      <td>!quotes</td>
-      <td></td>
-      <td>on/off</td>
-      <td>Enables/disables the !quote commands.<br><br><em><font color="#f8b88b">The ability for moderators and subscribers to add quotes is unaffected. They may add quotes at any time.</font></em></td>
-      <td>!quotes off</td>
-   </tr>
    <tr>
       <td rowspan="3">Everyone</td>
       <td rowspan="3">!points</td>
