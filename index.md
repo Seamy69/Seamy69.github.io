@@ -204,7 +204,7 @@
    <tr>
       <td>Everyone</td>
       <td>!schedule</td>
-      <td>![sch]ed</td>
+      <td>!sch[ed]</td>
       <td></td>
       <td>Returns what the streamer's stream schedule is like.</td>
       <td>!schedule</td>
@@ -629,7 +629,7 @@
    <tr>
       <td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!quote</td>
-      <td><br>!quote[s], !q<br><br></td>
+      <td><br>!quotes, !q<br><br></td>
       <td rowspan="3">
          add/+ {QUOTE}
       </td>
@@ -661,7 +661,7 @@
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!quote</td>
-      <td><br>!quote[s], !q<br><br></td>
+      <td><br>!quotes, !q<br><br></td>
       <td rowspan="3">
          on/off
          <hr>
@@ -828,7 +828,7 @@
    <tr>
       <td>Everyone</td>
       <td>!heist</td>
-      <td>![bank]heist[ing][s], !bh</td>
+      <td>![bank]heist[ing][s], !b[h], !h</td>
       <td>
          {NUMBER}
          <hr>
@@ -846,7 +846,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!heist</td>
-      <td>![bank]heist[ing][s], !bh</td>
+      <td>![bank]heist[ing][s], !b[h], !h</td>
       <td>on/off</td>
       <td>Enables/disables the !heist commands.</td>
       <td>!heisting off</td>
@@ -865,7 +865,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!help</td>
-      <td>!lifeline, !ll !crisis, !suicid{e/al}, !suicideprevention, !sp</td>
+      <td>!lifeline, !ll, !crisis, !suicid{e/al}, !suicideprevention, !sp</td>
       <td></td>
       <td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td>
       <td>!help</td>
@@ -921,7 +921,7 @@
    <tr>
       <td>Everyone</td>
       <td>!stopwatch</td>
-      <td>!stop[clock]</td>
+      <td>!stopclock</td>
       <td></td>
       <td>Returns the duration since the stopwatch was initiated.</td>
       <td>!stopwatch</td>
