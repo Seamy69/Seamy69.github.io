@@ -623,21 +623,13 @@
       <td>!quotes</td>
       <td></td>
       <td></td>
-      <td>Returns the total number of quotes.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns the total number of quotes [if not followed by a number or any of the manipulative parameters indicated below].<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!quotes</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!lastquote</td>
-      <td>!{latest/newest}q[uote]</td>
-      <td></td>
-      <td>Returns the most recently added quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>!latestquote</td>
    </tr>
    <tr>
       <td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!quote</td>
-      <td><br>!q<br><br></td>
+      <td><br>!quote[s], !q<br><br></td>
       <td rowspan="3">
          add/+ {QUOTE}
       </td>
