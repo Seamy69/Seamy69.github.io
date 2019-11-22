@@ -782,7 +782,7 @@
       <td>!gamble</td>
       <td>!gamb[ling], !g</td>
       <td>
-         [NUMBER]
+         {NUMBER}
          <hr>
          all/a {lot/bunch}/some/a {little/bit}
          <hr>
