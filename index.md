@@ -458,7 +458,7 @@
    <tr>
       <td>Everyone</td>
       <td>!deathcounter</td>
-      <td>!deathcount, !dc, !death[s], !d</td>
+      <td>!deathcount, !d[c], !death[s]</td>
       <td></td>
       <td>Returns the death count for the game currently being played.</td>
       <td>!d</td>
@@ -466,25 +466,29 @@
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!deathcounter</td>
-      <td><br>!deathcount, !dc, !death[s], !d</td>
+      <td><br>!deathcount, !d[c], !death[s]</td>
       <td rowspan="3">
-         add/increase/+
+         add/inc[rease]/+
          <hr>
-         remove/decrease/-/minus/subtract
+         rem[ove]/dec[rease]/-
          <hr>
          set {NUMBER}
          <hr>
          reset/unset
       </td>
-      <td rowspan="3">Allows several means of manipulating the active death counter.</td>
+      <td rowspan="3">Allows several means of manipulating the active death counter. Also, the first two words of this command can be interchanged.</td>
       <td rowspan="3">
          !death add
          <hr>
+         !add deathcount
+         <hr>
          !dc +
+         <hr>
+         d+
          <hr>
          !d set 69
          <hr>
-         d+
+         !setdeaths 69
       </td>
    </tr>
    <tr>
@@ -498,7 +502,7 @@
    <tr>
       <td>Everyone</td>
       <td>!counter</td>
-      <td>!count</td>
+      <td>!c[ount]</td>
       <td></td>
       <td>Returns the current count of a generic counter in progress.</td>
       <td>!count</td>
@@ -508,30 +512,32 @@
       <td rowspan="3">!counter</td>
       <td><br>!count<br><br></td>
       <td rowspan="3">
-         add/increase/+
+         add/inc[rease]/+
          <hr>
-         remove/decrease/-/minus/subtract
+         remove/decrease/-
          <hr>
          set {NUMBER}
          <hr>
          reset/unset
       </td>
-      <td rowspan="3">Allows several means of manipulating the counter.</td>
+      <td rowspan="3">Allows several means of manipulating the counter. Also, the first two words of this command can be interchanged.</td>
       <td rowspan="3">
          !count +
          <hr>
-         !count remove
+         !increase counter
          <hr>
-         !counter reset
+         !c remove
+         <hr>
+         !dec count
          <hr>
          -count
       </td>
    </tr>
    <tr>
       <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
-         {c/count/counter}{+/-}
+         {c/count[er]}{+/-}
          <hr>
-         {+/-}{c/count/counter}
+         {+/-}{c/count[er]}
       </td>
    </tr>
    <tr></tr>
