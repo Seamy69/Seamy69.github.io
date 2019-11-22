@@ -834,7 +834,7 @@
    <tr>
       <td>Everyone</td>
       <td>!heist</td>
-      <td>![bank]heist[ing][s], !b[h], !h</td>
+      <td>![bank]heist[s], ![b]h</td>
       <td>
          {NUMBER}
          <hr>
@@ -852,10 +852,10 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!heist</td>
-      <td>![bank]heist[ing][s], !b[h], !h</td>
+      <td>![bank]heist[s], ![b]h</td>
       <td>on/off</td>
       <td>Enables/disables the !heist commands.</td>
-      <td>!heisting off</td>
+      <td>!heists off</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
