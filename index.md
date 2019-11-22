@@ -607,10 +607,10 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!fact</td>
-      <td>!facts, !f</td>
+      <td>!f</td>
       <td>on/off</td>
       <td>Enables/disables the !fact commands.</td>
-      <td>!facts on</td>
+      <td>!fact on</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -635,7 +635,7 @@
    <tr>
       <td rowspan="3"><font color="#f2a2e8">Subscriber</font>/<br><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!quote</td>
-      <td><br>!quotes, !q<br><br></td>
+      <td><br>!q<br><br></td>
       <td rowspan="3">
          add/+ {QUOTE}
       </td>
@@ -667,7 +667,7 @@
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!quote</td>
-      <td><br>!quotes, !q<br><br></td>
+      <td><br>!q<br><br></td>
       <td rowspan="3">
          on/off
          <hr>
@@ -677,7 +677,7 @@
       </td>
       <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Quotes may actually be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em></td>
       <td rowspan="3">
-         !quotes off
+         !quote off
          <hr>
          !q rem 9
          <hr>
@@ -834,7 +834,7 @@
    <tr>
       <td>Everyone</td>
       <td>!heist</td>
-      <td>!h[eist]</td>
+      <td>!h</td>
       <td>
          {NUMBER}
          <hr>
@@ -852,7 +852,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!heist</td>
-      <td>!h[eist]</td>
+      <td>!h</td>
       <td>on/off</td>
       <td>Enables/disables the !heist commands.</td>
       <td>!heist off</td>
