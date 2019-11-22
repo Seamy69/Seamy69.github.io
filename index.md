@@ -514,7 +514,7 @@
       <td rowspan="3">
          add/inc[rease]/+
          <hr>
-         remove/decrease/-
+         rem[ove]/dec[rease]/-
          <hr>
          set {NUMBER}
          <hr>
@@ -571,7 +571,7 @@
    <tr>
       <td>Everyone</td>
       <td>!dadjoke</td>
-      <td>![dad]joke[s]</td>
+      <td>!joke</td>
       <td></td>
       <td>Returns a random dad joke.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!dadjoke</td>
@@ -579,10 +579,10 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!dadjoke</td>
-      <td>![dad]joke[s]</td>
+      <td>!joke</td>
       <td>on/off</td>
       <td>Enables/disables the !dadjoke command.</td>
-      <td>!dadjokes on</td>
+      <td>!dadjoke on</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -780,7 +780,7 @@
    <tr>
       <td>Everyone</td>
       <td>!gamble</td>
-      <td>!gamb[ling], !g</td>
+      <td>!g</td>
       <td>
          {NUMBER}
          <hr>
@@ -800,7 +800,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!gamble</td>
-      <td>!gamb[ling], !g</td>
+      <td>!g</td>
       <td>on/off</td>
       <td>Enables/disables the !gamble commands.</td>
       <td>!gamble on</td>
@@ -834,7 +834,7 @@
    <tr>
       <td>Everyone</td>
       <td>!heist</td>
-      <td>![bank]heist[s], ![b]h</td>
+      <td>!h[eist]</td>
       <td>
          {NUMBER}
          <hr>
@@ -852,10 +852,10 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!heist</td>
-      <td>![bank]heist[s], ![b]h</td>
+      <td>!h[eist]</td>
       <td>on/off</td>
       <td>Enables/disables the !heist commands.</td>
-      <td>!heists off</td>
+      <td>!heist off</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
