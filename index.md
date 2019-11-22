@@ -466,7 +466,7 @@
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!deathcounter</td>
-      <td><br>!deathcount, !d[c], !death[s]</td>
+      <td><br>!deathcount, !d[c], !death[s]<br><br></td>
       <td rowspan="3">
          add/inc[rease]/+
          <hr>
