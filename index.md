@@ -675,7 +675,7 @@
          <hr>
          rem[ove]/- {NUMBER}
       </td>
-      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Quotes may actually be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
+      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Quotes may be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
       <td rowspan="3">
          !quote off
          <hr>
