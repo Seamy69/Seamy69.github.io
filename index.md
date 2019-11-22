@@ -510,7 +510,7 @@
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
       <td rowspan="3">!counter</td>
-      <td><br>!count<br><br></td>
+      <td><br>!c[ount]<br><br></td>
       <td rowspan="3">
          add/inc[rease]/+
          <hr>
