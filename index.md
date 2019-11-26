@@ -619,6 +619,8 @@
       <td>
          [NUMBER]
          <hr>
+         search {WORD/PHRASE}
+         <hr>
          help
       </td>
       <td>Returns a random streamer quote. Optionally, include a number after the command for that specific quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
