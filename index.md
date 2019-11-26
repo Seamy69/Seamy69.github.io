@@ -612,7 +612,6 @@
       <td>Enables/disables the !fact commands.</td>
       <td>!fact on</td>
    </tr>
-   
    <tr>
       <td rowspan="3">Everyone</td>
       <td rowspan="3">!quote</td>
@@ -631,6 +630,8 @@
          !q 99
          <hr>
          !quote search dingus
+         <hr>
+         !findquote dingus
       </td>
    </tr>
    <tr>
@@ -641,7 +642,6 @@
       </td>
    </tr>
    <tr></tr>
-   
    <tr>
       <td>Everyone</td>
       <td>!quotes</td>
