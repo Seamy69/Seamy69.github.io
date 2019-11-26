@@ -623,11 +623,13 @@
          <hr>
          help
       </td>
-      <td>Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for a quote via word or phrase.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for a quote via word or phrase. Also, the first two words of this command (only ehen using the search parameter) can be interchanged.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !quote
          <hr>
          !q 99
+         <hr>
+         !quote search dingus
       </td>
    </tr>
    <tr>
