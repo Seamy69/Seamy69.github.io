@@ -1049,7 +1049,7 @@
       <td>!gal[lon]</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to liters.</td>
-      <td>!in 8008135</td>
+      <td>!gal 8008135</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -1057,7 +1057,7 @@
       <td>!lit{er/re}, !L</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to U.S. gallons.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
-      <td>!cm 8675309</td>
+      <td>!litres 8675309</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
