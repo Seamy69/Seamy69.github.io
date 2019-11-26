@@ -737,7 +737,7 @@
          <hr>
          add/+ {USERNAME} {NUMBER}
          <hr>
-         add/+ all/everyone/chat {NUMBER}
+         add/+ {all/everyone/chat} {NUMBER}
          <hr>
          rem[ove]/- {USERNAME} {NUMBER}
          <hr>
@@ -768,7 +768,7 @@
       <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
          !addpoints {USERNAME} {NUMBER}
          <hr>
-         !addpoints all/everyone/chat {NUMBER}
+         !addpoints {all/everyone/chat} {NUMBER}
          <hr>
          !rem[ove]points {USERNAME} {NUMBER}
          <hr>
@@ -1006,7 +1006,7 @@
    <tr>
       <td>Everyone</td>
       <td>!kilometers</td>
-      <td>!kilomet{er/re}[s], !km[s]</td>
+      <td>!kilomet{er/re}, !km[s]</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to miles.</td>
       <td>!km 420</td>
@@ -1017,7 +1017,7 @@
       <td>!pound, !lb[s]</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to kilograms.</td>
-      <td>!lb 1337</td>
+      <td>!lb 666</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -1025,7 +1025,7 @@
       <td>!kilogram, !kilo[s], !kg[s]</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to pounds.</td>
-      <td>!kg 9001</td>
+      <td>!kg 1337</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -1033,14 +1033,30 @@
       <td>!in[ch]</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to centimeters.</td>
-      <td>!in 80085</td>
+      <td>!in 9001</td>
    </tr>
    <tr>
       <td>Everyone</td>
       <td>!centimeters</td>
-      <td>!centimet{er/re}[s], !cm[s]</td>
+      <td>!centimet{er/re}, !cm[s]</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to inches.</td>
+      <td>!cm 80085</td>
+   </tr>
+      <tr>
+      <td>Everyone</td>
+      <td>!gallons</td>
+      <td>!gal[lon]</td>
+      <td>{NUMBER}</td>
+      <td>Converts the given number to liters.</td>
+      <td>!in 8008135</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!liters</td>
+      <td>!lit{er/re}, !L</td>
+      <td>{NUMBER}</td>
+      <td>Converts the given number to U.S. gallons.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
       <td>!cm 8675309</td>
    </tr>
    <tr>
