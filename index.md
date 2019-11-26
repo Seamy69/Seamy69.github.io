@@ -616,7 +616,11 @@
       <td>Everyone</td>
       <td>!quote</td>
       <td>!q</td>
-      <td>[NUMBER]</td>
+      <td>
+         [NUMBER]
+         <hr>
+         help
+      </td>
       <td>Returns a random streamer quote. Optionally, include a number after the command for that specific quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !quote
