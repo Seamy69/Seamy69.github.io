@@ -737,6 +737,8 @@
          <hr>
          add/+ {USERNAME} {NUMBER}
          <hr>
+         add/+ all/everyone/chat {NUMBER}
+         <hr>
          rem[ove]/- {USERNAME} {NUMBER}
          <hr>
          set {USERNAME} {NUMBER}
@@ -753,6 +755,8 @@
          <hr>
          p+ Seamy 6969
          <hr>
+         !add points everyone 6969
+         <hr>
          !points set Seamy 6969
          <hr>
          !points reset Seamy
@@ -763,6 +767,8 @@
    <tr>
       <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
          !addpoints {USERNAME} {NUMBER}
+         <hr>
+         !addpoints all/everyone/chat {NUMBER}
          <hr>
          !rem[ove]points {USERNAME} {NUMBER}
          <hr>
