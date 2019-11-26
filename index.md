@@ -619,11 +619,11 @@
       <td>
          [NUMBER]
          <hr>
-         search {WORD/PHRASE}
+         search/find/lookup {WORD/PHRASE}
          <hr>
          help
       </td>
-      <td>Returns a random streamer quote. Optionally, include a number after the command for that specific quote.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for a quote via word or phrase.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !quote
          <hr>
