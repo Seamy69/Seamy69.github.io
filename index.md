@@ -1057,7 +1057,7 @@
       <td>!lit{er/re}, !L</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to U.S. gallons.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
-      <td>!litres 8675309</td>
+      <td>!L 8675309</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
