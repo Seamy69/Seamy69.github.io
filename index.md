@@ -612,19 +612,20 @@
       <td>Enables/disables the !fact commands.</td>
       <td>!fact on</td>
    </tr>
+   
    <tr>
-      <td>Everyone</td>
-      <td>!quote</td>
-      <td>!q</td>
-      <td>
+      <td rowspan="3">Everyone</td>
+      <td rowspan="3">!quote</td>
+      <td><br>!q<br><br></td>
+      <td rowspan="3">
          [NUMBER]
          <hr>
          search/find/lookup {WORD/PHRASE}
          <hr>
          help
       </td>
-      <td>Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for a quote via word or phrase. Also, the first two words of this command (only ehen using the search parameter) can be interchanged.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>
+      <td rowspan="3">Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for the quote via word or phrase. Also, the first two words of this command (only when using the search parameter) can be interchanged.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td rowspan="3">
          !quote
          <hr>
          !q 99
@@ -632,6 +633,15 @@
          !quote search dingus
       </td>
    </tr>
+   <tr>
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+         !{search/find/lookup}quote {WORD/PHRASE}
+         <hr>
+         !quote{search/find/lookup} {WORD/PHRASE}
+      </td>
+   </tr>
+   <tr></tr>
+   
    <tr>
       <td>Everyone</td>
       <td>!quotes</td>
