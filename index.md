@@ -623,7 +623,7 @@
          <hr>
          help
       </td>
-      <td rowspan="3">Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for the quote via word or phrase. Also, the first two words of this command (only when using the search parameter) can be interchanged.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td rowspan="3">Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for the quote via word or phrase. Also, the first two words of this command [when using the search parameter] can be interchanged.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
       <td rowspan="3">
          !quote
          <hr>
