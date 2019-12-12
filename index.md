@@ -233,6 +233,22 @@
       <td>Links to the wig the streamer wears sometimes on Amazon.</td>
       <td>!wig</td>
    </tr>
+    <tr>
+      <td>Everyone</td>
+      <td>!mustachio</td>
+      <td>![mu]stache</td>
+      <td></td>
+      <td>Explains the streamer's mustache situation.</td>
+      <td>!mustachio</td>
+   </tr>
+   <tr>
+      <td><font color="#baed91">Moderator</font></td>
+      <td>!mustachio</td>
+      <td>![mu]stache</td>
+      <td>on/off</td>
+      <td>Enables/disables the !mustachio command.</td>
+      <td>!stache on</td>
+   </tr>
    <tr>
       <td>Everyone</td>
       <td>!specs</td>
@@ -352,20 +368,18 @@
       <td>Everyone</td>
       <td>!lastfollow</td>
       <td>
-         !{last/latest/newest/recent}[1-5][follow[s/er/ers]]
+         !last[1-5][follow[er][s]]
          <hr>
          !l[1-5]f
-         <hr>
-         !recents
       </td>
       <td></td>
       <td>Returns the channel's most recent followers, from one up to five users.</td>
       <td>
-         !newest2follows
+         !lastfollower
          <hr>
-         !recent3followers
+         !last4follows
          <hr>
-         !latest4
+         !last4
          <hr>
          !lf
       </td>
