@@ -238,7 +238,7 @@
       <td>!mustachio</td>
       <td>![mu]stache</td>
       <td></td>
-      <td>Explains the streamer's mustache situation.</td>
+      <td>Explains the streamer's mustache situation, if enabled.</td>
       <td>!mustachio</td>
    </tr>
    <tr>
