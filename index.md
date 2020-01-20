@@ -35,7 +35,7 @@
       <td>!commands</td>
       <td>!cmds</td>
       <td></td>
-      <td>Links to this page (currently a work in progress).</td>
+      <td>Links to this page.</td>
       <td>!commands</td>
    </tr>
    <tr>
@@ -151,22 +151,6 @@
       <td>!contact</td>
    </tr>
    <tr>
-      <td>Everyone</td>
-      <td>!promo</td>
-      <td>!promotion</td>
-      <td></td>
-      <td>Explains the current promotion happening on Twitch at the moment (usually pertaining to Bits), if applicable.</td>
-      <td>!promo</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!channelpoints</td>
-      <td>!cp</td>
-      <td></td>
-      <td>Briefly explains what the Channel Points feature is.</td>
-      <td>!cp</td>
-   </tr>
-   <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
    </tr>
    <tr>
@@ -192,6 +176,14 @@
       <td></td>
       <td>Spams two lines of random channel emotes.</td>
       <td>!hype</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!shanehype</td>
+      <td></td>
+      <td></td>
+      <td>Spams almost two lines of Shane Gill's synecdochical emote, to be used in the extrememly rare event he does something hype-worthy.</td>
+      <td>!shanehype</td>
    </tr>
     <tr>
       <td>Everyone</td>
@@ -431,6 +423,14 @@
          <hr>
          !followage Seamy
       </td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!promo</td>
+      <td>!promotion</td>
+      <td></td>
+      <td>Explains the current promotion happening on Twitch at the moment (usually pertaining to Bits), if applicable.</td>
+      <td>!promo</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
@@ -903,7 +903,7 @@
       <td>!help</td>
       <td></td>
       <td></td>
-      <td>Links to this page (currently a work in progress).</td>
+      <td>Links to this page.</td>
       <td>!help</td>
    </tr>
    <tr>
