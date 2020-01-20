@@ -155,22 +155,6 @@
    </tr>
    <tr>
       <td>Everyone</td>
-      <td>!time</td>
-      <td></td>
-      <td></td>
-      <td>Returns the streamer's local time.</td>
-      <td>!time</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!timer</td>
-      <td></td>
-      <td></td>
-      <td><s>A Streamlabs command that explains what those numbers counting down on the screen are.</s><br><em><font color="#f8b88b">Currently retired.</font></em></td>
-      <td>!timer</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
       <td>!hype</td>
       <td></td>
       <td></td>
@@ -307,6 +291,14 @@
    </tr>
    <tr>
       <td>Everyone</td>
+      <td>!timer</td>
+      <td></td>
+      <td></td>
+      <td><s>A Streamlabs command that explains what those numbers counting down on the screen are.</s><br><em><font color="#f8b88b">Currently retired.</font></em></td>
+      <td>!timer</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
       <td>!24s</td>
       <td></td>
       <td></td>
@@ -323,6 +315,14 @@
       <td></td>
       <td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td>
       <td>!lang</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!time</td>
+      <td></td>
+      <td></td>
+      <td>Returns the streamer's local time.</td>
+      <td>!time</td>
    </tr>
    <tr>
       <td>Everyone</td>
