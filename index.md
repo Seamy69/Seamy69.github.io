@@ -309,6 +309,14 @@
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
    </tr>
    <tr>
+      <td>Everyone</td>
+      <td>!promo</td>
+      <td>!promotion</td>
+      <td></td>
+      <td>Explains the current promotion happening on Twitch at the moment (usually pertaining to Bits), if applicable.</td>
+      <td>!promo</td>
+   </tr>
+   <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!english</td>
       <td>!eng, !lang[uage]</td>
@@ -423,14 +431,6 @@
          <hr>
          !followage Seamy
       </td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!promo</td>
-      <td>!promotion</td>
-      <td></td>
-      <td>Explains the current promotion happening on Twitch at the moment (usually pertaining to Bits), if applicable.</td>
-      <td>!promo</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
