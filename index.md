@@ -115,7 +115,7 @@
       <td>!wishlist</td>
       <td>!wl, !amazon</td>
       <td></td>
-      <td><s>Links to the streamer's Amazon wishlist.</s><br><em><font color="#f8b88b">Currently unavailable.</font></em></td>
+      <td>Links to the streamer's Amazon wishlist.</td>
       <td>!wl</td>
    </tr>
    <tr>
