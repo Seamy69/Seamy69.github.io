@@ -291,19 +291,19 @@
    </tr>
    <tr>
       <td>Everyone</td>
-      <td>!timer</td>
-      <td></td>
-      <td></td>
-      <td><s>A Streamlabs command that explains what those numbers counting down on the screen are.</s><br><em><font color="#f8b88b">Currently retired.</font></em></td>
-      <td>!timer</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
       <td>!24s</td>
       <td></td>
       <td></td>
       <td>Retuns the number of 24-hour streams completed by the streamer.</td>
       <td>!24s</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!subathon</td>
+      <td>!timer</td>
+      <td></td>
+      <td>Details subathon rules, if applicable.</td>
+      <td>!subathon</td>
    </tr>
    <tr>
       <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
