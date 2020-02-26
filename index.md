@@ -291,14 +291,6 @@
    </tr>
    <tr>
       <td>Everyone</td>
-      <td>!daddy</td>
-      <td>!dad, !father, !jeff, !goldblum, !jg</td>
-      <td></td>
-      <td>Links to a compelling tweet.</td>
-      <td>!daddy</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
       <td>!24s</td>
       <td></td>
       <td></td>
