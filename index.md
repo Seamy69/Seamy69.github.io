@@ -112,22 +112,6 @@
    </tr>
    <tr>
       <td>Everyone</td>
-      <td>!wishlist</td>
-      <td>!wl, !amazon</td>
-      <td></td>
-      <td>Links to the streamer's Amazon wishlist.</td>
-      <td>!wl</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!steamwishlist</td>
-      <td>!s[team]wl</td>
-      <td></td>
-      <td>Links to the streamer's Steam wishlist.</td>
-      <td>!swl</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
       <td>!tip</td>
       <td>!donate</td>
       <td></td>
@@ -141,6 +125,30 @@
       <td></td>
       <td><s>Links to Streamlabs merch store for the streamer.</s><br><em><font color="#f8b88b">Currently unavailable.</font></em></td>
       <td>!merch</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!streamloots</td>
+      <td>!loot[s], !sl</td>
+      <td></td>
+      <td><s>Links to the streamer's Streamloots page.</s><br><em><font color="#f8b88b">Currently unavailable.</font></em></td>
+      <td>!loot</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!wishlist</td>
+      <td>!wl, !amazon</td>
+      <td></td>
+      <td>Links to the streamer's Amazon wishlist.</td>
+      <td>!wl</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!steamwishlist</td>
+      <td>!s[team]wl</td>
+      <td></td>
+      <td>Links to the streamer's Steam wishlist.</td>
+      <td>!swl</td>
    </tr>
    <tr>
       <td>Everyone</td>
