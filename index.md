@@ -134,6 +134,14 @@
       <td>Links to the streamer's Streamloots page.</td>
       <td>!loot</td>
    </tr>
+    <tr>
+      <td>Everyone</td>
+      <td>!treatstream</td>
+      <td>!treat[s], !ts</td>
+      <td></td>
+      <td>Links to the streamer's TreatStream page.</td>
+      <td>!treat</td>
+   </tr>
    <tr>
       <td>Everyone</td>
       <td>!wishlist</td>
