@@ -332,13 +332,21 @@
       <td>Explains the current promotion happening on Twitch at the moment (usually pertaining to Bits), if applicable.</td>
       <td>!promo</td>
    </tr>
-   <tr>
-      <td><font color="#baed91">Moderator</font></td>
+    <tr>
+      <td>Everyone</td>
       <td>!english</td>
       <td>!eng, !lang[uage]</td>
       <td></td>
+      <td>Returns "Please speak English in chat".</td>
+      <td>!eng</td>
+   </tr>
+   <tr>
+      <td><font color="#baed91">Moderator</font></td>
+      <td>!english</td>
+      <td>!language</td>
+      <td></td>
       <td>Returns "Please speak English in chat" in six popular languanges on Twitch.</td>
-      <td>!lang</td>
+      <td>!english</td>
    </tr>
    <tr>
       <td>Everyone</td>
