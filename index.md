@@ -302,7 +302,7 @@
       <td>!24s</td>
       <td></td>
       <td></td>
-      <td>Retuns the number of 24-hour streams completed by the streamer.</td>
+      <td>Returns the number of 24-hour streams completed by the streamer.</td>
       <td>!24s</td>
    </tr>
     <tr>
@@ -310,7 +310,7 @@
       <td>!games</td>
       <td></td>
       <td></td>
-      <td>Retuns a list of games played on Twitch by the streamer.</td>
+      <td>Returns a list of games played on Twitch by the streamer.</td>
       <td>!games</td>
    </tr>
    <tr>
