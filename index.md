@@ -180,7 +180,7 @@
    <tr>
       <td>Everyone</td>
       <td>!shanehype</td>
-      <td></td>
+      <td>!69[hype]</td>
       <td></td>
       <td>Spams almost two lines of Shane Gill's synecdochical emote, to be used in the extrememly rare event he does something hype-worthy.</td>
       <td>!shanehype</td>
