@@ -1038,7 +1038,7 @@
    <tr>
       <td>Everyone</td>
       <td>!fahrenheit</td>
-      <td>!f[2/t]c, !F</td>
+      <td>!f{2/t}c, !F</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to degrees Celsius.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
       <td>!f2c 9</td>
@@ -1046,7 +1046,7 @@
    <tr>
       <td>Everyone</td>
       <td>!celsius</td>
-      <td>!c[2/t]f, !C</td>
+      <td>!c{2/t}f, !C</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
       <td>!C 25</td>
