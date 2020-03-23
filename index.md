@@ -678,7 +678,7 @@
       <td>!quotes</td>
    </tr>
    <tr>
-      <td rowspan="3"><font color="#8e0ac2">Subscriber</font>/<br><font color="#00ad03">Moderator</font></td>
+      <td rowspan="3"><font color="#AF53D4">Subscriber</font>/<br><font color="#00ad03">Moderator</font></td>
       <td rowspan="3">!quote</td>
       <td><br>!q<br><br></td>
       <td rowspan="3">
@@ -941,7 +941,7 @@
       <td>!define nihilism</td>
    </tr>
    <tr>
-      <td><font color="#8e0ac2">Subscriber</font>/<br><font color="#00ad03">Moderator</font></td>
+      <td><font color="#AF53D4">Subscriber</font>/<br><font color="#00ad03">Moderator</font></td>
       <td>!urban</td>
       <td>!urbandictionary, !udefine, !ud</td>
       <td>{WORD/PHRASE}</td>
