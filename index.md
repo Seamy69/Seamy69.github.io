@@ -168,7 +168,7 @@
       <td>!contact</td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -323,7 +323,7 @@
       <td>!subathon</td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -458,7 +458,7 @@
       </td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
@@ -531,7 +531,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          {d/death}{+/-}
          <hr>
          {+/-}{d/death}
@@ -573,7 +573,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          {c/count[er]}{+/-}
          <hr>
          {+/-}{c/count[er]}
@@ -581,7 +581,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
@@ -674,7 +674,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          !{search/find/lookup}quote {WORD/PHRASE}
          <hr>
          !quote{search/find/lookup} {WORD/PHRASE}
@@ -710,7 +710,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          !addquote {QUOTE}
          <hr>
          !quoteadd {QUOTE}
@@ -782,7 +782,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">!give {USERNAME} {NUMBER}</td>
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">!give {USERNAME} {NUMBER}</td>
    </tr>
    <tr></tr>
    <tr>
@@ -921,7 +921,7 @@
       <td>!heist off</td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Non-moderator</td>
@@ -1034,7 +1034,7 @@
       </td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -1117,7 +1117,7 @@
       <td>!L 8675309</td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
@@ -1159,7 +1159,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#323232" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          !add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
@@ -1169,7 +1169,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#F2F2F2"></td>
+      <td colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td><font color="#fea3aa">Broadcaster</font></td>
