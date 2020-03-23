@@ -573,7 +573,7 @@
    <tr></tr>
    <tr>
       <td><font color="#00ad03">Moderator</font></td>
-      <td><font color="#b2cefe">!break</font></td>
+      <td><font color="#2fbeee">!break</font></td>
       <td></td>
       <td></td>
       <td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td>
@@ -582,7 +582,7 @@
    <tr>
       <td><font color="#e91916">Broadcaster</font></td>
       <td>!brb</td>
-      <td><font color="#b2cefe">!break</font></td>
+      <td><font color="#2fbeee">!break</font></td>
       <td></td>
       <td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td>
       <td>!brb</td>
@@ -600,7 +600,7 @@
       <td>!dadjoke</td>
       <td>!joke</td>
       <td></td>
-      <td>Returns a random dad joke.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns a random dad joke.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!dadjoke</td>
    </tr>
    <tr>
@@ -616,7 +616,7 @@
       <td>!fact</td>
       <td>!f</td>
       <td>[NUMBER]</td>
-      <td>Returns a random, [mostly] fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns a random, [mostly] fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !fact
          <hr>
@@ -628,7 +628,7 @@
       <td>!facts</td>
       <td></td>
       <td></td>
-      <td>Returns the total number of facts [only if not followed by a number].<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns the total number of facts [only if not followed by a number].<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!facts</td>
    </tr>
    <tr>
@@ -650,7 +650,7 @@
          <hr>
          help
       </td>
-      <td rowspan="3">Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for the quote via word or phrase. Also, the first two words of this command [when using the search parameter] can be interchanged.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td rowspan="3">Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for the quote via word or phrase. Also, the first two words of this command [when using the search parameter] can be interchanged.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td rowspan="3">
          !quote
          <hr>
@@ -674,7 +674,7 @@
       <td>!quotes</td>
       <td></td>
       <td></td>
-      <td>Returns the total number of quotes [only if not followed by a number or any of the manipulative parameters indicated below].<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Returns the total number of quotes [only if not followed by a number or any of the manipulative parameters indicated below].<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td>!quotes</td>
    </tr>
    <tr>
@@ -720,7 +720,7 @@
          <hr>
          rem[ove]/- {NUMBER}
       </td>
-      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Quotes may be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
+      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Quotes may be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
       <td rowspan="3">
          !quote off
          <hr>
@@ -758,7 +758,7 @@
          <hr>
          help
       </td>
-      <td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td rowspan="3">
          !points
          <hr>
@@ -790,7 +790,7 @@
          <hr>
          reset [USERNAME]
       </td>
-      <td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating users' point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
+      <td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating users' point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
       <td rowspan="3">
          !points add Seamy 6969
          <hr>
@@ -839,7 +839,7 @@
          <hr>
          help
       </td>
-      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !gamble 420
          <hr>
@@ -867,7 +867,7 @@
          <hr>
          help
       </td>
-      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !slots 999
          <hr>
@@ -893,7 +893,7 @@
          <hr>
          help
       </td>
-      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#b2cefe">Only available during breaks (unless enabled manually).</font></em></td>
+      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
       <td>
          !heist 42069
          <hr>
