@@ -470,7 +470,7 @@
    <tr>
       <td>Everyone</td>
       <td>!uptime</td>
-      <td>!up, !live</td>
+      <td>!up, !live, !online</td>
       <td></td>
       <td>Returns the duration the current stream has been live.</td>
       <td>!uptime</td>
@@ -1038,15 +1038,15 @@
    <tr>
       <td>Everyone</td>
       <td>!fahrenheit</td>
-      <td>!F</td>
+      <td>!f[2/t]c, !F</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to degrees Celsius.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
-      <td>!F 9</td>
+      <td>!f2c 9</td>
    </tr>
    <tr>
       <td>Everyone</td>
       <td>!celsius</td>
-      <td>!C</td>
+      <td>!c[2/t]f, !C</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
       <td>!C 25</td>
