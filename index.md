@@ -1023,7 +1023,7 @@
       <td>!fahrenheit</td>
       <td>!f{2/t}c, !F</td>
       <td>{NUMBER}</td>
-      <td>Converts the given number to degrees Celsius.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
+      <td>Converts the given number to degrees Celsius.<br><br><em><font color="#fc7138">The single-letter alias is case-sensitive.</font></em></td>
       <td>!f2c 9</td>
    </tr>
    <tr>
@@ -1031,7 +1031,7 @@
       <td>!celsius</td>
       <td>!c{2/t}f, !C</td>
       <td>{NUMBER}</td>
-      <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
+      <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#fc7138">The single-letter alias is case-sensitive.</font></em></td>
       <td>!C 25</td>
    </tr>
    <tr>
@@ -1095,7 +1095,7 @@
       <td style="border-bottom: 2px solid #9146FF">!liters</td>
       <td style="border-bottom: 2px solid #9146FF">!lit{er/re}, !L</td>
       <td style="border-bottom: 2px solid #9146FF">{NUMBER}</td>
-      <td style="border-bottom: 2px solid #9146FF">Converts the given number to U.S. gallons.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
+      <td style="border-bottom: 2px solid #9146FF">Converts the given number to U.S. gallons.<br><br><em><font color="#fc7138">The single-letter alias is case-sensitive.</font></em></td>
       <td style="border-bottom: 2px solid #9146FF">!L 8675309</td>
    </tr>
    <tr>
