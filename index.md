@@ -124,7 +124,7 @@
       <td>!merch</td>
       <td>!stuff</td>
       <td></td>
-      <td><s>Links to Streamlabs merch store for the streamer.</s><br><em><font color="#fc7138">Currently unavailable.</font></em></td>
+      <td><s>Links to Streamlabs merch store for the streamer.</s><br><em><font color="#e59ab3">Currently unavailable.</font></em></td>
       <td>!merch</td>
    </tr>
    <tr>
@@ -244,7 +244,7 @@
       <td>!specs</td>
       <td>!pc, !setup, !build</td>
       <td></td>
-      <td><s>Returns the streamer's PC components.</s><br><em><font color="#f8b88b">Currently unknown.</font></em></td>
+      <td><s>Returns the streamer's PC components.</s><br><em><font color="#e59ab3">Currently unknown.</font></em></td>
       <td>!specs</td>
    </tr>
    <tr>
@@ -340,7 +340,7 @@
       <td>!english</td>
       <td>!language</td>
       <td></td>
-      <td>Returns "Please speak English in chat" in six popular languanges on Twitch.<br><br><em><font color="#f8b88b">Use the shortened version of the commands (!eng and !lang) to have the bot return the simplified version of the output indicated in the row above.</font></em></td>
+      <td>Returns "Please speak English in chat" in six popular languanges on Twitch.<br><br><em><font color="#e59ab3">Use the shortened version of the commands (!eng and !lang) to have the bot return the simplified version of the output indicated in the row above.</font></em></td>
       <td>!english</td>
    </tr>
    <tr>
@@ -720,7 +720,7 @@
          <hr>
          rem[ove]/- {NUMBER}
       </td>
-      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Quotes may be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
+      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#e59ab3">Quotes may be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
       <td rowspan="3">
          !quote off
          <hr>
@@ -790,7 +790,7 @@
          <hr>
          reset [USERNAME]
       </td>
-      <td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating users' point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f8b88b">Not related to Channel Points.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
+      <td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating users' point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#e59ab3">Not related to Channel Points.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
       <td rowspan="3">
          !points add Seamy 6969
          <hr>
@@ -945,7 +945,7 @@
       <td>!urban</td>
       <td>!urbandictionary, !udefine, !ud</td>
       <td>{WORD/PHRASE}</td>
-      <td>Returns the urban definition of the word or phrase in question.<br><br><em><font color="#f8b88b">Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</font></em></td>
+      <td>Returns the urban definition of the word or phrase in question.<br><br><em><font color="#e59ab3">Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</font></em></td>
       <td>!urban nihilism</td>
    </tr>
    <tr>
@@ -1023,7 +1023,7 @@
       <td>!fahrenheit</td>
       <td>!f{2/t}c, !F</td>
       <td>{NUMBER}</td>
-      <td>Converts the given number to degrees Celsius.<br><br><em><font color="#fc7138">The single-letter alias is case-sensitive.</font></em></td>
+      <td>Converts the given number to degrees Celsius.<br><br><em><font color="#e59ab3">The single-letter alias is case-sensitive.</font></em></td>
       <td>!f2c 9</td>
    </tr>
    <tr>
@@ -1031,7 +1031,7 @@
       <td>!celsius</td>
       <td>!c{2/t}f, !C</td>
       <td>{NUMBER}</td>
-      <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#fc7138">The single-letter alias is case-sensitive.</font></em></td>
+      <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#e59ab3">The single-letter alias is case-sensitive.</font></em></td>
       <td>!C 25</td>
    </tr>
    <tr>
@@ -1095,7 +1095,7 @@
       <td style="border-bottom: 2px solid #9146FF">!liters</td>
       <td style="border-bottom: 2px solid #9146FF">!lit{er/re}, !L</td>
       <td style="border-bottom: 2px solid #9146FF">{NUMBER}</td>
-      <td style="border-bottom: 2px solid #9146FF">Converts the given number to U.S. gallons.<br><br><em><font color="#fc7138">The single-letter alias is case-sensitive.</font></em></td>
+      <td style="border-bottom: 2px solid #9146FF">Converts the given number to U.S. gallons.<br><br><em><font color="#e59ab3">The single-letter alias is case-sensitive.</font></em></td>
       <td style="border-bottom: 2px solid #9146FF">!L 8675309</td>
    </tr>
    <tr>
