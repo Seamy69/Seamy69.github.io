@@ -160,15 +160,12 @@
       <td>!swl</td>
    </tr>
    <tr>
-      <td style="border-left: 2px solid #9146FF">Everyone</td>
-      <td style="border-left: 2px solid #9146FF">!contact</td>
-      <td style="border-left: 2px solid #9146FF">!business, !email, !inquiry</td>
-      <td style="border-left: 1px solid #9146FF"></td>
-      <td style="border-left: 1px solid #9146FF">Returns the streamer's business email.</td>
-      <td style="border-left: 1px solid #9146FF">!contact</td>
-   </tr>
-   <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#0000ff"></td>
+      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
+      <td style="border-bottom: 2px solid #9146FF">!contact</td>
+      <td style="border-bottom: 2px solid #9146FF">!business, !email, !inquiry</td>
+      <td style="border-bottom: 2px solid #9146FF"></td>
+      <td style="border-bottom: 2px solid #9146FF">Returns the streamer's business email.</td>
+      <td style="border-bottom: 2px solid #9146FF">!contact</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -315,15 +312,12 @@
       <td>!games</td>
    </tr>
    <tr>
-      <td>Everyone</td>
-      <td>!subathon</td>
-      <td>!timer</td>
-      <td></td>
-      <td>Details subathon rules, if applicable.</td>
-      <td>!subathon</td>
-   </tr>
-   <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
+      <td style="border-bottom: 2px solid #9146FF">!subathon</td>
+      <td style="border-bottom: 2px solid #9146FF">!timer</td>
+      <td style="border-bottom: 2px solid #9146FF"></td>
+      <td style="border-bottom: 2px solid #9146FF">Details subathon rules, if applicable.</td>
+      <td style="border-bottom: 2px solid #9146FF">!subathon</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -446,19 +440,16 @@
       </td>
    </tr>
    <tr>
-      <td>Everyone</td>
-      <td>!followage</td>
-      <td>!howlong, !hl, !since</td>
-      <td>[USERNAME]</td>
-      <td>Returns the duration since and the date the [indicated] user followed the channel.</td>
-      <td>
+      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
+      <td style="border-bottom: 2px solid #9146FF">!followage</td>
+      <td style="border-bottom: 2px solid #9146FF">!howlong, !hl, !since</td>
+      <td style="border-bottom: 2px solid #9146FF">[USERNAME]</td>
+      <td style="border-bottom: 2px solid #9146FF">Returns the duration since and the date the [indicated] user followed the channel.</td>
+      <td style="border-bottom: 2px solid #9146FF">
          !howlong
          <hr>
          !followage Seamy
       </td>
-   </tr>
-   <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
@@ -539,12 +530,12 @@
    </tr>
    <tr></tr>
    <tr>
-      <td>Everyone</td>
-      <td>!counter</td>
-      <td>!c[ount]</td>
-      <td></td>
-      <td>Returns the current count of a generic counter in progress.</td>
-      <td>!count</td>
+      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
+      <td style="border-bottom: 2px solid #9146FF">!counter</td>
+      <td style="border-bottom: 2px solid #9146FF">!c[ount]</td>
+      <td style="border-bottom: 2px solid #9146FF"></td>
+      <td style="border-bottom: 2px solid #9146FF">Returns the current count of a generic counter in progress.</td>
+      <td style="border-bottom: 2px solid #9146FF">!count</td>
    </tr>
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
@@ -580,9 +571,6 @@
       </td>
    </tr>
    <tr></tr>
-   <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
-   </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td><font color="#b2cefe">!break</font></td>
@@ -913,15 +901,12 @@
       </td>
    </tr>
    <tr>
-      <td><font color="#baed91">Moderator</font></td>
-      <td>!heist</td>
-      <td>!h</td>
-      <td>on/off</td>
-      <td>Enables/disables the !heist commands.</td>
-      <td>!heist off</td>
-   </tr>
-   <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td style="border-bottom: 2px solid #9146FF"><font color="#baed91">Moderator</font></td>
+      <td style="border-bottom: 2px solid #9146FF">!heist</td>
+      <td style="border-bottom: 2px solid #9146FF">!h</td>
+      <td style="border-bottom: 2px solid #9146FF">on/off</td>
+      <td style="border-bottom: 2px solid #9146FF">Enables/disables the !heist commands.</td>
+      <td style="border-bottom: 2px solid #9146FF">!heist off</td>
    </tr>
    <tr>
       <td>Non-moderator</td>
@@ -1014,16 +999,16 @@
       </td>
    </tr>
    <tr>
-      <td>Everyone</td>
-      <td>!countdown</td>
-      <td>!cd, !remindme</td>
-      <td>
+      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
+      <td style="border-bottom: 2px solid #9146FF">!countdown</td>
+      <td style="border-bottom: 2px solid #9146FF">!cd, !remindme</td>
+      <td style="border-bottom: 2px solid #9146FF">
          {DURATION}<br><br>
          <hr>
          <br>stop/end/reset/unset
       </td>
-      <td>Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td>
-      <td>
+      <td style="border-bottom: 2px solid #9146FF">Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td>
+      <td style="border-bottom: 2px solid #9146FF">
          !countdown 6min
          <hr>
          !cd 6m Feed Todd Howard!
@@ -1032,9 +1017,6 @@
          <hr>
          !cd 9hrs9minutes9secs
       </td>
-   </tr>
-   <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -1109,28 +1091,25 @@
       <td>!gal 8008135</td>
    </tr>
    <tr>
-      <td>Everyone</td>
-      <td>!liters</td>
-      <td>!lit{er/re}, !L</td>
-      <td>{NUMBER}</td>
-      <td>Converts the given number to U.S. gallons.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
-      <td>!L 8675309</td>
+      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
+      <td style="border-bottom: 2px solid #9146FF">!liters</td>
+      <td style="border-bottom: 2px solid #9146FF">!lit{er/re}, !L</td>
+      <td style="border-bottom: 2px solid #9146FF">{NUMBER}</td>
+      <td style="border-bottom: 2px solid #9146FF">Converts the given number to U.S. gallons.<br><br><em><font color="#f8b88b">The single-letter alias is case-sensitive.</font></em></td>
+      <td style="border-bottom: 2px solid #9146FF">!L 8675309</td>
    </tr>
    <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
-   </tr>
-   <tr>
-      <td rowspan="3"><font color="#baed91">Moderator</font></td>
-      <td rowspan="3">!command</td>
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#baed91">Moderator</font></td>
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">!command</td>
       <td><br>!com[mand][s], !cmd[s]<br><br></td>
-      <td rowspan="3">
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
          add {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>edit/change/fix {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>del[ete]/rem[ove] {COMMAND NAME}
       </td>
-      <td rowspan="3">
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
          Allows several means of manipulating custom commands. Also, the first two words of this command can be interchanged.<br><br>
          <hr>
          <br>
@@ -1168,9 +1147,6 @@
       </td>
    </tr>
    <tr></tr>
-   <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
-   </tr>
    <tr>
       <td><font color="#fea3aa">Broadcaster</font></td>
       <td>!start</td>
