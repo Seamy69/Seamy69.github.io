@@ -1113,9 +1113,9 @@
          Allows several means of manipulating custom commands. Also, the first two words of this command can be interchanged.<br><br>
          <hr>
          <br>
-         <font color="#fc7138">
+         <font color="#fe9400">
             The [USERLEVEL] parameters are as follows:<br><br>
-            <p style="border:2px; border-style:dashed; border-color:#fc7138; padding: 1em; border-radius: 8px; width: 175px">-ul={[broad]caster/owner}[only]<br>-ul={moderator[s]/mod[s]}[only]<br>-ul={subscriber[s]/sub[s]}[only]</p>
+            <p style="border:2px; border-style:dashed; border-color:#fe9400; padding: 1em; border-radius: 8px; width: 175px">-ul={[broad]caster/owner}[only]<br>-ul={moderator[s]/mod[s]}[only]<br>-ul={subscriber[s]/sub[s]}[only]</p>
             <br>A "broadcaster" user level stipulates a command can only be used by the broadcaster.<br><br>A "moderator" user level stipulates a command can only be used by all moderators, including the broadcaster.<br><br>A "subscriber" user level stipulates a command can only be used by subscribers, all moderators, and the broadcaster.
          </font>
       </td>
