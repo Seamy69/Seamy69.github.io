@@ -124,7 +124,7 @@
       <td>!merch</td>
       <td>!stuff</td>
       <td></td>
-      <td><s>Links to Streamlabs merch store for the streamer.</s><br><em><font color="#f8b88b">Currently unavailable.</font></em></td>
+      <td><s>Links to Streamlabs merch store for the streamer.</s><br><em><font color="#fc7138">Currently unavailable.</font></em></td>
       <td>!merch</td>
    </tr>
    <tr>
