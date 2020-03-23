@@ -159,7 +159,7 @@
       <td>Links to the streamer's Steam wishlist.</td>
       <td>!swl</td>
    </tr>
-   <tr>
+   <tr style="border-bottom:1px solid 9146FF">
       <td>Everyone</td>
       <td>!contact</td>
       <td>!business, !email, !inquiry</td>
@@ -168,7 +168,7 @@
       <td>!contact</td>
    </tr>
    <tr>
-      <td height="1" colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="1" colspan="6" align="center" bgcolor="#0000ff"></td>
    </tr>
    <tr>
       <td>Everyone</td>
