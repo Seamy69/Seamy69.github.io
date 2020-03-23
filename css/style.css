@@ -17,7 +17,7 @@ table.darkTable tbody td {
   color: #F2F2F2;
 }
 table.darkTable tr:nth-child(even) {
-  background: #232323;
+  background: #383838;
 }
 table.darkTable thead {
   background: #232323;
