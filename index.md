@@ -2,20 +2,20 @@
 <table class="darkTable">
 <thead>
    <tr>
-      <th style="border-left: 2px solid #323232">User level</th>
+      <th style="border-left: 2px solid #232323">User level</th>
       <th>Command</th>
       <th>Aliases</th>
       <th>Parameters</th>
       <th>Notes</th>
-      <th style="border-right: 2px solid #323232" width="18%">Example</th>
+      <th style="border-right: 2px solid #232323" width="18%">Example</th>
 <tfoot>
    <tr>
-      <td style="border-left: 2px solid #323232">User level</td>
+      <td style="border-left: 2px solid #232323">User level</td>
       <td>Command</td>
       <td>Aliases</td>
       <td>Parameters</td>
       <td>Notes</td>
-      <td style="border-right: 2px solid #323232">Example</td>
+      <td style="border-right: 2px solid #232323">Example</td>
    </tr>
 </tfoot>
 <tbody>
