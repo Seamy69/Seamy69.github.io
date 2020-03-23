@@ -168,7 +168,7 @@
       <td>!contact</td>
    </tr>
    <tr>
-      <td height="200" colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -323,7 +323,7 @@
       <td>!subathon</td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -458,7 +458,7 @@
       </td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
@@ -581,7 +581,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td><font color="#baed91">Moderator</font></td>
@@ -921,7 +921,7 @@
       <td>!heist off</td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Non-moderator</td>
@@ -1034,7 +1034,7 @@
       </td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -1117,7 +1117,7 @@
       <td>!L 8675309</td>
    </tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td rowspan="3"><font color="#baed91">Moderator</font></td>
@@ -1169,7 +1169,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td colspan="6" align="center" bgcolor="#9146FF"></td>
+      <td height="5" colspan="6" align="center" bgcolor="#9146FF"></td>
    </tr>
    <tr>
       <td><font color="#fea3aa">Broadcaster</font></td>
