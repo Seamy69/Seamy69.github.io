@@ -470,7 +470,7 @@
    <tr>
       <td><font color="#baed91">Moderator</font></td>
       <td>!uptime</td>
-      <td>!up, !live</td>
+      <td>!up, !live, !online</td>
       <td>
          set {TIME IN STREAMER'S TIMEZONE}
          <hr>
@@ -530,18 +530,18 @@
    </tr>
    <tr></tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
-      <td style="border-bottom: 2px solid #9146FF">!counter</td>
-      <td style="border-bottom: 2px solid #9146FF">!c[ount]</td>
-      <td style="border-bottom: 2px solid #9146FF"></td>
-      <td style="border-bottom: 2px solid #9146FF">Returns the current count of a generic counter in progress.</td>
-      <td style="border-bottom: 2px solid #9146FF">!count</td>
+      <td>Everyone</td>
+      <td>!counter</td>
+      <td>!c[ount]</td>
+      <td></td>
+      <td>Returns the current count of a generic counter in progress.</td>
+      <td>!count</td>
    </tr>
    <tr>
-      <td rowspan="3"><font color="#baed91">Moderator</font></td>
-      <td rowspan="3">!counter</td>
-      <td><br>!c[ount]<br><br></td>
-      <td rowspan="3">
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#baed91">Moderator</font></td>
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">!counter</td>
+      <td style="border-bottom: 2px solid #9146FF"><br>!c[ount]<br><br></td>
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
          add/inc[rease]/+
          <hr>
          rem[ove]/dec[rease]/-
@@ -550,8 +550,8 @@
          <hr>
          reset/unset
       </td>
-      <td rowspan="3">Allows several means of manipulating the counter. Also, the first two words of this command can be interchanged.</td>
-      <td rowspan="3">
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">Allows several means of manipulating the counter. Also, the first two words of this command can be interchanged.</td>
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
          !count +
          <hr>
          !increase counter
@@ -1119,7 +1119,7 @@
             <br>A "broadcaster" user level stipulates a command can only be used by the broadcaster.<br><br>A "moderator" user level stipulates a command can only be used by all moderators, including the broadcaster.<br><br>A "subscriber" user level stipulates a command can only be used by subscribers, all moderators, and the broadcaster.
          </font>
       </td>
-      <td rowspan="3">
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
          !addcom !test This is a test command.
          <hr>
          !command add !test This is a test command.
@@ -1138,7 +1138,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #9146FF; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          !add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
