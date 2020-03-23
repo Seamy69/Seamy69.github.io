@@ -26,6 +26,7 @@
          <li>Words surrounded by [square brackets] indicate an optional parameter or input.</li>
          <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
          <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
+         <br>
       </strong>
    </ul>
    </p>
