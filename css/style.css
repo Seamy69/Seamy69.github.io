@@ -20,7 +20,7 @@ table.darkTable tr:nth-child(even) {
   background: #323232;
 }
 table.darkTable thead {
-  background: #232323;
+  background: #323232;
   border-bottom: 2px solid #F2F2F2;
 }
 table.darkTable thead th {
