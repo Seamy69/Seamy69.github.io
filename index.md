@@ -159,13 +159,13 @@
       <td>Links to the streamer's Steam wishlist.</td>
       <td>!swl</td>
    </tr>
-   <tr style="border-bottom:1px solid 9146FF">
-      <td>Everyone</td>
-      <td>!contact</td>
-      <td>!business, !email, !inquiry</td>
-      <td></td>
-      <td>Returns the streamer's business email.</td>
-      <td>!contact</td>
+   <tr>
+      <td style="border-left: 2px solid #9146FF">Everyone</td>
+      <td style="border-left: 2px solid #9146FF">!contact</td>
+      <td style="border-left: 2px solid #9146FF">!business, !email, !inquiry</td>
+      <td style="border-left: 1px solid #9146FF"></td>
+      <td style="border-left: 1px solid #9146FF">Returns the streamer's business email.</td>
+      <td style="border-left: 1px solid #9146FF">!contact</td>
    </tr>
    <tr>
       <td height="1" colspan="6" align="center" bgcolor="#0000ff"></td>
