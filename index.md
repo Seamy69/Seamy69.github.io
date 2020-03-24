@@ -20,7 +20,7 @@
 </tfoot>
 <tbody>
    <div style="background-color:#232323; border:2px inset #383838">
-      <div style="height:2px;"><br></div>
+      <div style="height:10px;"><br></div>
    <ul>
       <strong>
          <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
