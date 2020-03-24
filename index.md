@@ -662,7 +662,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#383838" rowspan="2">
          !{search/find/lookup}quote {WORD/PHRASE}
          <hr>
          !quote{search/find/lookup} {WORD/PHRASE}
@@ -698,7 +698,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#383838" rowspan="2">
          !addquote {QUOTE}
          <hr>
          !quoteadd {QUOTE}
@@ -770,7 +770,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">!give {USERNAME} {NUMBER}</td>
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#383838" rowspan="2">!give {USERNAME} {NUMBER}</td>
    </tr>
    <tr></tr>
    <tr>
