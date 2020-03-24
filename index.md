@@ -162,12 +162,12 @@
       <td>!swl</td>
    </tr>
    <tr>
-      <td style="border-bottom: 15px dashed #2E2E2E">Everyone</td>
-      <td style="border-bottom: 15px dashed #2E2E2E">!contact</td>
-      <td style="border-bottom: 15px dashed #2E2E2E">!business, !email, !inquiry</td>
-      <td style="border-bottom: 15px dashed #2E2E2E"></td>
-      <td style="border-bottom: 15px dashed #2E2E2E">Returns the streamer's business email.</td>
-      <td style="border-bottom: 15px dashed #2E2E2E">!contact</td>
+      <td style="border-bottom: 3px dashed #2E2E2E">Everyone</td>
+      <td style="border-bottom: 3px dashed #2E2E2E">!contact</td>
+      <td style="border-bottom: 3px dashed #2E2E2E">!business, !email, !inquiry</td>
+      <td style="border-bottom: 3px dashed #2E2E2E"></td>
+      <td style="border-bottom: 3px dashed #2E2E2E">Returns the streamer's business email.</td>
+      <td style="border-bottom: 3px dashed #2E2E2E">!contact</td>
    </tr>
    <tr>
       <td>Everyone</td>
