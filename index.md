@@ -314,12 +314,12 @@
       <td>!games</td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
-      <td style="border-bottom: 2px solid #9146FF">!subathon</td>
-      <td style="border-bottom: 2px solid #9146FF">!timer</td>
-      <td style="border-bottom: 2px solid #9146FF"></td>
-      <td style="border-bottom: 2px solid #9146FF">Details subathon rules, if applicable.</td>
-      <td style="border-bottom: 2px solid #9146FF">!subathon</td>
+      <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!subathon</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!timer</td>
+      <td style="border-bottom: 2px solid #F2F2F2"></td>
+      <td style="border-bottom: 2px solid #F2F2F2">Details subathon rules, if applicable.</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!subathon</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -442,12 +442,12 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
-      <td style="border-bottom: 2px solid #9146FF">!followage</td>
-      <td style="border-bottom: 2px solid #9146FF">!howlong, !hl, !since</td>
-      <td style="border-bottom: 2px solid #9146FF">[USERNAME]</td>
-      <td style="border-bottom: 2px solid #9146FF">Returns the duration since and the date the [indicated] user followed the channel.</td>
-      <td style="border-bottom: 2px solid #9146FF">
+      <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!followage</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!howlong, !hl, !since</td>
+      <td style="border-bottom: 2px solid #F2F2F2">[USERNAME]</td>
+      <td style="border-bottom: 2px solid #F2F2F2">Returns the duration since and the date the [indicated] user followed the channel.</td>
+      <td style="border-bottom: 2px solid #F2F2F2">
          !howlong
          <hr>
          !followage Seamy
@@ -540,10 +540,10 @@
       <td>!count</td>
    </tr>
    <tr>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#19b51c">Moderator</font></td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">!counter</td>
-      <td style="border-bottom: 2px solid #9146FF"><br>!c[ount]<br><br></td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">!counter</td>
+      <td style="border-bottom: 2px solid #F2F2F2"><br>!c[ount]<br><br></td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
          add/inc[rease]/+
          <hr>
          rem[ove]/dec[rease]/-
@@ -552,8 +552,8 @@
          <hr>
          reset/unset
       </td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">Allows several means of manipulating the counter. Also, the first two words of this command can be interchanged.</td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">Allows several means of manipulating the counter. Also, the first two words of this command can be interchanged.</td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
          !count +
          <hr>
          !increase counter
@@ -566,7 +566,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          {c/count[er]}{+/-}
          <hr>
          {+/-}{c/count[er]}
@@ -903,12 +903,12 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF"><font color="#19b51c">Moderator</font></td>
-      <td style="border-bottom: 2px solid #9146FF">!heist</td>
-      <td style="border-bottom: 2px solid #9146FF">!h</td>
-      <td style="border-bottom: 2px solid #9146FF">on/off</td>
-      <td style="border-bottom: 2px solid #9146FF">Enables/disables the !heist commands.</td>
-      <td style="border-bottom: 2px solid #9146FF">!heist off</td>
+      <td style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
+      <td style="border-bottom: 2px solid #F2F2F2">!heist</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!h</td>
+      <td style="border-bottom: 2px solid #F2F2F2">on/off</td>
+      <td style="border-bottom: 2px solid #F2F2F2">Enables/disables the !heist commands.</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!heist off</td>
    </tr>
    <tr>
       <td>Non-moderator</td>
@@ -1001,16 +1001,16 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
-      <td style="border-bottom: 2px solid #9146FF">!countdown</td>
-      <td style="border-bottom: 2px solid #9146FF">!cd, !remindme</td>
-      <td style="border-bottom: 2px solid #9146FF">
+      <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!countdown</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!cd, !remindme</td>
+      <td style="border-bottom: 2px solid #F2F2F2">
          {DURATION}<br><br>
          <hr>
          <br>stop/end/reset/unset
       </td>
-      <td style="border-bottom: 2px solid #9146FF">Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td>
-      <td style="border-bottom: 2px solid #9146FF">
+      <td style="border-bottom: 2px solid #F2F2F2">Counts down from a specified time. If no units are specified when starting a countdown, it will default to seconds. Also, ensure there are no spaces between the number and unit. Optionally, one may leave a message after the duration that the bot will reiterate once the countdown reaches zero.</td>
+      <td style="border-bottom: 2px solid #F2F2F2">
          !countdown 6min
          <hr>
          !cd 6m Feed Todd Howard!
@@ -1093,25 +1093,25 @@
       <td>!gal 8008135</td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
-      <td style="border-bottom: 2px solid #9146FF">!liters</td>
-      <td style="border-bottom: 2px solid #9146FF">!lit{er/re}, !L</td>
-      <td style="border-bottom: 2px solid #9146FF">{NUMBER}</td>
-      <td style="border-bottom: 2px solid #9146FF">Converts the given number to U.S. gallons.<br><br><em><font color="#f595b5">The single-letter alias is case-sensitive.</font></em></td>
-      <td style="border-bottom: 2px solid #9146FF">!L 8675309</td>
+      <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!liters</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!lit{er/re}, !L</td>
+      <td style="border-bottom: 2px solid #F2F2F2">{NUMBER}</td>
+      <td style="border-bottom: 2px solid #F2F2F2">Converts the given number to U.S. gallons.<br><br><em><font color="#f595b5">The single-letter alias is case-sensitive.</font></em></td>
+      <td style="border-bottom: 2px solid #F2F2F2">!L 8675309</td>
    </tr>
    <tr>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#19b51c">Moderator</font></td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">!command</td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">!command</td>
       <td><br>!com[mand][s], !cmd[s]<br><br></td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
          add {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>edit/change/fix {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>del[ete]/rem[ove] {COMMAND NAME}
       </td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
          Allows several means of manipulating custom commands. Also, the first two words of this command can be interchanged.<br><br>
          <hr>
          <br>
@@ -1121,7 +1121,7 @@
             <br>A "broadcaster" user level stipulates a command can only be used by the broadcaster.<br><br>A "moderator" user level stipulates a command can only be used by all moderators, including the broadcaster.<br><br>A "subscriber" user level stipulates a command can only be used by subscribers, all moderators, and the broadcaster.
          </font>
       </td>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF">
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
          !addcom !test This is a test command.
          <hr>
          !command add !test This is a test command.
@@ -1140,7 +1140,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
          !add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
