@@ -580,7 +580,7 @@
       <td>!break</td>
    </tr>
    <tr>
-      <td><font color="#e91916">Broadcaster</font></td>
+      <td><font color="#eb2f2d">Broadcaster</font></td>
       <td>!brb</td>
       <td><font color="#2fbeee">!break</font></td>
       <td></td>
@@ -1148,7 +1148,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td><font color="#e91916">Broadcaster</font></td>
+      <td><font color="#eb2f2d">Broadcaster</font></td>
       <td>!start</td>
       <td>!on, !turn on, !resume</td>
       <td></td>
@@ -1160,7 +1160,7 @@
       </td>
    </tr>
    <tr>
-      <td><font color="#e91916">Broadcaster</font></td>
+      <td><font color="#eb2f2d">Broadcaster</font></td>
       <td>!stop</td>
       <td>!off, !turn off, !exit, !shut {down/off}</td>
       <td></td>
@@ -1172,7 +1172,7 @@
       </td>
    </tr>
    <tr>
-      <td><font color="#e91916">Broadcaster</font></td>
+      <td><font color="#eb2f2d">Broadcaster</font></td>
       <td>!restart</td>
       <td>!reboot</td>
       <td></td>
