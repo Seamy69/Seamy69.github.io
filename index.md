@@ -522,7 +522,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #8B8B8B" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #909090" bgcolor="#232323" rowspan="2">
          {d/death}{+/-}
          <hr>
          {+/-}{d/death}
@@ -564,7 +564,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #8B8B8B" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #909090" bgcolor="#232323" rowspan="2">
          {c/count[er]}{+/-}
          <hr>
          {+/-}{c/count[er]}
@@ -662,7 +662,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #8B8B8B" bgcolor="#383838" rowspan="2">
+      <td style="border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #909090" bgcolor="#383838" rowspan="2">
          !{search/find/lookup}quote {WORD/PHRASE}
          <hr>
          !quote{search/find/lookup} {WORD/PHRASE}
@@ -698,7 +698,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#383838" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999; border-color: #909090" bgcolor="#383838" rowspan="2">
          !addquote {QUOTE}
          <hr>
          !quoteadd {QUOTE}
@@ -736,7 +736,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999; border-color: #909090" bgcolor="#232323" rowspan="2">
          !del[ete]quote {NUMBER}
          <hr>
          !quoterem[ove] {NUMBER}
@@ -770,7 +770,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#383838" rowspan="2">!give {USERNAME} {NUMBER}</td>
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999; border-color: #909090" bgcolor="#383838" rowspan="2">!give {USERNAME} {NUMBER}</td>
    </tr>
    <tr></tr>
    <tr>
@@ -810,7 +810,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999; border-color: #909090" bgcolor="#232323" rowspan="2">
          !addpoints {USERNAME} {NUMBER}
          <hr>
          !addpoints {all/everyone/chat} {NUMBER}
@@ -1115,7 +1115,7 @@
          <br>
          <font color="#f595b5">
             The [USERLEVEL] parameters are as follows:<br><br>
-            <p style="border:2px; border-style:ridge; border-color:#f595b5; padding: 1em; border-radius: 8px; width: 175px">-ul={[broad]caster/owner}[only]<br>-ul={moderator[s]/mod[s]}[only]<br>-ul={subscriber[s]/sub[s]}[only]</p>
+            <p style="border:3px; border-style:ridge; border-color:#f595b5; padding: 1em; border-radius: 8px; width: 175px">-ul={[broad]caster/owner}[only]<br>-ul={moderator[s]/mod[s]}[only]<br>-ul={subscriber[s]/sub[s]}[only]</p>
             <br>A "broadcaster" user level stipulates a command can only be used by the broadcaster.<br><br>A "moderator" user level stipulates a command can only be used by all moderators, including the broadcaster.<br><br>A "subscriber" user level stipulates a command can only be used by subscribers, all moderators, and the broadcaster.
          </font>
       </td>
@@ -1138,7 +1138,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999; border-color: #909090" bgcolor="#232323" rowspan="2">
          !add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
