@@ -564,7 +564,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #8B8B8B" bgcolor="#232323" rowspan="2">
          {c/count[er]}{+/-}
          <hr>
          {+/-}{c/count[er]}
@@ -662,7 +662,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#383838" rowspan="2">
+      <td style="border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999; border-color: #8B8B8B" bgcolor="#383838" rowspan="2">
          !{search/find/lookup}quote {WORD/PHRASE}
          <hr>
          !quote{search/find/lookup} {WORD/PHRASE}
