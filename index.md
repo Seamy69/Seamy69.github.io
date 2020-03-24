@@ -21,12 +21,12 @@
 <tbody>
    <div style="background-color:#232323; border:2px inset #383838; display: inline-block; padding-right: 20px; padding-left: 20px">
       <div style="height:15px;"></div>
-   <ul>
-      <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
-      <li>Words surrounded by [square brackets] indicate an optional parameter or input.</li>
-      <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
-      <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
-   </ul>
+      <ul>
+         <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
+         <li>Words surrounded by [square brackets] indicate an optional parameter or input.</li>
+         <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
+         <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
+      </ul>
    </div>
    <br>
    <br>
@@ -135,7 +135,7 @@
       <td>Links to the streamer's Streamloots page.</td>
       <td>!loot</td>
    </tr>
-    <tr>
+   <tr>
       <td>Everyone</td>
       <td>!treatstream</td>
       <td>!treat[s], !ts</td>
@@ -183,7 +183,7 @@
       <td>Spams almost two lines of Shane Gill's synecdochical emote, to be used in the extrememly rare event he does something hype-worthy.</td>
       <td>!shanehype</td>
    </tr>
-    <tr>
+   <tr>
       <td>Everyone</td>
       <td>!about</td>
       <td></td>
@@ -207,7 +207,7 @@
       <td>Explains the streamer's eye situation.</td>
       <td>!eye</td>
    </tr>
-    <tr>
+   <tr>
       <td>Everyone</td>
       <td>!hair</td>
       <td></td>
@@ -215,7 +215,7 @@
       <td>Explains the streamer's hair situation.</td>
       <td>!hair</td>
    </tr>
-    <tr>
+   <tr>
       <td>Everyone</td>
       <td>!wig</td>
       <td></td>
@@ -223,7 +223,7 @@
       <td>Links to the wig the streamer wears sometimes on Amazon.</td>
       <td>!wig</td>
    </tr>
-    <tr>
+   <tr>
       <td>Everyone</td>
       <td>!mustachio</td>
       <td>![mu]stache</td>
@@ -303,7 +303,7 @@
       <td>Returns the number of 24-hour streams completed by the streamer.</td>
       <td>!24s</td>
    </tr>
-    <tr>
+   <tr>
       <td>Everyone</td>
       <td>!games</td>
       <td></td>
@@ -327,7 +327,7 @@
       <td>Explains the current promotion happening on Twitch at the moment (usually pertaining to Bits), if applicable.</td>
       <td>!promo</td>
    </tr>
-    <tr>
+   <tr>
       <td>Everyone</td>
       <td>!english</td>
       <td>!eng, !lang[uage]</td>
@@ -1082,7 +1082,7 @@
       <td>Converts the given number to inches.</td>
       <td>!cm 80085</td>
    </tr>
-      <tr>
+   <tr>
       <td>Everyone</td>
       <td>!gallons</td>
       <td>!gal[lon]</td>
