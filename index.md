@@ -19,7 +19,7 @@
    </tr>
 </tfoot>
 <tbody>
-   <div style="background-color:#232323; border:2px inset #383838; display: inline-block; padding: 50px">
+   <div style="background-color:#232323; border:2px inset #383838; display: inline-block; padding: 10px">
       <div style="height:15px;"></div>
    <ul>
       <strong>
@@ -167,7 +167,6 @@
       <td style="border-bottom: 2px solid #9146FF">Returns the streamer's business email.</td>
       <td style="border-bottom: 2px solid #9146FF">!contact</td>
    </tr>
-   <div style="height:50px;"></div>
    <tr>
       <td>Everyone</td>
       <td>!hype</td>
