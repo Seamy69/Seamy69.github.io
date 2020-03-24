@@ -19,7 +19,7 @@
    </tr>
 </tfoot>
 <tbody>
-   <div style="background-color:#8ebf42">
+   <div style="background-color:#383838">
    <ul>
       <strong>
          <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
@@ -30,7 +30,6 @@
       </strong>
    </ul>
    </div>
-   <br>
    <tr>
       <td>Everyone</td>
       <td>!commands</td>
