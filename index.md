@@ -19,7 +19,7 @@
    </tr>
 </tfoot>
 <tbody>
-   <div style="background-color:#232323; border:2px inset #383838; display: inline-block; padding: 10px">
+   <div style="background-color:#232323; border:2px inset #383838; display: inline-block; padding-right: 20px; padding-left: 20px">
       <div style="height:15px;"></div>
    <ul>
       <strong>
