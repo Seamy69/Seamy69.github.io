@@ -80,7 +80,7 @@
       <td>!socials</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!links</td>
       <td>!sites, !media</td>
       <td></td>
@@ -232,7 +232,7 @@
       <td>!mustachio</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!mustachio</td>
       <td>![mu]stache</td>
       <td>on/off</td>
@@ -256,7 +256,7 @@
       <td>!mic</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!muted</td>
       <td>!mute</td>
       <td></td>
@@ -336,7 +336,7 @@
       <td>!eng</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!english</td>
       <td>!language</td>
       <td></td>
@@ -452,7 +452,7 @@
       </td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!shoutout</td>
       <td>!so, !caster, !follow, !streamer, !suggest, !raider</td>
       <td>{USERNAME}</td>
@@ -468,7 +468,7 @@
       <td>!uptime</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!uptime</td>
       <td>!up, !live, !online</td>
       <td>
@@ -494,7 +494,7 @@
       <td>!d</td>
    </tr>
    <tr>
-      <td rowspan="3"><font color="#00ad03">Moderator</font></td>
+      <td rowspan="3"><font color="#eb2f2d">Moderator</font></td>
       <td rowspan="3">!deathcounter</td>
       <td><br>!deathcount, !d[c], !death[s]<br><br></td>
       <td rowspan="3">
@@ -538,7 +538,7 @@
       <td>!count</td>
    </tr>
    <tr>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#00ad03">Moderator</font></td>
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#eb2f2d">Moderator</font></td>
       <td rowspan="3" style="border-bottom: 2px solid #9146FF">!counter</td>
       <td style="border-bottom: 2px solid #9146FF"><br>!c[ount]<br><br></td>
       <td rowspan="3" style="border-bottom: 2px solid #9146FF">
@@ -572,7 +572,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td><font color="#2fbeee">!break</font></td>
       <td></td>
       <td></td>
@@ -588,7 +588,7 @@
       <td>!brb</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!back</td>
       <td></td>
       <td></td>
@@ -604,7 +604,7 @@
       <td>!dadjoke</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!dadjoke</td>
       <td>!joke</td>
       <td>on/off</td>
@@ -632,7 +632,7 @@
       <td>!facts</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!fact</td>
       <td>!f</td>
       <td>on/off</td>
@@ -678,7 +678,7 @@
       <td>!quotes</td>
    </tr>
    <tr>
-      <td rowspan="3"><font color="#AF53D4">Subscriber</font>/<br><font color="#00ad03">Moderator</font></td>
+      <td rowspan="3"><font color="#AF53D4">Subscriber</font>/<br><font color="#eb2f2d">Moderator</font></td>
       <td rowspan="3">!quote</td>
       <td><br>!q<br><br></td>
       <td rowspan="3">
@@ -710,7 +710,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td rowspan="3"><font color="#00ad03">Moderator</font></td>
+      <td rowspan="3"><font color="#eb2f2d">Moderator</font></td>
       <td rowspan="3">!quote</td>
       <td><br>!q<br><br></td>
       <td rowspan="3">
@@ -774,7 +774,7 @@
    </tr>
    <tr></tr>
    <tr>
-      <td rowspan="3"><font color="#00ad03">Moderator</font></td>
+      <td rowspan="3"><font color="#eb2f2d">Moderator</font></td>
       <td rowspan="3">!points</td>
       <td><br>!p<br><br></td>
       <td rowspan="3">
@@ -849,7 +849,7 @@
       </td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!gamble</td>
       <td>!g</td>
       <td>on/off</td>
@@ -875,7 +875,7 @@
       </td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!slots</td>
       <td>!s</td>
       <td>on/off</td>
@@ -901,7 +901,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF"><font color="#00ad03">Moderator</font></td>
+      <td style="border-bottom: 2px solid #9146FF"><font color="#eb2f2d">Moderator</font></td>
       <td style="border-bottom: 2px solid #9146FF">!heist</td>
       <td style="border-bottom: 2px solid #9146FF">!h</td>
       <td style="border-bottom: 2px solid #9146FF">on/off</td>
@@ -917,7 +917,7 @@
       <td>!help</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!help</td>
       <td>!lifeline, !ll, !crisis, !suicid{e/al}, !suicideprevention, !sp</td>
       <td></td>
@@ -941,7 +941,7 @@
       <td>!define nihilism</td>
    </tr>
    <tr>
-      <td><font color="#AF53D4">Subscriber</font>/<br><font color="#00ad03">Moderator</font></td>
+      <td><font color="#AF53D4">Subscriber</font>/<br><font color="#eb2f2d">Moderator</font></td>
       <td>!urban</td>
       <td>!urbandictionary, !udefine, !ud</td>
       <td>{WORD/PHRASE}</td>
@@ -981,7 +981,7 @@
       <td>!stopwatch</td>
    </tr>
    <tr>
-      <td><font color="#00ad03">Moderator</font></td>
+      <td><font color="#eb2f2d">Moderator</font></td>
       <td>!stopwatch</td>
       <td>!stopclock</td>
       <td>
@@ -1099,7 +1099,7 @@
       <td style="border-bottom: 2px solid #9146FF">!L 8675309</td>
    </tr>
    <tr>
-      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#00ad03">Moderator</font></td>
+      <td rowspan="3" style="border-bottom: 2px solid #9146FF"><font color="#eb2f2d">Moderator</font></td>
       <td rowspan="3" style="border-bottom: 2px solid #9146FF">!command</td>
       <td><br>!com[mand][s], !cmd[s]<br><br></td>
       <td rowspan="3" style="border-bottom: 2px solid #9146FF">
