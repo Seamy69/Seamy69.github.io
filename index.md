@@ -522,7 +522,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px double #999999; border-top: 3px double #999999; border-left: 3px double #999999" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px dashed #999999; border-top: 3px dashed #999999; border-left: 3px dashed #999999" bgcolor="#232323" rowspan="2">
          {d/death}{+/-}
          <hr>
          {+/-}{d/death}
