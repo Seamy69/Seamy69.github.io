@@ -32,6 +32,7 @@
    </div>
    <br>
    <br>
+   <br>
    <tr>
       <td>Everyone</td>
       <td>!commands</td>
@@ -161,12 +162,12 @@
       <td>!swl</td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #9146FF">Everyone</td>
-      <td style="border-bottom: 2px solid #9146FF">!contact</td>
-      <td style="border-bottom: 2px solid #9146FF">!business, !email, !inquiry</td>
-      <td style="border-bottom: 2px solid #9146FF"></td>
-      <td style="border-bottom: 2px solid #9146FF">Returns the streamer's business email.</td>
-      <td style="border-bottom: 2px solid #9146FF">!contact</td>
+      <td style="border-bottom: 15px solid #232323">Everyone</td>
+      <td style="border-bottom: 15px solid #232323">!contact</td>
+      <td style="border-bottom: 15px solid #232323">!business, !email, !inquiry</td>
+      <td style="border-bottom: 15px solid #232323"></td>
+      <td style="border-bottom: 15px solid #232323">Returns the streamer's business email.</td>
+      <td style="border-bottom: 15px solid #232323">!contact</td>
    </tr>
    <tr>
       <td>Everyone</td>
