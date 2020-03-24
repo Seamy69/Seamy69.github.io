@@ -1115,7 +1115,7 @@
          <br>
          <font color="#f595b5">
             The [USERLEVEL] parameters are as follows:<br><br>
-            <p style="border:3px; border-style:ridge; border-color:#f595b5; padding: 1em; border-radius: 8px; width: 175px">-ul={[broad]caster/owner}[only]<br>-ul={moderator[s]/mod[s]}[only]<br>-ul={subscriber[s]/sub[s]}[only]</p>
+            <p style="border:3px; border-style:ridge; border-color:#f595b5; padding: 1em; border-radius: 8px; width: 175px">-ul={[broad]caster/owner}[only]<br>-ul={mod[erator][s]}[only]<br>-ul={sub[scriber][s]}[only]</p>
             <br>A "broadcaster" user level stipulates a command can only be used by the broadcaster.<br><br>A "moderator" user level stipulates a command can only be used by all moderators, including the broadcaster.<br><br>A "subscriber" user level stipulates a command can only be used by subscribers, all moderators, and the broadcaster.
          </font>
       </td>
