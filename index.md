@@ -22,12 +22,10 @@
    <div style="background-color:#232323; border:2px inset #383838; display: inline-block; padding-right: 20px; padding-left: 20px">
       <div style="height:15px;"></div>
    <ul>
-      <;strong>
-         <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
-         <li>Words surrounded by [square brackets] indicate an optional parameter or input.</li>
-         <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
-         <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
-      <;/strong>
+      <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
+      <li>Words surrounded by [square brackets] indicate an optional parameter or input.</li>
+      <li>Parameters in CAPS are not to be taken literally; they indicate a value pertinent to the parameter itself.</li>
+      <li>The symbols [, ], {, and } themselves are not to be included in the command.</li>
    </ul>
    </div>
    <br>
