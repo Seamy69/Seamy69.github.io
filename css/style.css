@@ -8,6 +8,7 @@ table.darkTable {
   border-collapse: collapse;
 }
 table.darkTable td, table.darkTable th {
+  border: 0px solid #232323;
   padding: 7px 7px;
   vertical-align: middle;
 }
