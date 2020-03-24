@@ -30,7 +30,7 @@
       </strong>
    </ul>
    </div>
-   <br>
+
    <tr>
       <td>Everyone</td>
       <td>!commands</td>
