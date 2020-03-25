@@ -340,7 +340,7 @@
       <td>!english</td>
       <td>!language</td>
       <td></td>
-      <td>Returns "Please speak English in chat" in six popular languanges on Twitch.<br><br><em><font color="#f595b5">Use the shortened version of the commands (!eng and !lang) to have the bot return the simplified version of the output indicated in the row above.</font></em></td>
+      <td>Returns "Please speak English in chat" in six popular languanges on Twitch (English, Spanish, French, Portuguese, Russian, and German).<br><br><em><font color="#f595b5">Use the shortened version of the commands (!eng and !lang) to have the bot return the simplified version of the output indicated in the row above.</font></em></td>
       <td>!english</td>
    </tr>
    <tr>
