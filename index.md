@@ -328,7 +328,7 @@
       <td>!promo</td>
    </tr>
    <tr>
-      <td>Everyone</td>
+      <td>Non-moderator</td>
       <td>!english</td>
       <td>!eng, !lang[uage]</td>
       <td></td>
