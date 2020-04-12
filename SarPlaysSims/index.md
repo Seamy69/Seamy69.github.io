@@ -62,7 +62,7 @@ layout: sarplayssims
    <tr>
       <td>Everyone</td>
       <td>!tumblr</td>
-      <td></td>
+      <td>!custom, !content, !cc</td>
       <td></td>
       <td>Links to the streamer's Tumblr.</td>
       <td>!tumblr</td>
@@ -202,7 +202,7 @@ layout: sarplayssims
    <tr>
       <td>Everyone</td>
       <td>!chatters</td>
-      <td>!chat[ter]count, !cc</td>
+      <td>!chat[ter]count</td>
       <td></td>
       <td>Returns the current number of users connected to the chat.</td>
       <td>!chatters</td>
