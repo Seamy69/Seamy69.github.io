@@ -6,6 +6,5 @@
       <div style="height:15px;"></div>
       <center><strong>Seriously. Why is this even a thing? There are oodles of much more capable Twitch bots out there. Feel free to message me on Twitch, Discord, Twitter, wherever for my recommendation of the best one for your channel.</strong></center>
       <br>
-      <br>
    </div>
 </tbody>
