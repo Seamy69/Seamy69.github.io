@@ -64,7 +64,7 @@ layout: sarplayssims
       <td>!tumblr</td>
       <td>!custom, !content, !cc</td>
       <td></td>
-      <td>Links to the streamer's Tumblr.</td>
+      <td>Links to the streamer's Tumblr on which custom Sims content is often posted.</td>
       <td>!tumblr</td>
    </tr>
    <tr>
