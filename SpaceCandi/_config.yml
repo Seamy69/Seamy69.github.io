@@ -1,5 +1,3 @@
-{% include spacecandiheader.html %}
-
 theme: jekyll-theme-slate
 title: Bot Command List
 description: A caboodle of commands one can use for Seamy's makeshift Twitch chat bot. 
