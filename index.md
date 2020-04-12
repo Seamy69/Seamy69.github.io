@@ -1,13 +1,10 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <table class="darkTable">
 
-<tbody>
-   
+<tbody>   
    <div style="background-color:#232323; border:2px outset #383838; display: inline-block; padding-right: 20px; padding-left: 20px">
-      <div style="height:15px;"></div>
-        Why are you here?
-   </div>
-   
+      Why are you here?
+      <br>
+      <br>
+   </div>   
 </tbody>
-
-</tr>
