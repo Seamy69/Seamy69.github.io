@@ -177,14 +177,6 @@
    </tr>
    <tr>
       <td>Everyone</td>
-      <td>!shanehype</td>
-      <td>!69[hype]</td>
-      <td></td>
-      <td>Spams almost two lines of Shane Gill's synecdochical emote, to be used in the extrememly rare event he does something hype-worthy.</td>
-      <td>!shanehype</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
       <td>!about</td>
       <td></td>
       <td></td>
@@ -220,7 +212,7 @@
       <td>!wig</td>
       <td></td>
       <td></td>
-      <td>Links to the wig the streamer wears sometimes on Amazon.</td>
+      <td>Links to the wig the streamer wears sometimes.</td>
       <td>!wig</td>
    </tr>
    <tr>
