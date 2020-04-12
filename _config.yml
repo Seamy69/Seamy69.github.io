@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
 title: SeamyBot
-description: ...Why are you here? 
+description: A caboodle of commands one can use for Seamy's makeshift Twitch chat bot.
 github:
   is_project_page: false
