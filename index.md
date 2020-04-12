@@ -514,7 +514,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
          {d/death}{+/-}
          <hr>
          {+/-}{d/death}
@@ -556,7 +556,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
          {c/count[er]}{+/-}
          <hr>
          {+/-}{c/count[er]}
@@ -654,7 +654,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
+      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
          !{search/find/lookup}quote {WORD/PHRASE}
          <hr>
          !quote{search/find/lookup} {WORD/PHRASE}
@@ -690,7 +690,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
+      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
          !addquote {QUOTE}
          <hr>
          !quoteadd {QUOTE}
@@ -1013,7 +1013,7 @@
    <tr>
       <td>Everyone</td>
       <td>!fahrenheit</td>
-      <td>!f{2/t}c, !F</td>
+      <td>!f{2/to}c, !F</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to degrees Celsius.<br><br><em><font color="#f595b5">The single-letter alias is case-sensitive.</font></em></td>
       <td>!f2c 9</td>
@@ -1021,7 +1021,7 @@
    <tr>
       <td>Everyone</td>
       <td>!celsius</td>
-      <td>!c{2/t}f, !C</td>
+      <td>!c{2/to}f, !C</td>
       <td>{NUMBER}</td>
       <td>Converts the given number to degrees Fahrenheit.<br><br><em><font color="#f595b5">The single-letter alias is case-sensitive.</font></em></td>
       <td>!C 25</td>
