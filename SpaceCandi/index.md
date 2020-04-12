@@ -1,4 +1,6 @@
 ---
+layout: post
+title: lulululul
 description: TEST
 ---
 
