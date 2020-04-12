@@ -762,7 +762,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">!give {USERNAME} {NUMBER}</td>
+      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">!give {USERNAME} {NUMBER}</td>
    </tr>
    <tr></tr>
    <tr>
@@ -802,7 +802,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
+      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
          !addpoints {USERNAME} {NUMBER}
          <hr>
          !addpoints {all/everyone/chat} {NUMBER}
@@ -1130,7 +1130,7 @@
       </td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
          !add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
          <br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
