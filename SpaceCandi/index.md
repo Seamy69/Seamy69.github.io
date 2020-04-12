@@ -1,7 +1,5 @@
 ---
 header: TEST
-footer: luuuuuul
-title: wtf
 ---
 
 <link rel="stylesheet" type="text/css" href="css/style.css">
