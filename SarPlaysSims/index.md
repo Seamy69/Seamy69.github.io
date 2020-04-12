@@ -100,22 +100,6 @@ layout: sarplayssims
       <td>!prime</td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!contact</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!business, !email, !inquiry</td>
-      <td style="border-bottom: 2px solid #F2F2F2"></td>
-      <td style="border-bottom: 2px solid #F2F2F2">Returns the streamer's business email.</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!contact</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!hype</td>
-      <td></td>
-      <td></td>
-      <td>Spams approximately three lines of channel emotes.</td>
-      <td>!hype</td>
-   </tr>
-   <tr>
       <td>Everyone</td>
       <td>!schedule</td>
       <td>!sch[ed]</td>
@@ -125,11 +109,11 @@ layout: sarplayssims
    </tr>
    <tr>
       <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!subathon</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!timer</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!hype</td>
       <td style="border-bottom: 2px solid #F2F2F2"></td>
-      <td style="border-bottom: 2px solid #F2F2F2">Details subathon rules, if applicable.</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!subathon</td>
+      <td style="border-bottom: 2px solid #F2F2F2"></td>
+      <td style="border-bottom: 2px solid #F2F2F2">Spams approximately three lines of channel emotes.</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!hype</td>
    </tr>
    <tr>
       <td>Everyone</td>
