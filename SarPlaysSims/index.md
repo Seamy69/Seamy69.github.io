@@ -255,15 +255,6 @@ layout: sarplayssims
       <td>Returns the duration the current stream has been live.</td>
       <td>!uptime</td>
    </tr>
-   
-         <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!hype</td>
-      <td style="border-bottom: 2px solid #F2F2F2"></td>
-      <td style="border-bottom: 2px solid #F2F2F2"></td>
-      <td style="border-bottom: 2px solid #F2F2F2">Spams approximately three lines of channel emotes.</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!hype</td>
-   
-   
    <tr>
       <td style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
       <td style="border-bottom: 2px solid #F2F2F2">!uptime</td>
