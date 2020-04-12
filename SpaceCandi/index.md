@@ -410,7 +410,7 @@ layout: spacecandi
    <tr>
       <td>Everyone</td>
       <td>!chatters</td>
-      <td>!chat[ter]count, !cc</td>
+      <td>!chat[ter]count</td>
       <td></td>
       <td>Returns the current number of users connected to the chat.</td>
       <td>!chatters</td>
