@@ -1,7 +1,3 @@
----
-description: TEST
----
-
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <table class="darkTable">
 <thead>
