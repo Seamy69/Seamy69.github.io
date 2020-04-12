@@ -1,6 +1,6 @@
 ---
-layout: default
-title: lulululul
+layout: spacecandi
+title: hophop
 description: TEST
 ---
 
