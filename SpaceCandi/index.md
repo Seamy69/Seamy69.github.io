@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: spacecandi
 title: hophop
 description: TEST
 ---
