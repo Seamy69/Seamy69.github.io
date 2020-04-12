@@ -23,7 +23,7 @@ layout: sarplayssims
    </tr>
 </tfoot>
 <tbody>
-   <div style="background-color:#232323; border:2px inset #383838; display: inline-block; padding-right: 20px; padding-left: 20px">
+   <div style="background-color:#232323; border:2px outset #383838; display: inline-block; padding-right: 20px; padding-left: 20px">
       <div style="height:15px;"></div>
       <ul>
          <li>Words surrounded by {curly brackets} indicate a required parameter or input.</li>
@@ -61,43 +61,27 @@ layout: sarplayssims
    </tr>
    <tr>
       <td>Everyone</td>
-      <td>!twitter</td>
+      <td>!tumblr</td>
       <td></td>
       <td></td>
-      <td>Links to the streamer's Twitter.</td>
-      <td>!twitter</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!youtube</td>
-      <td>!yt</td>
-      <td></td>
-      <td>Links to the streamer's Youtube.</td>
-      <td>!youtube</td>
+      <td>Links to the streamer's Tumblr.</td>
+      <td>!tumblr</td>
    </tr>
    <tr>
       <td>Everyone</td>
       <td>!socials</td>
       <td>!social</td>
       <td></td>
-      <td>Links to the streamer's Twitter and Instagram.</td>
+      <td>Links to the streamer's Tumblr and Instagram.</td>
       <td>!socials</td>
    </tr>
    <tr>
-      <td><font color="#19b51c">Moderator</font></td>
+      <td>Everyone</td>
       <td>!links</td>
       <td>!sites, !media</td>
       <td></td>
-      <td>Links to the streamer's Discord, Twitter, Instagram, and Youtube.</td>
+      <td>Links to the streamer's Discord, Tumblr, and Instagram.</td>
       <td>!links</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!steam</td>
-      <td></td>
-      <td></td>
-      <td>Links to the streamer's Steam profile.</td>
-      <td>!steam</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -116,54 +100,6 @@ layout: sarplayssims
       <td>!prime</td>
    </tr>
    <tr>
-      <td>Everyone</td>
-      <td>!tip</td>
-      <td>!donate</td>
-      <td></td>
-      <td>Links to Streamlabs tipping service.</td>
-      <td>!tip</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!merch</td>
-      <td>!stuff</td>
-      <td></td>
-      <td><s>Links to Streamlabs merch store for the streamer.</s><br><em><font color="#f595b5">Currently unavailable.</font></em></td>
-      <td>!merch</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!streamloots</td>
-      <td>!loot[s], !sl</td>
-      <td></td>
-      <td>Links to the streamer's Streamloots page.</td>
-      <td>!loot</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!treatstream</td>
-      <td>!treat[s], !ts</td>
-      <td></td>
-      <td>Links to the streamer's TreatStream page.</td>
-      <td>!treat</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!wishlist</td>
-      <td>!wl, !amazon</td>
-      <td></td>
-      <td>Links to the streamer's Amazon wishlist.</td>
-      <td>!wl</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!steamwishlist</td>
-      <td>!s[team]wl</td>
-      <td></td>
-      <td>Links to the streamer's Steam wishlist.</td>
-      <td>!swl</td>
-   </tr>
-   <tr>
       <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
       <td style="border-bottom: 2px solid #F2F2F2">!contact</td>
       <td style="border-bottom: 2px solid #F2F2F2">!business, !email, !inquiry</td>
@@ -176,16 +112,8 @@ layout: sarplayssims
       <td>!hype</td>
       <td></td>
       <td></td>
-      <td>Spams two lines of random channel emotes.</td>
+      <td>Spams approximately three lines of channel emotes.</td>
       <td>!hype</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!about</td>
-      <td></td>
-      <td></td>
-      <td>Returns a small introductory blurb about the streamer.</td>
-      <td>!about</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -194,118 +122,6 @@ layout: sarplayssims
       <td></td>
       <td>Returns what the streamer's stream schedule is like.</td>
       <td>!schedule</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!eye</td>
-      <td>!eyes, !lazyeye, ![eye]patch</td>
-      <td></td>
-      <td>Explains the streamer's eye situation.</td>
-      <td>!eye</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!hair</td>
-      <td></td>
-      <td></td>
-      <td>Explains the streamer's hair situation.</td>
-      <td>!hair</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!wig</td>
-      <td></td>
-      <td></td>
-      <td>Links to the wig the streamer wears sometimes.</td>
-      <td>!wig</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!mustachio</td>
-      <td>![mu]stache</td>
-      <td></td>
-      <td>Explains the streamer's mustache situation, if enabled.</td>
-      <td>!mustachio</td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!mustachio</td>
-      <td>![mu]stache</td>
-      <td>on/off</td>
-      <td>Enables/disables the !mustachio command.</td>
-      <td>!stache on</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!specs</td>
-      <td>!pc, !setup, !build</td>
-      <td></td>
-      <td><s>Returns the streamer's PC components.</s><br><em><font color="#f595b5">Currently unknown.</font></em></td>
-      <td>!specs</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!microphone</td>
-      <td>!mic</td>
-      <td></td>
-      <td>Identifies the microphone in use.</td>
-      <td>!mic</td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!muted</td>
-      <td>!mute</td>
-      <td></td>
-      <td>Attempts to politely tell the streamer they're muted.</td>
-      <td>!muted</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!headphones</td>
-      <td>!hp, !headset</td>
-      <td></td>
-      <td>Identifies the headphones in use.</td>
-      <td>!headphones</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!chair</td>
-      <td></td>
-      <td></td>
-      <td>Identifies the chair in use.</td>
-      <td>!chair</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!friendcode</td>
-      <td>!fc, !sw[itch]</td>
-      <td></td>
-      <td>Returns the streamer's friend code for the Nintendo Switch.</td>
-      <td>!fc</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!pocketcamp</td>
-      <td>!pcfc, !pcid</td>
-      <td></td>
-      <td>Returns the streamer's friend code for Animal Crossing: Pocket Camp.</td>
-      <td>!pcfc</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!24s</td>
-      <td></td>
-      <td></td>
-      <td>Returns the number of 24-hour streams completed by the streamer.</td>
-      <td>!24s</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!games</td>
-      <td></td>
-      <td></td>
-      <td>Returns a list of games played on Twitch by the streamer.</td>
-      <td>!games</td>
    </tr>
    <tr>
       <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
@@ -324,20 +140,12 @@ layout: sarplayssims
       <td>!promo</td>
    </tr>
    <tr>
-      <td>Non-moderator</td>
+      <td>Everyone</td>
       <td>!english</td>
       <td>!eng, !lang[uage]</td>
       <td></td>
       <td>Returns "Please speak English in chat".</td>
       <td>!eng</td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!english</td>
-      <td>!language</td>
-      <td></td>
-      <td>Returns "Please speak English in chat" in six popular languanges on Twitch (English, Spanish, French, Portuguese, Russian, and German).<br><br><em><font color="#f595b5">Use the shortened version of the commands (!eng and !lang) to have the bot return the simplified version of the output indicated in the row above.</font></em></td>
-      <td>!english</td>
    </tr>
    <tr>
       <td>Everyone</td>
@@ -569,355 +377,10 @@ layout: sarplayssims
    <tr></tr>
    <tr>
       <td><font color="#19b51c">Moderator</font></td>
-      <td><font color="#2fbeee">!break</font></td>
-      <td></td>
-      <td></td>
-      <td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td>
-      <td>!break</td>
-   </tr>
-   <tr>
-      <td><font color="#eb2f2d">Broadcaster</font></td>
-      <td>!brb</td>
-      <td><font color="#2fbeee">!break</font></td>
-      <td></td>
-      <td>Enables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td>
-      <td>!brb</td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!back</td>
-      <td></td>
-      <td></td>
-      <td>Disables the dadjoke, fact, quote, points, gambling, slots, and heist commands.</td>
-      <td>!back</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!dadjoke</td>
-      <td>!joke</td>
-      <td></td>
-      <td>Returns a random dad joke.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>!dadjoke</td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!dadjoke</td>
-      <td>!joke</td>
-      <td>on/off</td>
-      <td>Enables/disables the !dadjoke command.</td>
-      <td>!dadjoke on</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!fact</td>
-      <td>!f</td>
-      <td>[NUMBER]</td>
-      <td>Returns a random, [mostly] fact-checked fact. Optionally, include a number after the command for that specific fact.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>
-         !fact
-         <hr>
-         !fact 420
-      </td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!facts</td>
-      <td></td>
-      <td></td>
-      <td>Returns the total number of facts [only if not followed by a number].<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>!facts</td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!fact</td>
-      <td>!f</td>
-      <td>on/off</td>
-      <td>Enables/disables the !fact commands.</td>
-      <td>!fact on</td>
-   </tr>
-   <tr>
-      <td rowspan="3">Everyone</td>
-      <td rowspan="3">!quote</td>
-      <td><br>!q<br><br></td>
-      <td rowspan="3">
-         [NUMBER]
-         <hr>
-         search/find/lookup {WORD/PHRASE}
-         <hr>
-         help
-      </td>
-      <td rowspan="3">Returns a random streamer quote. Optionally, for a specific quote, either include a number after the command or search for the quote via word or phrase. Also, the first two words of this command [when using the search parameter] can be interchanged.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td rowspan="3">
-         !quote
-         <hr>
-         !q 99
-         <hr>
-         !quote search dingus
-         <hr>
-         !findquote dingus
-      </td>
-   </tr>
-   <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
-         !{search/find/lookup}quote {WORD/PHRASE}
-         <hr>
-         !quote{search/find/lookup} {WORD/PHRASE}
-      </td>
-   </tr>
-   <tr></tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!quotes</td>
-      <td></td>
-      <td></td>
-      <td>Returns the total number of quotes [only if not followed by a number or any of the manipulative parameters indicated below].<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>!quotes</td>
-   </tr>
-   <tr>
-      <td rowspan="3"><font color="#AF53D4">Subscriber</font>/<br><font color="#19b51c">Moderator</font></td>
-      <td rowspan="3">!quote</td>
-      <td><br>!q<br><br></td>
-      <td rowspan="3">
-         add/+ {QUOTE}
-      </td>
-      <td rowspan="3">Allows for the adding of quotes by moderators. Subscribers can submit quotes to a queue for review. Also, the first two words of this command can be interchanged.</td>
-      <td rowspan="3">
-         !quote add Seamy's a dingus.
-         <hr>
-         !add quote Seamy's a dingus.
-         <hr>
-         !addquote Seamy's a dingus.
-         <hr>
-         !quoteadd Seamy's a dingus.
-         <hr>
-         +q Seamy's a dingus.
-      </td>
-   </tr>
-   <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">
-         !addquote {QUOTE}
-         <hr>
-         !quoteadd {QUOTE}
-         <hr>
-         {q/quote}+ {QUOTE}
-         <hr>
-         +{q/quote} {QUOTE}
-      </td>
-   </tr>
-   <tr></tr>
-   <tr>
-      <td rowspan="3"><font color="#19b51c">Moderator</font></td>
-      <td rowspan="3">!quote</td>
-      <td><br>!q<br><br></td>
-      <td rowspan="3">
-         on/off
-         <hr>
-         del[ete]/- {NUMBER}
-         <hr>
-         rem[ove]/- {NUMBER}
-      </td>
-      <td rowspan="3">Enables/disables the !quote commands. Also, allows for the removal of quotes. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f595b5">Quotes may be added at any time regardless of whether the !quote commands are enabled or disabled.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
-      <td rowspan="3">
-         !quote off
-         <hr>
-         !q rem 9
-         <hr>
-         !quote delete 9
-         <hr>
-         !delquote 9
-         <hr>
-         !del q 9
-         <hr>
-         q- 9
-      </td>
-   </tr>
-   <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
-         !del[ete]quote {NUMBER}
-         <hr>
-         !quoterem[ove] {NUMBER}
-         <hr>
-         {q/quote}- {NUMBER}
-         <hr>
-         -{q/quote} {NUMBER}
-      </td>
-   </tr>
-   <tr></tr>
-   <tr>
-      <td rowspan="3">Everyone</td>
-      <td rowspan="3">!points</td>
-      <td><br>!p<br><br></td>
-      <td rowspan="3">
-         [USERNAME]
-         <hr>
-         give {USERNAME} {NUMBER}
-         <hr>
-         help
-      </td>
-      <td rowspan="3">Returns the number of arbitrary points the [indicated] user has in the channel. Also, any user may give any amount of their points to any other twitch user by using the "give" parameter.<br><br><em><font color="#f595b5">Not related to Channel Points.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td rowspan="3">
-         !points
-         <hr>
-         !points Seamy
-         <hr>
-         !points give Seamy 6969
-         <hr>
-         !give Seamy 6969
-      </td>
-   </tr>
-   <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#232323" rowspan="2">!give {USERNAME} {NUMBER}</td>
-   </tr>
-   <tr></tr>
-   <tr>
-      <td rowspan="3"><font color="#19b51c">Moderator</font></td>
-      <td rowspan="3">!points</td>
-      <td><br>!p<br><br></td>
-      <td rowspan="3">
-         on/off
-         <hr>
-         add/+ {USERNAME} {NUMBER}
-         <hr>
-         add/+ {all/everyone/chat} {NUMBER}
-         <hr>
-         rem[ove]/- {USERNAME} {NUMBER}
-         <hr>
-         set {USERNAME} {NUMBER}
-         <hr>
-         reset [USERNAME]
-      </td>
-      <td rowspan="3">Enables/disables the !points commands (users will still accumulate points). Also, allows several means of manipulating users' point totals, either individually or as a whole. Also also, the first two words of this command can be interchanged (with the exception of the on/off parameters).<br><br><em><font color="#f595b5">Not related to Channel Points.</font></em><br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually and with the exception of the on/off parameters).</font></em></td>
-      <td rowspan="3">
-         !points add Seamy 6969
-         <hr>
-         !add points Seamy 6969
-         <hr>
-         !addpoints Seamy 6969
-         <hr>
-         p+ Seamy 6969
-         <hr>
-         !add points everyone 6969
-         <hr>
-         !points set Seamy 6969
-         <hr>
-         !points reset Seamy
-         <hr>
-         !points reset
-      </td>
-   </tr>
-   <tr>
-      <td style="border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
-         !addpoints {USERNAME} {NUMBER}
-         <hr>
-         !addpoints {all/everyone/chat} {NUMBER}
-         <hr>
-         !rem[ove]points {USERNAME} {NUMBER}
-         <hr>
-         !setpoints {USERNAME} {NUMBER}
-         <hr>
-         !resetpoints {USERNAME}
-         <hr>
-         {p/points}{+/-} {USERNAME} {NUMBER}
-         <hr>
-         {+/-}{p/points} {USERNAME} {NUMBER}
-      </td>
-   </tr>
-   <tr>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!gamble</td>
-      <td>!g</td>
-      <td>
-         {NUMBER}
-         <hr>
-         all/a {lot/bunch}/some/a {little/bit}
-         <hr>
-         help
-      </td>
-      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the gambling minigame.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>
-         !gamble 420
-         <hr>
-         !gamble all
-         <hr>
-         !gamble a little
-      </td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!gamble</td>
-      <td>!g</td>
-      <td>on/off</td>
-      <td>Enables/disables the !gamble commands.</td>
-      <td>!gamble on</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!slots</td>
-      <td>!s</td>
-      <td>
-         {NUMBER}
-         <hr>
-         all
-         <hr>
-         help
-      </td>
-      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the slots minigame.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>
-         !slots 999
-         <hr>
-         !slots all
-      </td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
-      <td>!slots</td>
-      <td>!s</td>
-      <td>on/off</td>
-      <td>Enables/disables the !slots commands.</td>
-      <td>!slots off</td>
-   </tr>
-   <tr>
-      <td>Everyone</td>
-      <td>!heist</td>
-      <td>!h</td>
-      <td>
-         {NUMBER}
-         <hr>
-         all
-         <hr>
-         help
-      </td>
-      <td>Allows one to use the arbitrary points they've accumulated through the bot to play the bank heisting minigame.<br><br><em><font color="#2fbeee">Only available during breaks (unless enabled manually).</font></em></td>
-      <td>
-         !heist 42069
-         <hr>
-         !heist all
-      </td>
-   </tr>
-   <tr>
-      <td style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
-      <td style="border-bottom: 2px solid #F2F2F2">!heist</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!h</td>
-      <td style="border-bottom: 2px solid #F2F2F2">on/off</td>
-      <td style="border-bottom: 2px solid #F2F2F2">Enables/disables the !heist commands.</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!heist off</td>
-   </tr>
-   <tr>
-      <td>Non-moderator</td>
-      <td>!help</td>
-      <td></td>
-      <td></td>
-      <td>Links to this page.</td>
-      <td>!help</td>
-   </tr>
-   <tr>
-      <td><font color="#19b51c">Moderator</font></td>
       <td>!help</td>
       <td>!lifeline, !ll, !crisis, !suicid{e/al}, !suicideprevention, !sp</td>
       <td></td>
-      <td>Returns the number for the National Suicide Prevention Lifeline, as well as links to other international-friendly resources.</td>
+      <td>Links to international-friendly resources for those struggling.</td>
       <td>!help</td>
    </tr>
    <tr>
