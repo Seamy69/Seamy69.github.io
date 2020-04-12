@@ -1,3 +1,8 @@
+---
+title: Bot Command List
+description: A caboodle of commands one can use for Seamy's makeshift Twitch chat bot.  
+---
+
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <table class="darkTable">
 <thead>
