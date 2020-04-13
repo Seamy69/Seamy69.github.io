@@ -307,9 +307,9 @@ layout: sarplayssims
    </tr>
    <tr>
       <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
-         b{+/-}
+         [!]b{+/-}
          <hr>
-         {+/-}b
+         [!]{+/-}b
       </td>
    </tr>
    <tr></tr>  
