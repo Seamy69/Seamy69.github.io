@@ -368,7 +368,7 @@ layout: sarplayssims
       <td style="border-bottom: 2px solid #F2F2F2">
          !countdown 6min
          <hr>
-         !cd 6m Feed Todd Howard!
+         !cd 6m Kill Bella Goth!
          <hr>
          !cd 6mins9s
          <hr>
