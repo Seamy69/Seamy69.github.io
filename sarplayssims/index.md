@@ -274,9 +274,9 @@ layout: sarplayssims
       </td>
    </tr>
    <tr>
-      <td><font color="#19b51c">Moderator</font></td>
+      <td>Everyone</td>
       <td>!help</td>
-      <td>!lifeline, !ll, !crisis, !suicid{e/al}, !suicideprevention, !sp</td>
+      <td></td>
       <td></td>
       <td>Links to international-friendly resources for those struggling.</td>
       <td>!help</td>
