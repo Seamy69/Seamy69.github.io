@@ -228,12 +228,12 @@ layout: sarplayssims
       </td>
    </tr>
    <tr>
-      <td>Everyone</td>
-      <td>!followage</td>
-      <td>!howlong, !hl, !since</td>
-      <td>[USERNAME]</td>
-      <td>Returns the duration since and the date the [indicated] user followed the channel.</td>
-      <td>
+      <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!followage</td>
+      <td style="border-bottom: 2px solid #F2F2F2">!howlong, !hl, !since</td>
+      <td style="border-bottom: 2px solid #F2F2F2">[USERNAME]</td>
+      <td style="border-bottom: 2px solid #F2F2F2">Returns the duration since and the date the [indicated] user followed the channel.</td>
+      <td style="border-bottom: 2px solid #F2F2F2">
          !howlong
          <hr>
          !followage Seamy
@@ -256,16 +256,16 @@ layout: sarplayssims
       <td>!uptime</td>
    </tr>
    <tr>
-      <td style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
-      <td style="border-bottom: 2px solid #F2F2F2">!uptime</td>
-      <td style="border-bottom: 2px solid #F2F2F2">!up, !live, !online</td>
-      <td style="border-bottom: 2px solid #F2F2F2">
+      <td><font color="#19b51c">Moderator</font></td>
+      <td>!uptime</td>
+      <td>!up, !live, !online</td>
+      <td>
          set {TIME IN STREAMER'S TIMEZONE}
          <hr>
          stop/end/remove/reset/unset
       </td>
-      <td style="border-bottom: 2px solid #F2F2F2">Creates or removes a custom uptime in the event of a crashed or split stream.</td>
-      <td style="border-bottom: 2px solid #F2F2F2">
+      <td>Creates or removes a custom uptime in the event of a crashed or split stream.</td>
+      <td>
          !uptime set 4:20 p.m.
          <hr>
          !uptime set 16:20
@@ -273,6 +273,46 @@ layout: sarplayssims
          !uptime set 4pm
       </td>
    </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!babycounter</td>
+      <td>!baby[count], !b[abies]</td>
+      <td></td>
+      <td>Returns the current number of babies popped out during the 100 Baby Challenge.</td>
+      <td>!babies</td>
+   </tr>
+   <tr>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">!babycounter</td>
+      <td style="border-bottom: 2px solid #F2F2F2"><br>!baby[count], !b[abies]<br><br></td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
+         add/inc[rease]/+
+         <hr>
+         rem[ove]/dec[rease]/-
+         <hr>
+         set {NUMBER}
+         <hr>
+         reset/unset
+      </td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">Allows several means of manipulating the baby counter.</td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
+         !babies +
+         <hr>
+         !b remove
+         <hr>
+         !b+
+         <hr>
+         -b
+      </td>
+   </tr>
+   <tr>
+      <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
+         b{+/-}
+         <hr>
+         {+/-}b
+      </td>
+   </tr>
+   <tr></tr>  
    <tr>
       <td>Everyone</td>
       <td>!help</td>
