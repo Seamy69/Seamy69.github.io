@@ -116,7 +116,7 @@
       <td>!rules</td>
       <td></td>
       <td></td>
-      <td>Links to the current challenge rules, if applicable.</td>
+      <td>Links to the current challenge's rules, if applicable.</td>
       <td>!rules</td>
    </tr>
    <tr>
