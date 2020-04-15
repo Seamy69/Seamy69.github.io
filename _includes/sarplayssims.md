@@ -117,7 +117,7 @@
       <td></td>
       <td></td>
       <td>Links to the current challenge rules, if applicable.</td>
-      <td>!packs</td>
+      <td>!rules</td>
    </tr>
    <tr>
       <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
