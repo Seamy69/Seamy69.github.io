@@ -104,6 +104,22 @@
       <td>!schedule</td>
    </tr>
    <tr>
+      <td>Everyone</td>
+      <td>!packs</td>
+      <td>!expansions</td>
+      <td></td>
+      <td>Returns the names of The Sims 4 packs the broadcaster owns (and doesn't own).</td>
+      <td>!packs</td>
+   </tr>
+   <tr>
+      <td>Everyone</td>
+      <td>!rules</td>
+      <td></td>
+      <td></td>
+      <td>Links to the current challenge rules, if applicable.</td>
+      <td>!packs</td>
+   </tr>
+   <tr>
       <td style="border-bottom: 2px solid #F2F2F2">Everyone</td>
       <td style="border-bottom: 2px solid #F2F2F2">!hype</td>
       <td style="border-bottom: 2px solid #F2F2F2"></td>
