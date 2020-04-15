@@ -58,7 +58,7 @@
    <tr>
       <td>Everyone</td>
       <td>!tumblr</td>
-      <td>!custom, !content, !cc</td>
+      <td>!cc</td>
       <td></td>
       <td>Links to the streamer's Tumblr on which custom Sims content is often posted.</td>
       <td>!tumblr</td>
