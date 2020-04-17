@@ -937,7 +937,7 @@
       <td>!urban</td>
       <td>!urbandictionary, !udefine, !ud</td>
       <td>{WORD/PHRASE}</td>
-      <td>Returns the urban definition of the word or phrase in question.<br><br><em><font color="#f595b5">Abusers of this command or unfortunate/offensive definitions will be subject to a timeout/purge.</font></em></td>
+      <td>Returns the urban definition of the word or phrase in question.<br><br><em><font color="#f595b5">Abusers of this command will be subject to a timeout.</font></em></td>
       <td>!urban nihilism</td>
    </tr>
    <tr>
