@@ -132,7 +132,7 @@
       <td>!streamloots</td>
       <td>!loot[s], !sl</td>
       <td></td>
-      <td>Links to the streamer's Streamloots page.</td>
+      <td><s>Links to the streamer's Streamloots page.</s><br><em><font color="#f595b5">Currently unavailable.</font></em></td>
       <td>!loot</td>
    </tr>
    <tr>
