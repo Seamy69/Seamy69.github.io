@@ -292,7 +292,7 @@
       <td>!24s</td>
       <td></td>
       <td></td>
-      <td>Returns the number of 24-hour streams completed by the streamer.</td>
+      <td>Returns a list and the number of 24-hour streams completed by the streamer.</td>
       <td>!24s</td>
    </tr>
    <tr>
@@ -1092,8 +1092,8 @@
    </tr>
    <tr>
       <td rowspan="3" style="border-bottom: 2px solid #F2F2F2"><font color="#19b51c">Moderator</font></td>
-      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">!command</td>
-      <td><br>!com[mand][s], !cmd[s]<br><br></td>
+      <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">!!command</td>
+      <td><br>!!com[mand][s], !!cmd[s]<br><br></td>
       <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
          add {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
@@ -1112,30 +1112,30 @@
          </font>
       </td>
       <td rowspan="3" style="border-bottom: 2px solid #F2F2F2">
-         !addcom !test This is a test command.
+         !!addcom !test This is a test command.
          <hr>
-         !command add !test This is a test command.
+         !!command add !test This is a test command.
          <hr>
-         !add command !test This is a test command.
+         !!add command !test This is a test command.
          <hr>
-         !command add !test -ul=moderator This is a test command for mods.
+         !!command add !test -ul=moderator This is a test command for mods.
          <hr>
-         !edit command !test -ul=subsonly This is an edited test command for subs.
+         !!edit command !test -ul=subsonly This is an edited test command for subs.
          <hr>
-         !cmd fix !test -ul=sub This is an edited test command for subs.
+         !!cmd fix !test -ul=sub This is an edited test command for subs.
          <hr>
-         !command delete !test
+         !!command delete !test
          <hr>
-         !delcom !test
+         !!delcom !test
       </td>
    </tr>
    <tr>
       <td style="border-bottom: 2px solid #F2F2F2; border-right: 3px dashed #909090; border-top: 3px dashed #909090; border-left: 3px dashed #909090" bgcolor="#383838" rowspan="2">
-         !add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
+         !!add{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
-         <br>!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
+         <br>!!{edit/change/fix}{com[mand][s]/cmd[s]} {COMMAND NAME} [USERLEVEL] {COMMAND OUTPUT}<br><br>
          <hr>
-         <br>!{del[ete]/rem[ove]}{com[mand][s]/cmd[s]} {COMMAND NAME}
+         <br>!!{del[ete]/rem[ove]}{com[mand][s]/cmd[s]} {COMMAND NAME}
       </td>
    </tr>
    <tr></tr>
